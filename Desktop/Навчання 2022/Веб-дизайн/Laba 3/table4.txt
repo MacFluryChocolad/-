@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <title>408-ІПЗ</title>
+	</head>
+<body>
+    <main>
+   <table style= cellpadding="5px" width="45%" align="center" border="1">
+   	<tbody>
+		<tr>
+			<td colspan="8"><H1 align="center">РОЗКЛАД</H1>
+<H2 align="center">руху пасажирських поїздів станції ЛУГАНСЬК на 2002 - 2003 р.</H2>
+</td>
+		</tr>
+		<tr>
+			<td rowspan="2">№</td>
+			<td rowspan="2">найменування
+поїзд
+</td>
+			<td colspan="3">часи, години</td>
+			<td rowspan="2">прибуття
+в кінцевий
+пункт</td>
+			<td rowspan="2">відправлення з
+кінцевого
+пункту</td>
+			<td rowspan="2">дні
+слідування</td>
+		</tr>
+		<tr>
+			<td>прибуття</td>
+			<td>стоянка</td>
+			<td>відправлення</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>Луганськ - Київ</td>
+			<td>16.00</td>
+			<td>0.48</td>
+			<td>16.48</td>
+			<td>15.17</td>
+			<td></td>
+			<td>по непарним</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>Київ - Луганськ</td>
+			<td>18.40</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>23.35</td>
+			<td>по непарним</td>
+		</tr>
+		<tr>
+			<td colspan="8"align="center">БЕЗПЕРЕСАДОЧНІ ВАГОНИ</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>Луганськ - Київ</td>
+			<td></td>
+			<td>18.00</td>
+			<td>09.56</td>
+			<td></td>
+			<td></td>
+			<td>по парним</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>Київ - Луганськ</td>
+			<td>11.42</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>13.30</td>
+			<td>по парним</td>
+		</tr>
+	</tbody>
+</table>
+    </main>
+</body>
+</html>

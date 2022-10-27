@@ -1,0 +1,73 @@
+11:37:16 PM|Info|Core.Initialize >> HDT: 1.18.23.5971, Operating System: Windows 10 Enterprise 19043, .NET Framework: 528372
+11:37:16 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+11:37:16 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+11:37:17 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+11:37:18 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:37:18 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:37:18 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+11:37:19 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+11:37:19 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+11:37:19 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+11:37:19 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+11:37:19 PM|Info|GameV2.Reset >> -------- Reset ---------
+11:37:24 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:37:24 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:37:24 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:37:24 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:37:25 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:37:25 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:37:26 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:37:26 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+11:37:29 PM|Info|GameV2.Reset >> -------- Reset ---------
+11:37:30 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+11:37:31 PM|Info|BackupManager.Run >> Running BackupManager
+11:37:31 PM|Info|BackupManager.Run >> Deleting old backup: Backup_29092022.zip
+11:37:31 PM|Info|BackupManager.Run >> Creating backup for today
+11:37:31 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+11:37:31 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'F:\Hearthstone\Logs'
+11:37:31 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+11:37:32 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=1281, ServerTS=10/15/2022 7:19:23 PM, Downloaded=10/16/2022 12:26:47 AM Age=3.23:10:44.3684751
+11:37:32 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+11:37:32 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+11:37:32 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is not claimed
+11:37:32 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+11:37:32 PM|Info|HsReplayDecks.Load >> Complete: Count=1284, ServerTS=10/19/2022 7:59:41 PM, Downloaded=10/19/2022 11:37:32 PM Age=00:00:00.0089977
+11:37:40 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetAccountIdInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+11:37:41 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+11:37:42 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetAccountIdInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+11:37:45 PM|... 1 duplicate messages
+11:37:45 PM|Info|GameV2.CurrentMode >> LOGIN
+11:37:46 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+11:37:46 PM|Info|Helper.GetCurrentRegion >> Region: EU
+11:37:46 PM|Info|BackupManager.Run >> Running BackupManager
+11:37:46 PM|Info|BackupManager.Run >> Backup for today already exists
+11:37:46 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+11:37:55 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+11:41:51 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+11:57:18 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:57:18 PM|Info|Updater.SquirrelUpdate >> No new updated available
+12:11:51 AM|Info|GameV2.CurrentMode >> FATAL_ERROR
+12:17:17 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:17:18 AM|Info|Updater.SquirrelUpdate >> No new updated available
+12:37:18 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:37:18 AM|Info|Updater.SquirrelUpdate >> No new updated available
+12:57:18 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:57:18 AM|Info|Updater.SquirrelUpdate >> No new updated available
+1:17:18 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:17:18 AM|Info|Updater.SquirrelUpdate >> No new updated available
+1:37:17 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:37:19 AM|Info|Updater.SquirrelUpdate >> No new updated available
+1:57:17 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:57:17 AM|Info|Updater.SquirrelUpdate >> No new updated available
+1:59:22 AM|Info|Core.UpdateOverlayAsync >> Exited game
+1:59:22 AM|Info|Core.UpdateOverlayAsync >> Reset region
+1:59:22 AM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+1:59:22 AM|Info|GameV2.Reset >> -------- Reset ---------
+1:59:23 AM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'F:\Hearthstone\Logs'
+1:59:35|Info|MainWindow.Window_Closing >> Shutting down...

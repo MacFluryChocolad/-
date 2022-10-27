@@ -1,0 +1,9 @@
+Initialize engine version: 2018.4.12f1 (59ddc4c59b4f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX550/550 Series (ID=0x699f)
+    Vendor:   
+    VRAM:     4076 MB
+    Driver:   30.0.13023.4001
+Begin MonoManager ReloadAssembly

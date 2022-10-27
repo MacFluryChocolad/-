@@ -1,0 +1,27 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+	<title>Моє хоббі</title>
+	<style>
+	body {
+		background-image:url(фон.jpg); 
+		background-attachment: fixed;	
+		background-size: 100%;	
+   }
+     .leftimg {
+		float:left;
+		margin: 7px 7px 7px 0; 
+   }
+   .rightimg  {
+		float: right; 
+		margin: 7px 0 7px 7px;
+   }
+	</style>
+</head>
+<body>
+<dl compact>
+<dt>Моє хоббі<dd>прогулюватись по незнайомим мені місцям.
+</dl>
+
+</body>
+</html>

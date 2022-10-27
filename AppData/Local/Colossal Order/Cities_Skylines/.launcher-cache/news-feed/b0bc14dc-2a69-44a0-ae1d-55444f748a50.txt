@@ -1,0 +1,106 @@
+{
+  "feedVersion": "2.1",
+  "context": "cities_v2-epic",
+  "slotTypes": [
+    {
+      "slotType": "main",
+      "mixedContent": [
+        {
+          "id": "034ebb54-b1c6-46e4-88ae-28b0317bda5b",
+          "contentType": "image",
+          "settings": {
+            "weight": 1,
+            "visible": {
+              "from": "2020-12-16T21:00:00Z",
+              "until": "2029-05-14T17:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5fdb088c8919ac645a811017/original.jpg",
+              "opacity": 100
+            },
+            "link": {
+              "href": "https://www.youtube.com/watch?v=WhtN_DiK1sk&list=PL6kotTknxXVQ6fHBt-VhJ5wexm7SJt2MV"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slotType": "secondary",
+      "contentGroups": [],
+      "mixedContent": [
+        {
+          "id": "24363014-8d1b-4e03-b046-8a189301d1a3",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1,
+            "targetSlot": "secondary-1",
+            "visible": {
+              "from": "2020-12-16T08:36:00Z",
+              "until": "2030-03-29T15:10:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5fdb181b2213594960a74039/original.png"
+            },
+            "link": {
+              "href": "https://signups.citiesskylines.com/?utm_source=launcher-cspc&utm_medium=launcherv2&utm_content=sec1&utm_campaign=20201217"
+            }
+          }
+        },
+        {
+          "id": "6009a18c-1df0-47c7-8850-0bff412c2039",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1,
+            "targetSlot": "secondary-2",
+            "visible": {
+              "from": "2020-12-16T17:00:00Z",
+              "until": "2029-10-22T15:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5fdb088c2213594e5aa73f41/original.jpg"
+            },
+            "link": {
+              "href": "https://www.youtube.com/playlist?list=PL6kotTknxXVQB9w0SdqnuQIdAMDctZDYo"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slotType": "expand",
+      "mixedContent": []
+    },
+    {
+      "slotType": "expand_wide",
+      "mixedContent": []
+    }
+  ]
+}

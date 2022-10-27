@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <title>408-ІПЗ</title>
+	</head>
+<body>
+<div align="center"><H1 style="color:#000000;"> Магазин «Шкільний світ» пропонує підручники: </H1>
+    <main>
+   <table style= cellpadding="5px" width="45%" align="center" border="1">
+   	<tbody>
+		<tr>
+			<td>Предмет</td>
+			<td>Розділ</td>
+			<td>Класи</td>
+		</tr>
+		<tr>
+			<td rowspan="5">Математика</td>
+			<td>Арифметика</td>
+			<td>1-4</td>
+		</tr>
+		<tr>
+			<td>Алгебра</td>
+			<td>5-11</td>
+		</tr>
+		<tr>
+			<td>Геометрія</td>
+			<td>7-11</td>
+		</tr>
+		<tr>
+			<td>Тригонометрія</td>
+			<td>10-11</td>
+		</tr>
+		<tr>
+			<td colspan="2">Кількість найменувань = 1090</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Фізика</td>
+			<td>Механіка</td>
+			<td>5-7</td>
+		</tr>
+		<tr>
+			<td>Електрика</td>
+			<td>7-9</td>
+		</tr>
+		<tr>
+			<td>Оптика</td>
+			<td>10-11</td>
+		</tr>
+		<tr>
+			<td colspan="2">Кількість найменувань = 457</td>
+		</tr>
+	</tbody>
+</table>
+    </main>
+</body>
+</html>

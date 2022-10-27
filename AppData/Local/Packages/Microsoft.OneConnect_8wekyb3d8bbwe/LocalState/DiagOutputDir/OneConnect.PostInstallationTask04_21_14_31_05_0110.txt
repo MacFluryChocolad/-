@@ -1,0 +1,13 @@
+04/21/2022 14:31:05.81	Information	DataMartConfig.json not found
+04/21/2022 14:31:05.85	Error	LPA creation failed with no modem found.
+04/21/2022 14:31:05.85	Error	Modem not found
+04/21/2022 14:31:05.85	Error	BackgroundTaskInitialize returned ModemNotFound
+04/21/2022 14:31:05.86	Information	DataMartConfig.json not found
+04/21/2022 14:31:05.87	Information	Setting up Discovery notification from post installation task.
+04/21/2022 14:31:05.94	Information	Existing registraion with name OneConnect.DiscoveryNotificationTask was found and replaced
+04/21/2022 14:31:05.94	Information	Unregistering task with name: OneConnect.DiscoveryNotificationTask
+04/21/2022 14:31:05.96	Information	Registered task with name: OneConnect.DiscoveryNotificationTask
+04/21/2022 14:31:05.99	Information	Setting up toast notification action from post installation task.
+04/21/2022 14:31:06.01	Information	Existing registraion with name OneConnect.ToastNotificationActionTask was found and replaced
+04/21/2022 14:31:06.01	Information	Unregistering task with name: OneConnect.ToastNotificationActionTask
+04/21/2022 14:31:06.03	Information	Registered task with name: OneConnect.ToastNotificationActionTask

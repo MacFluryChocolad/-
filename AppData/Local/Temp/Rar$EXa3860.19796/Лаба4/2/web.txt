@@ -1,0 +1,11 @@
+<HTML>
+	<HEAD>
+		<TITLE>Демонстрація фреймів</TITLE>
+	</HEAD>
+		<FRAMESET COLS="25%, 25%, 25%, 25%">
+			<FRAME SRC="k1-1.html">
+			<FRAME SRC="k2-1.html">
+			<FRAME SRC="k3-1.html">
+			<FRAME SRC="k4-1.html">
+		</FRAMESET>
+</HTML>

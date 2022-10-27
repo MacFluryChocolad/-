@@ -1,0 +1,7 @@
+<HTML>
+	<HEAD>
+		<TITLE>Кадр. Сторінка 1</TITLE>
+	</HEAD>
+		<BODY BGCOLOR="#FF00FF">
+		</BODY>
+</HTML>

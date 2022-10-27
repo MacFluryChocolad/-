@@ -1,0 +1,5790 @@
+Initialize engine version: 2018.4.36f1 (6cd387d23174)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX550/550 Series (ID=0x699f)
+    Vendor:   
+    VRAM:     4075 MB
+    Driver:   31.0.12019.15004
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+UnloadTime: 1.450500 ms
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+F:/Gwent/Gwent/Gwent_Data/StreamingAssets/
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentVisuals.IoUtils:Init()
+GwentUnity.<Start>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Admin/AppData/LocalLow/CDProjektRED/Gwent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentVisuals.IoUtils:Init()
+GwentUnity.<Start>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Admin/AppData/Local/Temp/CDProjektRED/Gwent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentUnity.<Start>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+LaunchTimestamp SplashScreenAwake timeStamp:0 diff:0
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+GwentVisuals.LaunchTimer:MarkTimestamp(String)
+GwentUnity.<Start>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Initialized FontManager: True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentUnity.SplashScreenApplicationState:HandleLaunchControlManagerInitialzied()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+GwentUnity.<Start>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Launch config has been initialized
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentUnity.LaunchConfig:InitIfNeeded()
+GwentUnity.LaunchConfig:GetBoolean(String, Boolean)
+GwentUnity.SplashScreenApplicationState:HandleLaunchControlManagerInitialzied()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+GwentUnity.<Start>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+LaunchTimestamp SplashScreen LoadGlobal timeStamp:750 diff:750
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+GwentVisuals.LaunchTimer:MarkTimestamp(String)
+GwentUnity.SplashScreenApplicationState:OnAnimationEvent(EventTag)
+DG.Tweening.Core.DOSetter`1:Invoke(T)
+RedTools.Event`1:Invoke(T0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+The referenced script (Unknown) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object 'SteamManager') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'PlatformServiceManagers') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object '_MobileManager') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object '_MobileManager') is missing!
+ 
+(Filename:  Line: 294)
+
+Shader 'TextMeshPro/CardPower': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while AbilityIconsBig requested.
+ 
+(Filename:  Line: 231)
+
+Rewired: Searching for compatible XInput library...
+UnityEngine.Logger:Log(String, Object)
+Rewired.Logger:Log(Object, Boolean)
+mVTRabnBOlWnNjQLTBYMvPXaKIt:.ctor(Boolean, UpdateLoopSetting, Func`2, Func`1)
+daVuWATBWLCLOZvaFZSrmnQtuEc:PzlnTlCTtLkVEJOMnEUyyvRtaIS(ConfigVars, Boolean)
+daVuWATBWLCLOZvaFZSrmnQtuEc:.ctor(ConfigVars, Func`2, Func`1)
+Rewired.InputManagers.Initializer:Initialize(ConfigVars)
+rwaDihEwWXDsQDpAlRsSBOvTCMTi:OVHKFrqDEVuwzFweyOUtQaOjbBy(String, List`1, ConfigVars)
+System.Xml.Linq.ExtractKeyDelegate:Invoke(TValue)
+Rewired.ReInput:pxlFeWmhCSVdwuufeCAjJPaHdZu(Func`2)
+Rewired.ReInput:OVHKFrqDEVuwzFweyOUtQaOjbBy(InputManager_Base, Func`2, ConfigVars, ControllerDataFiles, UserData)
+Rewired.InputManager_Base:Initialize()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Rewired: Found Xinput1_4.dll.
+UnityEngine.Logger:Log(String, Object)
+Rewired.Logger:Log(Object, Boolean)
+mVTRabnBOlWnNjQLTBYMvPXaKIt:.ctor(Boolean, UpdateLoopSetting, Func`2, Func`1)
+daVuWATBWLCLOZvaFZSrmnQtuEc:PzlnTlCTtLkVEJOMnEUyyvRtaIS(ConfigVars, Boolean)
+daVuWATBWLCLOZvaFZSrmnQtuEc:.ctor(ConfigVars, Func`2, Func`1)
+Rewired.InputManagers.Initializer:Initialize(ConfigVars)
+rwaDihEwWXDsQDpAlRsSBOvTCMTi:OVHKFrqDEVuwzFweyOUtQaOjbBy(String, List`1, ConfigVars)
+System.Xml.Linq.ExtractKeyDelegate:Invoke(TValue)
+Rewired.ReInput:pxlFeWmhCSVdwuufeCAjJPaHdZu(Func`2)
+Rewired.ReInput:OVHKFrqDEVuwzFweyOUtQaOjbBy(InputManager_Base, Func`2, ConfigVars, ControllerDataFiles, UserData)
+Rewired.InputManager_Base:Initialize()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GOG language is: russian
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Localization.LocalizationDictionary:GetGOGGalaxyLanguage()
+GwentUnity.SettingsDefaults:.cctor()
+GwentUnity.SettingsRegistry:LoadDefaultSettings()
+GwentUnity.SettingsRegistry:Initialize()
+GwentVisuals.GwentApp:LoadData()
+GwentVisuals.ASingleton`1:InitOnce()
+GwentVisuals.ASingleton`1:get_Instance()
+GwentVisuals.CollectionManager:Init()
+GwentVisuals.ASingleton`1:InitOnce()
+GwentVisuals.ASingleton`1:Awake()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GOG language is: russian
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Localization.LocalizationDictionary:GetGOGGalaxyLanguage()
+GwentUnity.SettingsDefaults:.cctor()
+GwentUnity.SettingsRegistry:LoadDefaultSettings()
+GwentUnity.SettingsRegistry:Initialize()
+GwentVisuals.GwentApp:LoadData()
+GwentVisuals.ASingleton`1:InitOnce()
+GwentVisuals.ASingleton`1:get_Instance()
+GwentVisuals.CollectionManager:Init()
+GwentVisuals.ASingleton`1:InitOnce()
+GwentVisuals.ASingleton`1:Awake()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GOG language is: russian
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Localization.LocalizationDictionary:GetGOGGalaxyLanguage()
+GwentUnity.SettingsRegistry:CreateNodes()
+GwentUnity.SettingsRegistry:Initialize()
+GwentVisuals.GwentApp:LoadData()
+GwentVisuals.ASingleton`1:InitOnce()
+GwentVisuals.ASingleton`1:get_Instance()
+GwentVisuals.CollectionManager:Init()
+GwentVisuals.ASingleton`1:InitOnce()
+GwentVisuals.ASingleton`1:Awake()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 45)
+
+Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 15817.
+Total: 72.773900 ms (FindLiveObjects: 1.117000 ms CreateObjectMapping: 1.075200 ms MarkObjects: 70.168600 ms  DeleteObjects: 0.412800 ms)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 258)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 103)
+
+Unloading 1306 unused Assets to reduce memory usage. Loaded Objects now: 30116.
+Total: 503.266600 ms (FindLiveObjects: 2.851000 ms CreateObjectMapping: 2.507600 ms MarkObjects: 491.729800 ms  DeleteObjects: 6.177400 ms)
+
+No mesh data available for mesh VFX_SpiralUVsCircle01 on particle system circleshockwave. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename:  Line: 241)
+
+No mesh data available for mesh VFX_SpiralUVsCircle01 on particle system glowLeftBot. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename:  Line: 241)
+
+No mesh data available for mesh Crow_Rig:Crow_Mesh on particle system Birds_01. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename:  Line: 241)
+
+No mesh data available for mesh Crow_Rig:Crow_Mesh on particle system Birds_02. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename:  Line: 241)
+
+The referenced script on this Behaviour (Game Object 'FakeLensDust') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'VFX_LensEffect') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'VFX_LensEffect') is missing!
+ 
+(Filename:  Line: 294)
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at GwentVisuals.Effects.CardKilledVFXHandler.OnCardLogicallyKilled (GwentVisuals.Effects.ACardKilledVisualEffect vfx) [0x00000] in <00000000000000000000000000000000>:0 
+  at RedTools.Event`1[T0].Invoke (T0 arg0) [0x00000] in <00000000000000000000000000000000>:0 
+  at GwentVisuals.Effects.PrimitiveVisualEffect.Update () [0x00000] in <00000000000000000000000000000000>:0 
+ 
+(Filename: currently not available on il2cpp Line: -1)
+
+The referenced script on this Behaviour (Game Object 'VampireEkimmara_Dirt') is missing!
+ 
+(Filename:  Line: 294)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+GwentVisuals.Effects.BezierProjectileVisualEffect:StartVisualEffect()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+GwentUnity.Audio.SoundbankManagement.SoundbankManager:InformCallbacksOnBankLoaded(String, SoundbankWrapper)
+BankCallback:Invoke(UInt32, IntPtr, AKRESULT, UInt32, Object)
+AkCallbackManager:PostCallbacks()
+GwentUnity.Audio.SoundManager:LateUpdate()
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Current anim stem finito917,3511
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentVisuals.RankedDiamondView:CO_CurrentAnimationFinished()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 153)
+
+Unloading 5502 unused Assets to reduce memory usage. Loaded Objects now: 57416.
+Total: 548.427400 ms (FindLiveObjects: 6.532200 ms CreateObjectMapping: 4.919100 ms MarkObjects: 522.751400 ms  DeleteObjects: 14.224200 ms)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 258)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 119)
+
+Unloading 1464 unused Assets to reduce memory usage. Loaded Objects now: 57288.
+Total: 547.019300 ms (FindLiveObjects: 5.942400 ms CreateObjectMapping: 5.172300 ms MarkObjects: 530.682400 ms  DeleteObjects: 5.221500 ms)
+
+The referenced script on this Behaviour (Game Object 'FakeLensDust') is missing!
+ 
+(Filename:  Line: 294)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+GwentVisuals.Effects.BezierProjectileVisualEffect:StartVisualEffect()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+GwentUnity.Audio.SoundbankManagement.SoundbankManager:InformCallbacksOnBankLoaded(String, SoundbankWrapper)
+BankCallback:Invoke(UInt32, IntPtr, AKRESULT, UInt32, Object)
+AkCallbackManager:PostCallbacks()
+GwentUnity.Audio.SoundManager:LateUpdate()
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Current anim stem finito1267,18
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentVisuals.RankedDiamondView:CO_CurrentAnimationFinished()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 137)
+
+Unloading 4655 unused Assets to reduce memory usage. Loaded Objects now: 61563.
+Total: 598.553600 ms (FindLiveObjects: 6.245300 ms CreateObjectMapping: 4.943900 ms MarkObjects: 573.109800 ms  DeleteObjects: 14.253800 ms)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 258)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 121)
+
+Unloading 1530 unused Assets to reduce memory usage. Loaded Objects now: 56820.
+Total: 552.275400 ms (FindLiveObjects: 5.616400 ms CreateObjectMapping: 4.516400 ms MarkObjects: 536.819000 ms  DeleteObjects: 5.322800 ms)
+
+The referenced script on this Behaviour (Game Object 'FakeLensDust') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'FakeLensDust') is missing!
+ 
+(Filename:  Line: 294)
+
+Current anim stem finito2429,713
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentVisuals.RankedDiamondView:CO_CurrentAnimationFinished()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 149)
+
+Unloading 4333 unused Assets to reduce memory usage. Loaded Objects now: 62617.
+Total: 629.725100 ms (FindLiveObjects: 6.715300 ms CreateObjectMapping: 4.971100 ms MarkObjects: 603.605100 ms  DeleteObjects: 14.433100 ms)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 258)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 125)
+
+Unloading 4010 unused Assets to reduce memory usage. Loaded Objects now: 63387.
+Total: 864.964500 ms (FindLiveObjects: 7.184500 ms CreateObjectMapping: 5.367900 ms MarkObjects: 837.664900 ms  DeleteObjects: 14.746600 ms)
+
+The referenced script on this Behaviour (Game Object 'FakeLensDust') is missing!
+ 
+(Filename:  Line: 294)
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at GwentVisuals.Effects.CardKilledVFXHandler.OnCardLogicallyKilled (GwentVisuals.Effects.ACardKilledVisualEffect vfx) [0x00000] in <00000000000000000000000000000000>:0 
+  at RedTools.Event`1[T0].Invoke (T0 arg0) [0x00000] in <00000000000000000000000000000000>:0 
+  at GwentVisuals.Effects.PrimitiveVisualEffect.Update () [0x00000] in <00000000000000000000000000000000>:0 
+ 
+(Filename: currently not available on il2cpp Line: -1)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+GwentVisuals.Effects.BezierProjectileVisualEffect:StartVisualEffect()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+GwentUnity.Audio.SoundbankManagement.SoundbankManager:InformCallbacksOnBankLoaded(String, SoundbankWrapper)
+BankCallback:Invoke(UInt32, IntPtr, AKRESULT, UInt32, Object)
+AkCallbackManager:PostCallbacks()
+GwentUnity.Audio.SoundManager:LateUpdate()
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 159)
+
+Unloading 4974 unused Assets to reduce memory usage. Loaded Objects now: 68419.
+Total: 777.124800 ms (FindLiveObjects: 7.243400 ms CreateObjectMapping: 5.496100 ms MarkObjects: 741.539100 ms  DeleteObjects: 22.845700 ms)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 258)
+
+No mesh data available for mesh Crow_Rig:Crow_Mesh on particle system Pigeons_Intro. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename:  Line: 241)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+GwentUnity.CardRenderUnit:Render()
+GwentUnity.CardRenderUnitBudgetHandler:Step()
+GwentUnity.FrameBudgetManager:ProcessHandlers(List`1)
+GwentUnity.FrameBudgetManager:OnRendering()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+
+[ line 1694] 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+GwentUnity.CardRenderUnit:Render()
+GwentUnity.CardRenderUnitBudgetHandler:Step()
+GwentUnity.FrameBudgetManager:ProcessHandlers(List`1)
+GwentUnity.FrameBudgetManager:OnRendering()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+
+[ line 1694] 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+The referenced script on this Behaviour (Game Object 'DryadRanger_LensPostFX') is missing!
+ 
+(Filename:  Line: 294)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+No mesh data available for mesh Crow_Rig:Crow_Mesh on particle system Pigeons_Intro. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename:  Line: 241)
+
+The referenced script on this Behaviour (Game Object 'DryadRanger_LensPostFX') is missing!
+ 
+(Filename:  Line: 294)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+No mesh data available for mesh Crow_Rig:Crow_Mesh on particle system Pigeons_Intro. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+ 
+(Filename:  Line: 241)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Particle System is trying to spawn on a mesh with zero surface area
+ 
+(Filename:  Line: 1694)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material RewardSystem_TextImageDrawer(Clone) doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+System.InternalCancelHandler:Invoke()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Curl error 6: Could not resolve host: gwent-gameplay-proxy-syd-au-gcp.gog.com
+
+ 
+(Filename:  Line: 760)
+
+Curl error 7: Failed to connect to gwent-gameplay-proxy-bjs-cn-baidu.gwent.cn port 443: Timed out
+
+ 
+(Filename:  Line: 760)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 119)
+
+Unloading 5248 unused Assets to reduce memory usage. Loaded Objects now: 88393.
+Total: 1125.093500 ms (FindLiveObjects: 9.028500 ms CreateObjectMapping: 6.235000 ms MarkObjects: 1082.837700 ms  DeleteObjects: 26.991900 ms)
+
+The referenced script on this Behaviour (Game Object 'FakeLensDust') is missing!
+ 
+(Filename:  Line: 294)
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at GwentVisuals.Effects.CardKilledVFXHandler.OnCardLogicallyKilled (GwentVisuals.Effects.ACardKilledVisualEffect vfx) [0x00000] in <00000000000000000000000000000000>:0 
+  at RedTools.Event`1[T0].Invoke (T0 arg0) [0x00000] in <00000000000000000000000000000000>:0 
+  at GwentVisuals.Effects.PrimitiveVisualEffect.Update () [0x00000] in <00000000000000000000000000000000>:0 
+ 
+(Filename: currently not available on il2cpp Line: -1)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+GwentVisuals.Effects.BezierProjectileVisualEffect:StartVisualEffect()
+System.InternalCancelHandler:Invoke()
+RedTools.Event:Invoke()
+GwentUnity.Audio.SoundbankManagement.SoundbankManager:InformCallbacksOnBankLoaded(String, SoundbankWrapper)
+BankCallback:Invoke(UInt32, IntPtr, AKRESULT, UInt32, Object)
+AkCallbackManager:PostCallbacks()
+GwentUnity.Audio.SoundManager:LateUpdate()
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Look rotation viewing vector is zero
+UnityEngine.Quaternion:LookRotation(Vector3, Vector3)
+GwentVisuals.Effects.BezierProjectileVisualEffect:EvaluateMovement(Transform, Single)
+GwentVisuals.Effects.<MovementCoroutine>d__26:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 84] 
+(Filename:  Line: 84)
+
+Current anim stem finito4756,374
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GwentVisuals.RankedDiamondView:CO_CurrentAnimationFinished()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 166)
+
+Unloading 2787 unused Assets to reduce memory usage. Loaded Objects now: 96321.
+Total: 1164.097100 ms (FindLiveObjects: 11.972000 ms CreateObjectMapping: 6.540500 ms MarkObjects: 1131.789100 ms  DeleteObjects: 13.794900 ms)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 258)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1900 -> priority: 1 
+  Thread -> id: 105c -> priority: 1 

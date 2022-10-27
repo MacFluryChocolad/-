@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <title>408-ІПЗ</title>
+	</head>
+<body>
+<div align="center"><H1 style="color:#000000;"> Таблиця досягнень </H1>
+    <main>
+   <table style= cellpadding="5px" width="70%" align="left" border="1">
+   <tbody>
+		<tr>
+			<td colspan="3">Продукти представлені компаніями</td>
+		</tr>
+		<tr>
+			<td>устаткування </td>
+			<td>компанія </td>
+			<td>контакти </td>
+		</tr>
+		<tr>
+			<td>AMD Athlon XP 2800+</td>
+			<td>AMD</td>
+			<td>WWW.amd.com.ua</td>
+		</tr>
+		<tr>
+			<td>Системні плати EPoX модулі пам'яті</td>
+			<td>Entry</td>
+			<td>(044) 1255-474</td>
+		</tr>
+		<tr>
+			<td>Системні плати MSI K7N2G </td>
+			<td>MSI</td>
+			<td>WWW.msi.com.tw</td>
+		</tr>
+		<tr>
+			<td>Системні плати Gigabyte </td>
+			<td>"Версія"</td>
+			<td>(044) 0372-104</td>
+		</tr>
+		<tr>
+			<td>Комп'ютер на базі ATI Radeon IGP </td>
+			<td>Micom Technology</td>
+			<td>(044) 012-3456</td>
+		</tr>
+		<tr>
+			<td>Процесор Intel Celeron 2,0 GHz </td>
+			<td>K - Trade</td>
+			<td>(044) 555-3535</td>
+		</tr>
+	</tbody>
+</table>
+    </main>
+</body>
+</html>

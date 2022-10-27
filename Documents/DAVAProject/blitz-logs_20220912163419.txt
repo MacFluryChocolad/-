@@ -1,0 +1,1584 @@
+14:34:20 [info] 16:34:20 +2 [engine] DeviceInfo::GetGPUModel():  Radeon RX550/550 Series
+14:34:20 [info] 16:34:20 +2 [engine] Network type:  NETWORK_TYPE_WIFI
+14:34:20 [error] [YamlParser::Parse] Can't Open file C:/Users/Admin/Documents/DAVAProject/logTags.yaml for read
+14:34:20 [info] EngineBackend::OnGameLoopStarted: enter
+14:34:20 [info] GameCore::OnAppStarted begin
+14:34:22 [info] 16:34:22 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+14:34:23 [info] 16:34:23 +2 [wwise] Wwise sound system was successfully initialized.
+14:34:23 [info] SetBattleState unknown
+14:34:23 [info] 16:34:23 +2 [base] Vendor OS version: no
+14:34:23 [info] 16:34:23 +2 [base] Platform:  Win32   steam
+14:34:23 [info] 16:34:23 +2 [base] RAM size in gb:  7.18608
+14:34:23 [info] Device kind: Desktop
+14:34:23 [info] Device display: 21.60" (18.82"x10.59")
+14:34:23 [info] GameCore::OnAppStarted done
+14:34:23 [info] EngineBackend::OnGameLoopStarted: leave
+14:34:23 [info] Window::HandleWindowCreated: enter
+14:34:23 [info] 16:34:23 +2 [render] rhi::ShaderSourceCache::InitCacheDir start
+14:34:23 [info] 16:34:23 +2 [render] rhi::ShaderSourceCache::InitCacheDir end, duration 1 ms
+14:34:23 [error] 16:34:23 +2 [engine] failed to bind [ DAVA::RhiThread ] to core [ 1 ]
+14:34:23 [info] [RHI-DX11] Creating device
+14:34:23 [info] [RHI-DX11] available adapters:
+14:34:23 [info] 0 : 'Radeon RX550/550 Series' (vendor: 0x1002, subsystem: 0xE3671DA2), feature level: 0xb000 (11.0)
+14:34:23 [info] 1 : 'Microsoft Basic Render Driver' (vendor: 0x1414, subsystem: 0x0000), feature level: 0xb000 (11.0)
+14:34:23 [info] [RHI-DX11] Using adapter `Radeon RX550/550 Series` (vendor: 1002, subsystem: E3671DA2)
+14:34:23 [info] [RHI-DX11] Creating device without selected adapter
+14:34:23 [info] [RHI-DX11] Init with feature level: 0xb000 (11.0)
+14:34:23 [info] [RHI-DX11] Using retrieved adapter `Radeon RX550/550 Series` (vendor: 0x1002, subsystem: 0xE3671DA2)
+14:34:23 [info] [RHI-DX11] Selected adapter has 3072 Mb of video memory
+14:34:23 [info] [RHI-DX11] OS registry version: 6.3.19043, is running on Win10: 0
+14:34:23 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+14:34:23 [info] [RHI-DX11] Reset targets and views
+14:34:23 [info] [RHI-DX11] Clear context state
+14:34:23 [info] [RHI-DX11] Flush context
+14:34:23 [info] [RHI-DX11] Resize swapchain buffers to size {1024, 768}
+14:34:23 [info] [RHI-DX11] hardware command buffers enabled: 0
+14:34:23 [info] [RHI-DX11] Typeless texture formats supported: 1
+14:34:23 [info] Rendering thread started
+14:34:24 [info] 16:34:24 +2 [render] DeviceInfo::GetGPUModel():  Radeon RX550/550 Series
+14:34:24 [info] 16:34:24 +2 [render] Default Framebuffer size: 1024 x 768
+14:34:24 [info] 16:34:24 +2 [render] Display Diagonal size in inches: 21.5971
+14:34:24 [info] [Renderer] DeviceTier: High
+14:34:24 [info] [Renderer] CurrentFlow: Forward
+14:34:24 [info] [Renderer] Is Forward with Depth Prepass Supported: YES
+14:34:24 [info] [Renderer] Is PBR Supported: YES
+14:34:24 [info] [Renderer] Is Shadow Mapping Supported: YES
+14:34:24 [info] [Renderer] Max Anisotropy: 16
+14:34:24 [info] [Renderer] Max Texture Size: 16384
+14:34:24 [info] [Renderer] Max Vertex Attributes Count: 16
+14:34:24 [info] [Renderer] Max Varying Vectors Count: 15
+14:34:24 [info] [Renderer] Max MRT Count: 4;
+14:34:24 [info] [Renderer] Max MSAA Sample Count: 8;
+14:34:24 [info] [Renderer] is32BitIndicesSupported: YES
+14:34:24 [info] [Renderer] isVertexTextureUnitsSupported: YES
+14:34:24 [info] [Renderer] armOpenglDepthStencilFetchSupported: NO
+14:34:24 [info] [Renderer] armOpenglColorFetchSupported: NO
+14:34:24 [info] [Renderer] extOpenglColorFetchSupported: NO
+14:34:24 [info] [Renderer] androidMultisampleTextureEXTSupported: NO
+14:34:24 [info] [Renderer] metalColorFetchSupported: NO
+14:34:24 [info] [Renderer] isUpperLeftRTOrigin: YES
+14:34:24 [info] [Renderer] isZeroBaseClipRange: YES
+14:34:24 [info] [Renderer] isCenterPixelMapping: NO
+14:34:24 [info] [Renderer] isInstancingSupported: YES
+14:34:24 [info] [Renderer] isPerfQuerySupported: YES
+14:34:24 [info] [Renderer] isGpuStageTrackingSupported: NO
+14:34:24 [info] [Renderer] isDisjointPerfQuerySupported: NO
+14:34:24 [info] [Renderer] isComparisonSamplerSupported: YES
+14:34:24 [info] [Renderer] isInstanceIdSupported: YES
+14:34:24 [info] [Renderer] framebufferDiscardSupported: NO
+14:34:24 [info] [Renderer] isD24S8FormatSupported: YES
+14:34:24 [info] [Renderer] isD16FormatSupported: YES
+14:34:24 [info] [Renderer] isMemorylessSupported: NO
+14:34:24 [info] [Renderer] retrieveTileDataAllowed: YES
+14:34:24 [info] [Renderer] isAstcCompressionSupported: NO
+14:34:24 [info] GameCore::OnWindowCreated begin
+14:34:24 [info] Desirable resource suffix: ""
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  WaterQuality
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  ObjectsQuality
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  VehiclesQuality
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  EffectsQuality
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  FogQuality
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  AnisotropicFiltering
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  Antialiasing
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  Camouflage
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  GrassInSniperMode
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  TankTreads
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  HitMarks
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  HDTextures
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  FPSLimit
+14:34:24 [error] 16:34:24 +2 [graphics_options_module] Unused option:  TankSuspension
+14:34:24 [info] 16:34:24 +2 [graphics_options_module] Device tags: [Win32, , manufacturer-, maxFps-59, windows-high-tier]
+14:34:24 [info] 16:34:24 +2 [graphics_options_module] Detected preset: WindowsHighTier
+14:34:24 [info] 16:34:24 +2 [base] [GraphicsOptionsManager::SetupOptionsFromPreset] Selected user options:
+ Graphics options:
+	WaterQuality: High
+	ObjectsQuality: High
+	VehiclesQuality: High
+	EffectsQuality: High
+	LevelOfDetail: High
+	FogQuality: High
+	AnisotropicFiltering: 4X
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: High
+	GrassInSniperMode: true
+	TankTreads: true
+	ShadowQuality: Medium
+	HitMarks: true
+	Shadows: false
+	HDTextures: true
+	UHDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: true
+
+14:34:24 [info] 16:34:24 +2 [base] Max graphics options according to our runtime clamping:
+14:34:24 [info] 16:34:24 +2 [base] Field with name: ObjectsQuality clamped from PBR [4] to High [3]
+14:34:24 [info] 16:34:24 +2 [base] Field with name: LevelOfDetail clamped from Cinema [5] to High [3]
+14:34:24 [info] 16:34:24 +2 [base] Field with name: GrassQuality clamped from Cinema [3] to High [2]
+14:34:24 [info] 16:34:24 +2 [base] Field with name: ShadowQuality clamped from Cinema [4] to Medium [3]
+14:34:24 [info] 16:34:24 +2 [base] Field with name: FPSLimit clamped from 120 [2] to 60 [1]
+14:34:24 [info] 16:34:24 +2 [base] GameOptions::CheckAppVersion, currentBuildInfoStr =  9.2.0.2030_3334581 master WOTB_Win7 , currentBuildVersion =  9.2.0.2030_3334581
+14:34:24 [info] 16:34:24 +2 [base] GameOptions::CheckAppVersion, needRefreshAppVersion =  1
+14:34:24 [info] 16:34:24 +2 [base] GameOptions::CheckAppVersion, majorMinorVersionChanged =  1
+14:34:24 [error] [YamlParser::Parse] Can't Open file C:/Users/Admin/Documents/DAVAProject/optionsDevice.yaml for read
+14:34:24 [error] [YamlParser::Parse] Can't Open file C:/Users/Admin/Documents/DAVAProject/optionsGlobal.yaml for read
+14:34:24 [error] [YamlParser::Parse] Can't Open file C:/Users/Admin/Documents/DAVAProject/localOptions.yaml for read
+14:34:24 [info] 16:34:24 +2 [base] AppGraphicsOptionsMigrationManager::Migrate
+14:34:24 [info] 16:34:24 +2 [base] AppGraphicsOptionsMigrationManager::Migrate : currentVersion =  0 , deviceData.isFirstRun =  1 , MaxVersion =  9 , loadedFromFile =  0
+14:34:24 [info] 16:34:24 +2 [base] First run on device after installation, thus no need for graphics options migration.
+14:34:24 [info] 16:34:24 +2 [base] Application version: 9.2.0
+14:34:24 [info] 16:34:24 +2 [base] Build version: 9.2.0.2030_3334581
+14:34:24 [info] GameCore::OnWindowCreated done
+14:34:24 [info] 16:34:24 +2 [base] [GraphicsOptionsManager::SetUserOptions] Selected user options:
+ Graphics options:
+	WaterQuality: High
+	ObjectsQuality: High
+	VehiclesQuality: High
+	EffectsQuality: High
+	LevelOfDetail: High
+	FogQuality: High
+	AnisotropicFiltering: 4X
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: High
+	GrassInSniperMode: true
+	TankTreads: true
+	ShadowQuality: Medium
+	HitMarks: true
+	Shadows: false
+	HDTextures: true
+	UHDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: false
+	ColorblindMode: false
+	TankSuspension: true
+
+14:34:24 [info] Window::HandleWindowCreated: leave
+14:34:24 [info] Window::HandleVisibilityChanged: become visible
+14:34:24 [info] GameCore::OnForeground
+14:34:25 [info] [RHI-DX11] ResetBlock, resizing swapchain.
+14:34:25 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+14:34:25 [info] [RHI-DX11] Reset targets and views
+14:34:25 [info] [RHI-DX11] Clear context state
+14:34:25 [info] [RHI-DX11] Flush context
+14:34:25 [info] [RHI-DX11] Resize swapchain buffers to size {1920, 1080}
+14:34:25 [info] 16:34:25 +2 [base] [GraphicsOptionsManager::SetUserOptions] Selected user options:
+ Graphics options:
+	WaterQuality: High
+	ObjectsQuality: High
+	VehiclesQuality: High
+	EffectsQuality: High
+	LevelOfDetail: High
+	FogQuality: High
+	AnisotropicFiltering: 4X
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: High
+	GrassInSniperMode: true
+	TankTreads: true
+	ShadowQuality: Medium
+	HitMarks: true
+	Shadows: false
+	HDTextures: true
+	UHDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: true
+
+14:34:26 [info] AppContextImpl::InitializeLocalizations device locale: ru, locale: ru, game locale: ru, sound locale: ru, 
+14:34:26 [info] 16:34:26 +2 [BW] BWWrapper::SetupNetwork start
+14:34:26 [info] 16:34:26 +2 [BW] BWWrapper::SetupNetwork end, duration 9 ms
+14:34:27 [info] 16:34:27 +2 [base] AppController::Activate, IsFirstRunInMajorMinorUpdateVersion =  1
+14:34:27 [info] 16:34:27 +2 [base] AppController::Activate dynamic_content_version.txt deletion is success:  0
+14:34:27 [info] 16:34:27 +2 [base] AppController::SaveDynamicResourcesVersion devVersion:  0
+14:34:27 [info] 16:34:27 +2 [base] AppController::SaveDynamicResourcesVersion writting went:  1
+14:34:27 [info] 16:34:27 +2 [base] AppController::Activate, dynamicContentVersion =  0
+14:34:27 [info] 16:34:27 +2 [net] [PredefinedHosts::RequestServerRegionsConfig] Requesting server regions config
+14:34:27 [info] 16:34:27 +2 [net] PredefinedHosts::CreateServerRegionsConfigYamlRequest for url:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::Reset 0D5E127C
+14:34:27 [info] 16:34:27 +2 [net] PredefinedHosts::CreateServerRegionsConfigYamlRequest for url:  http://cdn.static.wotb.app/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::Reset 0D5E187C
+14:34:27 [info] 16:34:27 +2 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::StartAsync 0D5E127C
+14:34:27 [info] 16:34:27 +2 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://cdn.static.wotb.app/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::Start this= 0D5E127C thread= 8444
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::Start this= 0D5E187C thread= 11552
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::StartInSeparateThread 0D5E127C wasCancelled= 0
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::StartInSeparateThread 0D5E187C wasCancelled= 0
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::OnRequestComplete 0D5E127C wasCancelled= 0
+14:34:27 [info] 16:34:27 +2 [net] [AsyncRequester::OnRequestFinished] Request finished:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [net] [SPredefinedHosts::CheckRequestResult] Successfully downloaded regions config from:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [net] [PredefinedHosts::OnSuccessfullResponse] Successfull response from url:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [net] [PredefinedHosts::OnConfigChosen] Config chosen
+14:34:27 [info] 16:34:27 +2 [net] Read server regions yaml.
+14:34:27 [info] 16:34:27 +2 [net] [AsyncRequester::OnFirstSuccessfullRequestSync] Successfull request:  http://dl-wotblitz-gc.wargaming.net/conf/regions_9.2.0.yaml
+14:34:27 [info] 16:34:27 +2 [net] [AsyncRequester::CancelRequests] Canceling requests
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::Cancel 0D5E127C
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::Cancel 0D5E187C
+14:34:27 [info] 16:34:27 +2 [http] UrlRequest::OnRequestComplete 0D5E187C wasCancelled= 1
+14:34:30 [info] 16:34:30 +2 [base] ScreensFlow::RequestToShowScreen ImageSplashScreen:-11 -> ConnectingScreen:666 93
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:34:30 [info] 16:34:30 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Static object = ULTRA
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Landscape = ULTRA
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Decoration Objects = ON
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Pbr = ON
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Reflections = HIGH
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Static Decal = ON
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Tank = ULTRA
+14:34:30 [info] 16:34:30 +2 [render] Material group quality: Grass = HIGH
+14:34:33 [error] 16:34:33 +2 [base] Request to switch to current screen: ConnectingScreen
+14:34:33 [info] 16:34:33 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 94
+14:34:33 [info] Timezone: Europe/Kiev, ru
+14:34:33 [info] 16:34:33 +2 [http] UrlRequest::StartAsync 0DFAA22C
+14:34:33 [info] 16:34:33 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 95
+14:34:33 [info] 16:34:33 +2 [http] UrlRequest::Start this= 0DFAA22C thread= 8444
+14:34:33 [info] 16:34:33 +2 [base] Controller activated: EULAConfirmationController
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:34:33 [info] 16:34:33 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Static object = ULTRA
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Landscape = ULTRA
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Decoration Objects = ON
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Pbr = ON
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Reflections = HIGH
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Static Decal = ON
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Tank = ULTRA
+14:34:33 [info] 16:34:33 +2 [render] Material group quality: Grass = HIGH
+14:34:33 [info] PreLoginFlowScreen::LoadResources begin
+14:34:33 [info] 16:34:33 +2 [http] UrlRequest::StartInSeparateThread 0DFAA22C wasCancelled= 0
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [info] 16:34:34 +2 [http] UrlRequest::OnRequestComplete 0DFAA22C wasCancelled= 0
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:34 [error] 16:34:34 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [error] 16:34:36 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:36 [info] 16:34:36 +2 [ui] UIDataParams redirect event:  CHECK_PRESSED , control:  CkeckBox  -> event:  EULA_CONFIRMATION_CHECKED , control: CheckBox
+14:34:36 [info] 16:34:36 +2 [ui] UIDataParams redirect event:  EULA_CONFIRMATION_CHECKED , control:  EULAConfirmation  -> event:  EULA_CONFIRMATION_CHECKED , control: Content
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [info] 16:34:37 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  CONFIRM_EULA , control: CompleteButton
+14:34:37 [info] 16:34:37 +2 [ui] UIDataParams redirect event:  CONFIRM_EULA , control:  EULAConfirmation  -> event:  CONFIRM_EULA , control: Content
+14:34:37 [info] 16:34:37 +2 [http] UrlRequest::StartAsync 0DFAA22C
+14:34:37 [info] 16:34:37 +2 [http] UrlRequest::Start this= 0DFAA22C thread= 11552
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:37 [error] 16:34:37 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [info] 16:34:38 +2 [http] UrlRequest::StartInSeparateThread 0DFAA22C wasCancelled= 0
+14:34:38 [info] 16:34:38 +2 [http] UrlRequest::OnRequestComplete 0DFAA22C wasCancelled= 0
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkLicense
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [error] 16:34:38 +2 [ui] Style sheet can not find component UITextComponent in control LinkPrivacy
+14:34:38 [info] 16:34:38 +2 [base] Controller deactivated: EULAConfirmationController
+14:34:38 [info] 16:34:38 +2 [base] Controller activated: SmartDlcInitializationController
+14:34:38 [info] 16:34:38 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization - dynamicContentVersion:  0
+14:34:38 [info] 16:34:38 +2 [smart_dlc] SmartDlcInitializationController::InititalizeSmartDlc: using Disabled DLCManager
+14:34:38 [info] 16:34:38 +2 [smart_dlc] SmartDlcInitializationController: referenced dvpd files [  ]
+14:34:38 [warning] 16:34:38 +2 [engine] [ConvertedFileSpriteDataLoader] File "~res:/Gfx/Lobby/icons/icon_age-rating_m" not found
+14:34:38 [warning] 16:34:38 +2 [engine] [ConvertedFileSpriteDataLoader] File "~res:/Gfx/Lobby/icons/icon_age-rating_m" not found
+14:34:38 [warning] 16:34:38 +2 [engine] [AutoSpriteDataLoaderWrapper] Failed to initialize sprite "~res:/Gfx/Lobby/icons/icon_age-rating_m". Pink placeholder is used
+14:34:38 [info] 16:34:38 +2 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 216
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:34:38 [info] 16:34:38 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Static object = ULTRA
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Landscape = ULTRA
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Decoration Objects = ON
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Pbr = ON
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Reflections = HIGH
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Static Decal = ON
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Tank = ULTRA
+14:34:38 [info] 16:34:38 +2 [render] Material group quality: Grass = HIGH
+14:34:38 [info] PreLoginFlow::LoadSounds took 0 ms
+14:34:38 [info] AppContextImpl::InitializeLocalizations device locale: ru, locale: ru, game locale: ru, sound locale: ru, 
+14:34:38 [info] 16:34:38 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+14:34:38 [info] 16:34:38 +2 [base] [Items::ReadItemType] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/item_types.xml
+14:34:38 [info] 16:34:38 +2 [base] [CamoDataProvider::Initialize] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/camouflages.xml
+14:34:38 [info] 16:34:38 +2 [base] [MaterialKinds::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/material_kinds.xml
+14:34:38 [info] 16:34:38 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camouflages.yaml
+14:34:38 [info] 16:34:38 +2 [base] [DestructiblesCache::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/destructibles.xml
+14:34:38 [info] PreLoginFlow::StartAnalyticsTracking took 0 ms
+14:34:38 [info] 16:34:38 +2 [base] [OptionalDevicesPresetsProvider::Load] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/optional_device_slots.xml
+14:34:39 [info] 16:34:39 +2 [base] [Nations::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/available_nations.yaml
+14:34:40 [info] PreLoginFlow::LoadControlLayout took 2038 ms
+14:34:40 [info] 16:34:40 +2 [BW] BWWrapper::SetupNetwork start
+14:34:40 [info] 16:34:40 +2 [BW] BWWrapper::SetupNetwork end, duration 2 ms
+14:34:40 [error] 16:34:40 +2 [net] PredefinedHosts::SetupBwNetworkAndPingUrls urls count to ping: 16
+14:34:40 [error] 16:34:40 +2 [BW] E GenericAddressResolver::resolve - hostname: 'login0.wotblitz.ru' result: (11002) Обычно - это временная ошибка, возникающая во время разрешения имени узла, и означающая, что локальный сервер не получил ответа от полномочного сервера.
+14:34:40 [error] 16:34:40 +2 [BW] E GenericAddressResolver::resolve - hostname: 'login1.wotblitz.ru' result: (11002) Обычно - это временная ошибка, возникающая во время разрешения имени узла, и означающая, что локальный сервер не получил ответа от полномочного сервера.
+14:34:40 [error] 16:34:40 +2 [BW] E GenericAddressResolver::resolve - hostname: 'login2.wotblitz.ru' result: (11002) Обычно - это временная ошибка, возникающая во время разрешения имени узла, и означающая, что локальный сервер не получил ответа от полномочного сервера.
+14:34:40 [error] 16:34:40 +2 [BW] E GenericAddressResolver::resolve - hostname: 'login3.wotblitz.ru' result: (11002) Обычно - это временная ошибка, возникающая во время разрешения имени узла, и означающая, что локальный сервер не получил ответа от полномочного сервера.
+14:34:40 [error] 16:34:40 +2 [BW] E GenericAddressResolver::resolve - hostname: 'login4.wotblitz.ru' result: (11002) Обычно - это временная ошибка, возникающая во время разрешения имени узла, и означающая, что локальный сервер не получил ответа от полномочного сервера.
+14:34:40 [error] 16:34:40 +2 [BW] E GenericAddressResolver::resolve - hostname: 'login5.wotblitz.ru' result: (11002) Обычно - это временная ошибка, возникающая во время разрешения имени узла, и означающая, что локальный сервер не получил ответа от полномочного сервера.
+14:34:40 [error] 16:34:40 +2 [net] BatchPinger resolve : addresses =  16 , urls =  16
+14:34:40 [info] 16:34:40 +2 [net] Server: login0.wotblitz.ru:20016, Ip: None, Avg ping: -1.0ms, Loss: -100.0%
+14:34:40 [info] 16:34:40 +2 [net] Server: login1.wotblitz.ru:20016, Ip: None, Avg ping: -1.0ms, Loss: -100.0%
+14:34:40 [info] 16:34:40 +2 [net] Server: login2.wotblitz.ru:20016, Ip: None, Avg ping: -1.0ms, Loss: -100.0%
+14:34:40 [info] 16:34:40 +2 [net] Server: login3.wotblitz.ru:20016, Ip: None, Avg ping: -1.0ms, Loss: -100.0%
+14:34:40 [info] 16:34:40 +2 [net] Server: login4.wotblitz.ru:20016, Ip: None, Avg ping: -1.0ms, Loss: -100.0%
+14:34:40 [info] 16:34:40 +2 [net] Server: login5.wotblitz.ru:20016, Ip: None, Avg ping: -1.0ms, Loss: -100.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login1.wotblitz.eu:20016, Ip: 92.223.31.139:20016, Avg ping: 66.5ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.132:20016, Avg ping: 67.0ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.131:20016, Avg ping: 66.5ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login1.wotblitz.eu:20016, Ip: 92.223.31.138:20016, Avg ping: 66.5ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login1.wotblitz.com:20016, Ip: 92.223.39.58:20016, Avg ping: 140.8ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login1.wotblitz.com:20016, Ip: 92.223.39.65:20016, Avg ping: 141.0ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login0.wotblitz.com:20016, Ip: 92.223.57.86:20016, Avg ping: 149.3ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login0.wotblitz.com:20016, Ip: 92.223.57.35:20016, Avg ping: 164.8ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login2.wotblitz.com:20016, Ip: 92.223.45.12:20016, Avg ping: 198.8ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login2.wotblitz.com:20016, Ip: 92.223.45.13:20016, Avg ping: 198.8ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login1.wotblitz.asia:20016, Ip: 92.223.16.30:20016, Avg ping: 198.8ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login0.wotblitz.asia:20016, Ip: 92.223.16.81:20016, Avg ping: 215.3ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [net] Server: login1.wotblitz.asia:20016, Ip: 92.223.16.145:20016, Avg ping: 215.0ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 273
+14:34:42 [info] 16:34:42 +2 [base] Controller deactivated: SmartDlcInitializationController
+14:34:42 [info] 16:34:42 +2 [base] Controller activated: ServerSelection
+14:34:42 [info] 16:34:42 +2 [net] Server: login0.wotblitz.asia:20016, Ip: 92.223.16.59:20016, Avg ping: 225.0ms, Loss: 0.0%
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:34:42 [info] 16:34:42 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Static object = ULTRA
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Landscape = ULTRA
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Decoration Objects = ON
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Pbr = ON
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Reflections = HIGH
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Static Decal = ON
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Tank = ULTRA
+14:34:42 [info] 16:34:42 +2 [render] Material group quality: Grass = HIGH
+14:34:43 [info] 16:34:43 +2 [net] Server: login1.wotblitz.asia:20016, Ip: 92.223.16.147:20016, Avg ping: 264.3ms, Loss: 0.0%
+14:34:43 [info] 16:34:43 +2 [net] Server: login2.wotblitz.asia:20016, Ip: 95.85.94.91:20016, Avg ping: 264.3ms, Loss: 0.0%
+14:34:43 [info] 16:34:43 +2 [net] Server: login2.wotblitz.asia:20016, Ip: 95.85.94.170:20016, Avg ping: 446.5ms, Loss: 0.0%
+14:34:47 [info] 16:34:47 +2 [ui] UIDataParams redirect event:  REGION_SELECTED , control:  Holder4  -> event:  REGION_SELECTED , control: Map
+14:34:47 [info] 16:34:47 +2 [ui] UIDataParams redirect event:  REGION_SELECTED , control:  MapHolder  -> event:  REGION_SELECTED , control: Map
+14:34:47 [info] 16:34:47 +2 [ui] UIDataParams redirect event:  REGION_SELECTED , control:  ServerSelection  -> event:  REGION_SELECTED , control: Content
+14:34:48 [info] 16:34:48 +2 [ui] UIDataParams redirect event:  REGION_SELECTED , control:  Holder2  -> event:  REGION_SELECTED , control: Map
+14:34:48 [info] 16:34:48 +2 [ui] UIDataParams redirect event:  REGION_SELECTED , control:  MapHolder  -> event:  REGION_SELECTED , control: Map
+14:34:48 [info] 16:34:48 +2 [ui] UIDataParams redirect event:  REGION_SELECTED , control:  ServerSelection  -> event:  REGION_SELECTED , control: Content
+14:34:50 [info] 16:34:50 +2 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.201:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:34:50 [info] 16:34:50 +2 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.16:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:34:50 [info] 16:34:50 +2 [net] Server: login-wotblitzeu3-eu3.wotblitz.eu:20016, Ip: 34.78.65.193:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:34:50 [info] 16:34:50 +2 [net] Server: login-wotblitzeu3-eu3.wotblitz.eu:20016, Ip: 35.205.187.129:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:34:50 [info] 16:34:50 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  CONFIRM_REGION , control: ConfirmButton
+14:34:50 [info] 16:34:50 +2 [ui] UIDataParams redirect event:  CONFIRM_REGION , control:  ServerSelection  -> event:  CONFIRM_REGION , control: Content
+14:34:50 [info] 16:34:50 +2 [http] UrlRequest::StartAsync 0D6D9B6C
+14:34:50 [info] 16:34:50 +2 [http] UrlRequest::Start this= 0D6D9B6C thread= 6636
+14:34:50 [info] 16:34:50 +2 [http] UrlRequest::StartInSeparateThread 0D6D9B6C wasCancelled= 0
+14:34:50 [info] 16:34:50 +2 [http] UrlRequest::OnRequestComplete 0D6D9B6C wasCancelled= 0
+14:34:50 [info] 16:34:50 +2 [base] Controller deactivated: ServerSelection
+14:34:50 [info] 16:34:50 +2 [base] Controller activated: NewGame
+14:34:52 [info] 16:34:52 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  OptionButton  -> event:  LOGIN_PRESSED , control: LoginAndDividerContainer
+14:34:52 [info] 16:34:52 +2 [ui] UIDataParams redirect event:  LOGIN_PRESSED , control:  NewGameScreen  -> event:  LOGIN_PRESSED , control: Content
+14:34:52 [info] 16:34:52 +2 [http] UrlRequest::StartAsync 0D6D93EC
+14:34:52 [info] 16:34:52 +2 [http] UrlRequest::Start this= 0D6D93EC thread= 10828
+14:34:52 [info] 16:34:52 +2 [http] UrlRequest::StartInSeparateThread 0D6D93EC wasCancelled= 0
+14:34:52 [info] 16:34:52 +2 [http] UrlRequest::OnRequestComplete 0D6D93EC wasCancelled= 0
+14:34:52 [info] 16:34:52 +2 [base] Controller deactivated: NewGame
+14:34:52 [info] 16:34:52 +2 [base] Controller activated: Entry
+14:34:54 [info] 16:34:54 +2 [ui] UIDataParams redirect event:  EDITING_STARTED , control:  TextField  -> event:  EDITING_STARTED , control: Email
+14:34:54 [info] 16:34:54 +2 [ui] UIDataParams redirect event:  FIELD_CLICKED , control:  TextField  -> event:  FIELD_CLICKED , control: Email
+14:34:54 [info] 16:34:54 +2 [ui] UIDataParams redirect event:  EDITING_STARTED , control:  EntryScreen  -> event:  EDITING_STARTED , control: Content
+14:34:54 [info] 16:34:54 +2 [ui] UIDataParams redirect event:  FIELD_CLICKED , control:  EntryScreen  -> event:  FIELD_CLICKED , control: Content
+14:34:56 [info] 16:34:56 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  SocialButton0  -> event:  EXTERNAL_LOGIN_PRESSED , control: SocialButtons
+14:34:56 [info] 16:34:56 +2 [ui] UIDataParams redirect event:  EXTERNAL_LOGIN_PRESSED , control:  EntryScreen  -> event:  EXTERNAL_LOGIN_PRESSED , control: Content
+14:34:56 [info] 16:34:56 +2 [http] UrlRequest::StartAsync 0DFA9BAC
+14:34:56 [info] 16:34:56 +2 [http] UrlRequest::Start this= 0DFA9BAC thread= 11552
+14:34:56 [info] 16:34:56 +2 [base] LoginManager::RequestExternLoginData request to show connecting screen
+14:34:56 [info] 16:34:56 +2 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 647
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:34:56 [info] 16:34:56 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Static object = ULTRA
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Landscape = ULTRA
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Decoration Objects = ON
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Pbr = ON
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Reflections = HIGH
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Static Decal = ON
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Tank = ULTRA
+14:34:56 [info] 16:34:56 +2 [render] Material group quality: Grass = HIGH
+14:34:56 [info] 16:34:56 +2 [http] UrlRequest::StartInSeparateThread 0DFA9BAC wasCancelled= 0
+14:34:56 [info] 16:34:56 +2 [http] UrlRequest::OnRequestComplete 0DFA9BAC wasCancelled= 0
+14:34:56 [error] 16:34:56 +2 [net] BatchPinger resolve : addresses =  4 , urls =  4
+14:34:57 [info] 16:34:57 +2 [http] UrlRequest::StartAsync 0DFA9CAC
+14:34:57 [info] 16:34:57 +2 [http] UrlRequest::Start this= 0DFA9CAC thread= 6636
+14:34:57 [info] 16:34:57 +2 [http] UrlRequest::StartInSeparateThread 0DFA9CAC wasCancelled= 0
+14:34:57 [info] 16:34:57 +2 [http] UrlRequest::OnRequestComplete 0DFA9CAC wasCancelled= 0
+14:34:58 [info] 16:34:58 +2 [http] UrlRequest::StartAsync 0DFA9BAC
+14:34:58 [info] 16:34:58 +2 [http] UrlRequest::Start this= 0DFA9BAC thread= 10828
+14:34:59 [info] 16:34:59 +2 [http] UrlRequest::StartInSeparateThread 0DFA9BAC wasCancelled= 0
+14:34:59 [info] 16:34:59 +2 [http] UrlRequest::OnRequestComplete 0DFA9BAC wasCancelled= 0
+14:34:59 [info] 16:34:59 +2 [http] UrlRequest::StartAsync 0DFAA42C
+14:34:59 [info] 16:34:59 +2 [http] UrlRequest::Start this= 0DFAA42C thread= 11552
+14:34:59 [info] 16:34:59 +2 [http] UrlRequest::StartInSeparateThread 0DFAA42C wasCancelled= 0
+14:34:59 [info] 16:34:59 +2 [base] Dialog activated: ConfirmationDialog
+14:34:59 [info] 16:34:59 +2 [http] UrlRequest::OnRequestComplete 0DFAA42C wasCancelled= 0
+14:35:03 [info] 16:35:03 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  ButtonOptionalLight  -> event:  OPTIONAL_ACTION , control: OptionalButtonContainer
+14:35:03 [info] 16:35:03 +2 [ui] UIDataParams redirect event:  OPTIONAL_CLICKED , control:  InfoTextDialog  -> event:  OPTIONAL_CLICKED , control: ConfirmationDialog
+14:35:03 [info] 16:35:03 +2 [http] UrlRequest::StartAsync 0DFA9F2C
+14:35:03 [info] 16:35:03 +2 [http] UrlRequest::Start this= 0DFA9F2C thread= 8444
+14:35:03 [info] 16:35:03 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 847
+14:35:03 [info] 16:35:03 +2 [base] Controller deactivated: Entry
+14:35:03 [info] 16:35:03 +2 [base] Controller activated: Entry
+14:35:03 [info] 16:35:03 +2 [base] Dialog deactivated: ConfirmationDialog
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:35:03 [info] 16:35:03 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Static object = ULTRA
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Landscape = ULTRA
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Decoration Objects = ON
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Pbr = ON
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Reflections = HIGH
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Static Decal = ON
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Tank = ULTRA
+14:35:03 [info] 16:35:03 +2 [render] Material group quality: Grass = HIGH
+14:35:03 [info] 16:35:03 +2 [http] UrlRequest::StartInSeparateThread 0DFA9F2C wasCancelled= 0
+14:35:03 [info] 16:35:03 +2 [http] UrlRequest::OnRequestComplete 0DFA9F2C wasCancelled= 0
+14:35:47 [info] 16:35:47 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  ResetPassword  -> event:  RESET_PASSWORD_PRESSED , control: OptionalButtons
+14:35:47 [info] 16:35:47 +2 [http] UrlRequest::StartAsync 0D6D93EC
+14:35:47 [info] 16:35:47 +2 [http] UrlRequest::Start this= 0D6D93EC thread= 10828
+14:35:47 [info] 16:35:47 +2 [http] UrlRequest::StartInSeparateThread 0D6D93EC wasCancelled= 0
+14:35:47 [info] 16:35:47 +2 [http] UrlRequest::OnRequestComplete 0D6D93EC wasCancelled= 0
+14:38:23 [info] 16:38:23 +2 [ui] UIDataParams redirect event:  EDITING_STARTED , control:  TextField  -> event:  EDITING_STARTED , control: Email
+14:38:23 [info] 16:38:23 +2 [ui] UIDataParams redirect event:  FIELD_CLICKED , control:  TextField  -> event:  FIELD_CLICKED , control: Email
+14:38:23 [info] 16:38:23 +2 [ui] UIDataParams redirect event:  EDITING_STARTED , control:  EntryScreen  -> event:  EDITING_STARTED , control: Content
+14:38:23 [info] 16:38:23 +2 [ui] UIDataParams redirect event:  FIELD_CLICKED , control:  EntryScreen  -> event:  FIELD_CLICKED , control: Content
+14:38:24 [info] 16:38:24 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:25 [info] 16:38:25 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:25 [info] 16:38:25 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:25 [info] 16:38:25 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:26 [info] 16:38:26 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:26 [info] 16:38:26 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:26 [info] 16:38:26 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:26 [info] 16:38:26 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:26 [info] 16:38:26 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:27 [info] 16:38:27 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:27 [info] 16:38:27 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:28 [info] 16:38:28 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:29 [info] 16:38:29 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:29 [info] 16:38:29 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:30 [info] 16:38:30 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:30 [info] 16:38:30 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:30 [info] 16:38:30 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:31 [info] 16:38:31 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:31 [info] 16:38:31 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:31 [info] 16:38:31 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  MAIL_CHANGED , control: Email
+14:38:32 [info] 16:38:32 +2 [ui] UIDataParams redirect event:  EDITING_STARTED , control:  TextField  -> event:  EDITING_STARTED , control: Password
+14:38:32 [info] 16:38:32 +2 [ui] UIDataParams redirect event:  EDITING_STARTED , control:  EntryScreen  -> event:  EDITING_STARTED , control: Content
+14:38:32 [info] 16:38:32 +2 [ui] UIDataParams redirect event:  FIELD_CLICKED , control:  TextField  -> event:  FIELD_CLICKED , control: Password
+14:38:32 [info] 16:38:32 +2 [ui] UIDataParams redirect event:  FIELD_CLICKED , control:  EntryScreen  -> event:  FIELD_CLICKED , control: Content
+14:38:33 [info] 16:38:33 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:33 [info] 16:38:33 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:34 [info] 16:38:34 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:34 [info] 16:38:34 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:35 [info] 16:38:35 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:35 [info] 16:38:35 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:35 [info] 16:38:35 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:35 [info] 16:38:35 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:36 [info] 16:38:36 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:36 [info] 16:38:36 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:37 [info] 16:38:37 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:37 [info] 16:38:37 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:38 [info] 16:38:38 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:38 [info] 16:38:38 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:38 [info] 16:38:38 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:38 [info] 16:38:38 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:38 [info] 16:38:38 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:38 [info] 16:38:38 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:39 [info] 16:38:39 +2 [ui] UIDataParams redirect event:  TEXT_CHANGED , control:  TextField  -> event:  PASSWORD_CHANGED , control: Password
+14:38:39 [info] 16:38:39 +2 [ui] UIDataParams redirect event:  PASSWORD_CHANGED , control:  EntryScreen  -> event:  PASSWORD_CHANGED , control: Content
+14:38:40 [info] 16:38:40 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  LoginButton  -> event:  LOGIN_PRESSED , control: InputContainer
+14:38:40 [info] 16:38:40 +2 [ui] UIDataParams redirect event:  LOGIN_PRESSED , control:  EntryScreen  -> event:  LOGIN_PRESSED , control: Content
+14:38:40 [info] 16:38:40 +2 [http] UrlRequest::StartAsync 0D6D8C6C
+14:38:40 [info] 16:38:40 +2 [http] UrlRequest::Start this= 0D6D8C6C thread= 6636
+14:38:40 [info] 16:38:40 +2 [base] LoginManager::Login request to show connecting screen
+14:38:40 [info] 16:38:40 +2 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 5924
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:38:40 [info] 16:38:40 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Static object = ULTRA
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Landscape = ULTRA
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Decoration Objects = ON
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Pbr = ON
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Reflections = HIGH
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Static Decal = ON
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Tank = ULTRA
+14:38:40 [info] 16:38:40 +2 [render] Material group quality: Grass = HIGH
+14:38:40 [info] 16:38:40 +2 [http] UrlRequest::StartInSeparateThread 0D6D8C6C wasCancelled= 0
+14:38:40 [info] 16:38:40 +2 [http] UrlRequest::OnRequestComplete 0D6D8C6C wasCancelled= 0
+14:38:41 [info] 16:38:41 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 5954
+14:38:41 [info] 16:38:41 +2 [base] Controller deactivated: Entry
+14:38:41 [info] 16:38:41 +2 [base] Controller activated: SmartDlcInitializationController
+14:38:41 [info] 16:38:41 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization - dynamicContentVersion:  0
+14:38:41 [info] 16:38:41 +2 [smart_dlc] SmartDlcInitializationController::InititalizeSmartDlc: using Disabled DLCManager
+14:38:41 [info] 16:38:41 +2 [smart_dlc] SmartDlcInitializationController: referenced dvpd files [  ]
+14:38:41 [info] 16:38:41 +2 [base] AppController::OnSmartDlcInitialized request to show connecting screen
+14:38:41 [info] 16:38:41 +2 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 5954
+14:38:41 [info] 16:38:41 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+14:38:41 [info] 16:38:41 +2 [base] [CamoDataProvider::Initialize] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/camouflages.xml
+14:38:41 [info] 16:38:41 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camouflages.yaml
+14:38:41 [info] 16:38:41 +2 [base] [DestructiblesCache::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/destructibles.xml
+14:38:41 [info] 16:38:41 +2 [base] [Items::ReadItemType] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/item_types.xml
+14:38:41 [info] 16:38:41 +2 [base] [Nations::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/available_nations.yaml
+14:38:41 [info] 16:38:41 +2 [base] [OptionalDevicesPresetsProvider::Load] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/optional_device_slots.xml
+14:38:41 [info] 16:38:41 +2 [base] [MaterialKinds::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/material_kinds.xml
+14:38:42 [info] AppContextImpl::InitializeLocalizations device locale: ru, locale: ru, game locale: ru, sound locale: ru, 
+14:38:43 [info] 16:38:43 +2 [net] Server: login1.wotblitz.eu:20016, Ip: 92.223.31.139:20016, Avg ping: 65.8ms, Loss: 0.0%
+14:38:43 [info] 16:38:43 +2 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.131:20016, Avg ping: 66.0ms, Loss: 0.0%
+14:38:51 [info] 16:38:51 +2 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.16:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:38:51 [info] 16:38:51 +2 [net] Server: login-wotblitzeu3-eu3.wotblitz.eu:20016, Ip: 35.205.187.129:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:38:51 [warning] 16:38:51 +2 [net] ClusterHost::SelectAddress : name = EU_C0, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.131:20016 push_back
+14:38:51 [warning] 16:38:51 +2 [net] ClusterHost::SelectAddress : name = EU_C1, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.139:20016 push_back
+14:38:51 [info] 16:38:51 +2 [BW] BWWrapper::SetupNetwork start
+14:38:51 [info] 16:38:51 +2 [BW] BWWrapper::SetupNetwork end, duration 2 ms
+14:38:51 [warning] 16:38:51 +2 [BW] W ServerConnection::send(0): Time since last send to server: 268150ms
+14:38:51 [info] 16:38:51 +2 [net] ConnectionManager::onLoggedOn message: {"dbid":532139741,"externals":["google","email","facebook"],"name":"InPigMan","security_msg":"no_phone","state":150110241,"token2":"532139741:7417145377521689394:192254957135177613337080659195991612310"}
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D83EC
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D83EC thread= 6636
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D8E6C
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D8E6C thread= 8444
+14:38:51 [info] 16:38:51 +2 [base] Controller deactivated: SmartDlcInitializationController
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D926C
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D926C thread= 10828
+14:38:51 [info] 16:38:51 +2 [base] Controller activated: SessionController
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D92EC
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D92EC thread= 11552
+14:38:51 [info] 16:38:51 +2 [base] LoginController::OnKickedFromServer parsed dynamic resources version:  1
+14:38:51 [warning] 16:38:51 +2 [net] ConnectionManager::onLoggedOff reason: 12
+14:38:51 [warning] can't set presence for offline client
+14:38:51 [info] 16:38:51 +2 [chat] WGXmppClientPrivate::disconnect
+14:38:51 [info] 16:38:51 +2 [base] Controller deactivated: SessionController
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Cancel 0D6D926C
+14:38:51 [info] 16:38:51 +2 [chat] XChatInstance::ReleaseGlooxResources
+14:38:51 [info] 16:38:51 +2 [chat] WGXmppClientPrivate::disconnect
+14:38:51 [info] 16:38:51 +2 [chat] WGXmppClientPrivate::disconnect
+14:38:51 [info] 16:38:51 +2 [base] AppController::SaveDynamicResourcesVersion devVersion:  1
+14:38:51 [info] 16:38:51 +2 [base] AppController::SaveDynamicResourcesVersion writting went:  1
+14:38:51 [info] 16:38:51 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 6264
+14:38:51 [info] 16:38:51 +2 [base] Controller activated: SmartDlcInitializationController
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization - dynamicContentVersion:  1
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization: loaded previouslySavedPath: 
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization: autoselected path: C:/Users/Admin/Documents/
+14:38:51 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:38:51 [info] 16:38:51 +2 [smart_dlc] Dlc::Storage::FreeSpace() storage info: path: C:/ freeSpace: 21867028480 totalSpace:  178372362240 readonly: false removable: false emulated: false
+14:38:51 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:38:51 [info] 16:38:51 +2 [smart_dlc] Dlc::Storage::FreeSpace() storage info: path: C:/ freeSpace: 21867028480 totalSpace:  178372362240 readonly: false removable: false emulated: false
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization: minimal space: 314572800 free space:  21867028480
+14:38:51 [info] 16:38:51 +2 [smart_dlc] Dlc::Storage::SaveSmartDlcStoragePathToOptions() path to packs folder:  C:/Users/Admin/Documents/packs/
+14:38:51 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcDynamicContentInitializer: Initialization started
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D926C wasCancelled= 1
+14:38:51 [error] 16:38:51 +2 [engine] Failed to open file: ~res:/default_dynamic_content_pack_url.txt
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcDynamicContentInitializer:RequestDynamicResourcesYaml http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Reset 0D6D916C
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcDynamicContentInitializer:RequestDynamicResourcesYaml http://cdn.static.wotb.app/dlc/s9.2.0_1.yaml
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Reset 0D6D91EC
+14:38:51 [info] 16:38:51 +2 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D916C
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D916C thread= 6636
+14:38:51 [info] 16:38:51 +2 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://cdn.static.wotb.app/dlc/s9.2.0_1.yaml
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D91EC
+14:38:51 [warning] 16:38:51 +2 [net] AppController::StartPrelogin needProcessDisconnect: 0 savedDisconnectReason: 0 discReason: 12
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D91EC thread= 11552
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:38:51 [info] 16:38:51 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Static object = ULTRA
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Landscape = ULTRA
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Decoration Objects = ON
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Pbr = ON
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Reflections = HIGH
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Static Decal = ON
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Tank = ULTRA
+14:38:51 [info] 16:38:51 +2 [render] Material group quality: Grass = HIGH
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D916C wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D92EC wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D91EC wasCancelled= 0
+14:38:51 [warning] 16:38:51 +2 [engine] [ConvertedFileSpriteDataLoader] File "~res:/Gfx/Lobby/icons/icon_age-rating_m" not found
+14:38:51 [warning] 16:38:51 +2 [engine] [ConvertedFileSpriteDataLoader] File "~res:/Gfx/Lobby/icons/icon_age-rating_m" not found
+14:38:51 [warning] 16:38:51 +2 [engine] [AutoSpriteDataLoaderWrapper] Failed to initialize sprite "~res:/Gfx/Lobby/icons/icon_age-rating_m". Pink placeholder is used
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::OnRequestComplete 0D6D916C wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [net] [AsyncRequester::OnRequestFinished] Request finished:  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:51 [info] 16:38:51 +2 [smart_dlc] [SmartDlcDynamicContentInitializer:OnSuccessfullResponse] Succsessfull response from  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDLCUtils::GetContentForCorrectGpuFromNode: found pack url dc_9.2.0_1_3325023_dx11.dvpm
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcPinger:TestCdnDownloadTime url: http://cdn.static.wotb.app/dlc/world_of_warplanes_blitz.next
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Reset 0D6D95EC
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D95EC
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcPinger:TestCdnDownloadTime url: http://dl-wotblitz-gc.wargaming.net/dlc/world_of_warplanes_blitz.next
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D95EC thread= 10828
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Reset 0D6D9DEC
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D9DEC
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D9DEC thread= 6636
+14:38:51 [info] 16:38:51 +2 [net] [AsyncRequester::OnFirstSuccessfullRequestSync] Successfull request:  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:51 [info] 16:38:51 +2 [net] [AsyncRequester::CancelRequests] Canceling requests
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Cancel 0D6D916C
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Cancel 0D6D91EC
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::OnRequestComplete 0D6D92EC wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D9DEC wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [base] Dynamic localizations setup completed.
+14:38:51 [info] 16:38:51 +2 [base] SLocalizationHelper::TryWriteDataToFile file C:/Users/Admin/Documents/DAVAProject/cache/localizations/ru.yaml saved.
+14:38:51 [info] 16:38:51 +2 [base] SLocalizationHelper::TryWriteDataToFile file C:/Users/Admin/Documents/DAVAProject/cache/localizations/ru.yaml.etag saved.
+14:38:51 [info] 16:38:51 +2 [base] Dynamic localizations loaded from remote data.
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::OnRequestComplete 0D6D91EC wasCancelled= 1
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::OnRequestComplete 0D6D9DEC wasCancelled= 0
+14:38:51 [error] 16:38:51 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppErrSmartDlcV2
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D92EC
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcPinger:TestCdnDownloadTime url: http://dl-wotblitz-gc.wargaming.net/dlc/world_of_warplanes_blitz.next 
+Response status: 200 Last CUrl result: 0 
+Time spent on request: 50 ms 
+Active test requests count: 1
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D92EC thread= 8444
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D95EC wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::OnRequestComplete 0D6D95EC wasCancelled= 0
+14:38:51 [error] 16:38:51 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppErrSmartDlcV2
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D976C
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D976C thread= 11552
+tp://cdn.static.wotb.app/dlc/world_of_warplanes_blitz.next 
+Response status: 200 Last CUrl result: 0 
+Time spent on request: 83 ms 
+Active test requests count: 0
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcPinger:OnCdnTestFinished Cdn test successful finished. CDN Url: http://dl-wotblitz-gc.wargaming.net/dlc 
+Time spent on request: 50
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDlcInitializationController::InititalizeSmartDlc: smartdlc superPackUrl =    , result.lastUrl =   , result.superPackUrl =  http://dl-wotblitz-gc.wargaming.net/dlc/dc_9.2.0_1_3325023_dx11.dvpm
+14:38:51 [error] 16:38:51 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppErrSmartDlcV2
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartAsync 0D6D936C
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::Start this= 0D6D936C thread= 6636
+14:38:51 [info] DLCManager(0) log file: C:/Users/Admin/Documents/DAVAProject/dlc_manager20220912163851.log
+14:38:51 [info] finish scan files for: 0.067000sec total files: 0
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D92EC wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::OnRequestComplete 0D6D92EC wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [smart_dlc] SmartDLC::OnResourcesAvailabilityUpdate. isSuccess:  1
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D936C wasCancelled= 0
+14:38:51 [info] 16:38:51 +2 [http] UrlRequest::StartInSeparateThread 0D6D976C wasCancelled= 0
+14:38:52 [info] 16:38:52 +2 [http] UrlRequest::OnRequestComplete 0D6D936C wasCancelled= 0
+14:38:52 [info] 16:38:52 +2 [http] UrlRequest::OnRequestComplete 0D6D976C wasCancelled= 0
+14:38:52 [info] 16:38:52 +2 [smart_dlc] SmartDLC::OnPackManagerInitialized
+14:38:52 [info] 16:38:52 +2 [smart_dlc] SmartDLC: Initialization finished. resources version:  3656893119 call listeners : 1
+14:38:52 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:38:52 [info] 16:38:52 +2 [smart_dlc] Dlc::Storage::FreeSpace() storage info: path: C:/ freeSpace: 21863149568 totalSpace:  178372362240 readonly: false removable: false emulated: false
+14:38:52 [error] 16:38:52 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppSmartDlcV2
+14:38:52 [info] 16:38:52 +2 [http] UrlRequest::StartAsync 0D5E177C
+14:38:52 [info] 16:38:52 +2 [http] UrlRequest::Start this= 0D5E177C thread= 10828
+14:38:52 [info] 16:38:52 +2 [smart_dlc] SmartDlcInitializationController: referenced dvpd files [ dc_9.2.0_1_3325023_dx11.dvpd ]
+14:38:52 [info] 16:38:52 +2 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> MandatoryPackDownloadScreen:666 6296
+14:38:52 [info] merge dlc meta took [7]ms
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:38:52 [info] 16:38:52 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Static object = ULTRA
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Landscape = ULTRA
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Decoration Objects = ON
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Pbr = ON
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Reflections = HIGH
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Static Decal = ON
+14:38:52 [info] 16:38:52 +2 [render] Material group quality: Tank = ULTRA
+14:38:52 [info] 16:38:52 +2 [http] UrlRequest::StartInSeparateThread 0D5E177C wasCancelled= 0
+14:38:53 [error] 16:38:53 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppSmartDlcV2
+14:38:53 [info] 16:38:53 +2 [http] UrlRequest::StartAsync 0D6D97EC
+14:38:53 [info] 16:38:53 +2 [http] UrlRequest::Start this= 0D6D97EC thread= 8444
+14:38:53 [info] 16:38:53 +2 [http] UrlRequest::StartInSeparateThread 0D6D97EC wasCancelled= 0
+14:38:53 [info] 16:38:53 +2 [http] UrlRequest::OnRequestComplete 0D5E177C wasCancelled= 0
+14:38:53 [info] 16:38:53 +2 [http] UrlRequest::OnRequestComplete 0D6D97EC wasCancelled= 0
+14:38:53 [warning] 16:38:53 +2 [smart_dlc] SmartDLC: Pack marked as downloaded more than once:  base_sfx
+14:38:55 [warning] 16:38:55 +2 [smart_dlc] SmartDLC: Pack marked as downloaded more than once:  map_pack_rudniki
+14:38:55 [warning] 16:38:55 +2 [smart_dlc] SmartDLC: Pack marked as downloaded more than once:  map_pack_rudniki_01
+14:38:55 [warning] 16:38:55 +2 [smart_dlc] SmartDLC: Pack marked as downloaded more than once:  map_pack_rudniki_02
+14:38:55 [warning] 16:38:55 +2 [smart_dlc] SmartDLC: Pack marked as downloaded more than once:  map_pack_rudniki_03
+14:38:56 [error] 16:38:56 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppSmartDlcV2
+14:38:56 [info] 16:38:56 +2 [http] UrlRequest::StartAsync 0D6D97EC
+14:38:56 [info] 16:38:56 +2 [http] UrlRequest::Start this= 0D6D97EC thread= 6636
+14:38:56 [error] 16:38:56 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppSmartDlcV2
+14:38:56 [info] 16:38:56 +2 [http] UrlRequest::StartAsync 0D6D98EC
+14:38:56 [info] 16:38:56 +2 [http] UrlRequest::Start this= 0D6D98EC thread= 11552
+14:38:56 [info] 16:38:56 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+14:38:56 [info] 16:38:56 +2 [base] [CamoDataProvider::Initialize] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/camouflages.xml
+14:38:57 [info] 16:38:57 +2 [http] UrlRequest::StartInSeparateThread 0D6D97EC wasCancelled= 0
+14:38:57 [info] 16:38:57 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camouflages.yaml
+14:38:57 [info] 16:38:57 +2 [http] UrlRequest::StartInSeparateThread 0D6D98EC wasCancelled= 0
+14:38:57 [info] 16:38:57 +2 [http] UrlRequest::OnRequestComplete 0D6D97EC wasCancelled= 0
+14:38:57 [info] 16:38:57 +2 [http] UrlRequest::OnRequestComplete 0D6D98EC wasCancelled= 0
+14:38:57 [info] 16:38:57 +2 [base] [DestructiblesCache::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/destructibles.xml
+14:38:57 [info] 16:38:57 +2 [base] [Items::ReadItemType] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/item_types.xml
+14:38:57 [info] 16:38:57 +2 [base] [Nations::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/available_nations.yaml
+14:38:57 [info] 16:38:57 +2 [base] [OptionalDevicesPresetsProvider::Load] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/optional_device_slots.xml
+14:38:57 [info] 16:38:57 +2 [base] [MaterialKinds::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/material_kinds.xml
+14:38:57 [info] AppContextImpl::InitializeLocalizations device locale: ru, locale: ru, game locale: ru, sound locale: ru, 
+14:38:57 [info] 16:38:57 +2 [base] LoginManager::Login request to show connecting screen
+14:38:57 [info] 16:38:57 +2 [base] ScreensFlow::RequestToShowScreen MandatoryPackDownloadScreen:-19 -> ConnectingScreen:666 6429
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:38:57 [info] 16:38:57 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Static object = ULTRA
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Landscape = ULTRA
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Decoration Objects = ON
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Pbr = ON
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Reflections = HIGH
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Static Decal = ON
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Tank = ULTRA
+14:38:57 [info] 16:38:57 +2 [render] Material group quality: Grass = HIGH
+14:38:58 [info] 16:38:58 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> PreLoginFlowScreen:666 6453
+14:38:58 [info] 16:38:58 +2 [base] Controller deactivated: SmartDlcInitializationController
+14:38:58 [info] 16:38:58 +2 [net] [AsyncRequester::CancelRequests] Canceling requests
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Cancel 0D6D916C
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Cancel 0D6D91EC
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Cancel 0D6D95EC
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Cancel 0D6D9DEC
+14:38:58 [info] 16:38:58 +2 [base] Controller activated: SmartDlcInitializationController
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization - dynamicContentVersion:  1
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization: loaded previouslySavedPath: C:/Users/Admin/Documents/packs/
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcInitializationController::StartInitialization: Set current storage path from prev
+14:38:58 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:38:58 [info] 16:38:58 +2 [smart_dlc] Dlc::Storage::FreeSpace() storage info: path: C:/ freeSpace: 21863084032 totalSpace:  178372362240 readonly: false removable: false emulated: false
+14:38:58 [info] 16:38:58 +2 [smart_dlc] Dlc::Storage::SaveSmartDlcStoragePathToOptions() path to packs folder:  C:/Users/Admin/Documents/packs/
+14:38:58 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcDynamicContentInitializer: Initialization started
+14:38:58 [error] 16:38:58 +2 [engine] Failed to open file: ~res:/default_dynamic_content_pack_url.txt
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcDynamicContentInitializer:RequestDynamicResourcesYaml http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Reset 0D6D95EC
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcDynamicContentInitializer:RequestDynamicResourcesYaml http://cdn.static.wotb.app/dlc/s9.2.0_1.yaml
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Reset 0D6D97EC
+14:38:58 [info] 16:38:58 +2 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartAsync 0D6D95EC
+14:38:58 [info] 16:38:58 +2 [net] [AsyncRequester::ObtainFirstSuccessfulResponse] Starting request:  http://cdn.static.wotb.app/dlc/s9.2.0_1.yaml
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Start this= 0D6D95EC thread= 8444
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartAsync 0D6D97EC
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Start this= 0D6D97EC thread= 6636
+14:38:58 [info] 16:38:58 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Static object = ULTRA
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Landscape = ULTRA
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Decoration Objects = ON
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Pbr = ON
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Reflections = HIGH
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Static Decal = ON
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Tank = ULTRA
+14:38:58 [info] 16:38:58 +2 [render] Material group quality: Grass = HIGH
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartInSeparateThread 0D6D95EC wasCancelled= 0
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartInSeparateThread 0D6D97EC wasCancelled= 0
+14:38:58 [warning] 16:38:58 +2 [engine] [ConvertedFileSpriteDataLoader] File "~res:/Gfx/Lobby/icons/icon_age-rating_m" not found
+14:38:58 [warning] 16:38:58 +2 [engine] [ConvertedFileSpriteDataLoader] File "~res:/Gfx/Lobby/icons/icon_age-rating_m" not found
+14:38:58 [warning] 16:38:58 +2 [engine] [AutoSpriteDataLoaderWrapper] Failed to initialize sprite "~res:/Gfx/Lobby/icons/icon_age-rating_m". Pink placeholder is used
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::OnRequestComplete 0D6D95EC wasCancelled= 0
+14:38:58 [info] 16:38:58 +2 [net] [AsyncRequester::OnRequestFinished] Request finished:  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:58 [info] 16:38:58 +2 [smart_dlc] [SmartDlcDynamicContentInitializer:OnSuccessfullResponse] Succsessfull response from  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDLCUtils::GetContentForCorrectGpuFromNode: found pack url dc_9.2.0_1_3325023_dx11.dvpm
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcPinger:TestCdnDownloadTime url: http://cdn.static.wotb.app/dlc/world_of_warplanes_blitz.next
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Reset 0D5E157C
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartAsync 0D5E157C
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Start this= 0D5E157C thread= 11552
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcPinger:TestCdnDownloadTime url: http://dl-wotblitz-gc.wargaming.net/dlc/world_of_warplanes_blitz.next
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Reset 0D5E177C
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartAsync 0D5E177C
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Start this= 0D5E177C thread= 10828
+Successfull request:  http://dl-wotblitz-gc.wargaming.net/dlc/s9.2.0_1.yaml
+14:38:58 [info] 16:38:58 +2 [net] [AsyncRequester::CancelRequests] Canceling requests
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Cancel 0D6D95EC
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Cancel 0D6D97EC
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::OnRequestComplete 0D6D97EC wasCancelled= 1
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartInSeparateThread 0D5E177C wasCancelled= 0
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::OnRequestComplete 0D5E177C wasCancelled= 0
+14:38:58 [error] 16:38:58 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppErrSmartDlcV2
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartAsync 0E6FBF4C
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcPinger:TestCdnDownloadTime url: http://dl-wotblitz-gc.wargaming.net/dlc/world_of_warplanes_blitz.next 
+Response status: 200 Last CUrl result: 0 
+Time spent on request: 29 ms 
+Active test requests count: 1
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Start this= 0E6FBF4C thread= 8444
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartInSeparateThread 0D5E157C wasCancelled= 0
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::OnRequestComplete 0D5E157C wasCancelled= 0
+14:38:58 [error] 16:38:58 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppErrSmartDlcV2
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartAsync 0E6FB04C
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcPinger:TestCdnDownloadTime url: http://cdn.static.wotb.app/dlc/world_of_warplanes_blitz.next 
+Response status: 200 Last CUrl result: 0 
+Time spent on request: 65 ms 
+Active test requests count: 0
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Start this= 0E6FB04C thread= 6636
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcPinger:OnCdnTestFinished Cdn test successful finished. CDN Url: http://dl-wotblitz-gc.wargaming.net/dlc 
+Time spent on request: 29
+14:38:58 [info] 16:38:58 +2 [smart_dlc] SmartDlcInitializationController::InititalizeSmartDlc: smartdlc superPackUrl =  http://dl-wotblitz-gc.wargaming.net/dlc/dc_9.2.0_1_3325023_dx11.dvpm  , result.lastUrl =   , result.superPackUrl =  http://dl-wotblitz-gc.wargaming.net/dlc/dc_9.2.0_1_3325023_dx11.dvpm
+14:38:58 [info] 16:38:58 +2 [dlc_engine] DAVA::ResourceDBImpl::UnsafeDelete removedCount: 27325
+14:38:58 [info] delete dlc info from ResourcesDB took [7]ms
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartInSeparateThread 0E6FBF4C wasCancelled= 0
+14:38:58 [info] [DAVA::DLCManagerImpl::ClearResources] before downloader.reset()
+14:38:58 [info] before downloadThread->Join() in [DAVA::DLCDownloaderImpl::Deinitialize]
+14:38:58 [info] [DAVA::DLCManagerImpl::ClearResources] after downloader.reset()
+14:38:58 [error] 16:38:58 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppErrSmartDlcV2
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartAsync 0E6FB8CC
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::Start this= 0E6FB8CC thread= 10828
+14:38:58 [info] DLCManager(0) log file: C:/Users/Admin/Documents/DAVAProject/dlc_manager20220912163858.log
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::OnRequestComplete 0E6FBF4C wasCancelled= 0
+14:38:58 [info] finish scan files for: 0.077000sec total files: 27325
+14:38:58 [info] 16:38:58 +2 [http] UrlRequest::StartInSeparateThread 0E6FB04C wasCancelled= 0
+14:38:59 [info] 16:38:59 +2 [http] UrlRequest::OnRequestComplete 0E6FB04C wasCancelled= 0
+14:38:59 [info] 16:38:59 +2 [http] UrlRequest::StartInSeparateThread 0E6FB8CC wasCancelled= 0
+14:38:59 [info] 16:38:59 +2 [http] UrlRequest::OnRequestComplete 0E6FB8CC wasCancelled= 0
+14:38:59 [info] 16:38:59 +2 [smart_dlc] SmartDLC::OnPackManagerInitialized
+14:38:59 [info] 16:38:59 +2 [smart_dlc] SmartDLC: Initialization finished. resources version:  3656893119 call listeners : 1
+14:38:59 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:38:59 [info] 16:38:59 +2 [smart_dlc] Dlc::Storage::FreeSpace() storage info: path: C:/ freeSpace: 21862744064 totalSpace:  178372362240 readonly: false removable: false emulated: false
+14:38:59 [error] 16:38:59 +2 [analytics] CloudAnalyticsEventsPbV2.SessionDataGroup is empty, but we are trying to set data for event. CloudAnalyticsEventsPbV2.AppSmartDlcV2
+14:38:59 [info] 16:38:59 +2 [http] UrlRequest::StartAsync 0E6FC3CC
+14:38:59 [info] 16:38:59 +2 [http] UrlRequest::Start this= 0E6FC3CC thread= 11552
+14:38:59 [info] 16:38:59 +2 [smart_dlc] SmartDlcInitializationController: referenced dvpd files [ dc_9.2.0_1_3325023_dx11.dvpd ]
+14:38:59 [info] 16:38:59 +2 [base] AppController::OnSmartDlcInitialized request to show connecting screen
+14:38:59 [info] 16:38:59 +2 [base] ScreensFlow::RequestToShowScreen PreLoginFlowScreen:666 -> ConnectingScreen:666 6471
+14:38:59 [info] merge dlc meta took [10]ms
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:38:59 [info] 16:38:59 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camoSort_configuration.yaml
+14:38:59 [info] 16:38:59 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Static object = ULTRA
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Landscape = ULTRA
+14:38:59 [info] 16:38:59 +2 [base] [CamoDataProvider::Initialize] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/camouflages.xml
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:38:59 [info] 16:38:59 +2 [http] UrlRequest::StartInSeparateThread 0E6FC3CC wasCancelled= 0
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Decoration Objects = ON
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Pbr = ON
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Reflections = HIGH
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Static Decal = ON
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Tank = ULTRA
+14:38:59 [info] 16:38:59 +2 [render] Material group quality: Grass = HIGH
+14:38:59 [info] 16:38:59 +2 [http] UrlRequest::OnRequestComplete 0E6FC3CC wasCancelled= 0
+14:38:59 [info] 16:38:59 +2 [base] [CamoDataProvider::ObtainDefaultCamoSort] load file : F:/steam/steamapps/common/World of Tanks Blitz/Data/camouflages.yaml
+14:38:59 [info] 16:38:59 +2 [base] [DestructiblesCache::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/destructibles.xml
+14:38:59 [info] 16:38:59 +2 [base] [Items::ReadItemType] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/item_types.xml
+14:38:59 [info] 16:38:59 +2 [base] [Nations::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/available_nations.yaml
+14:38:59 [info] 16:38:59 +2 [base] [OptionalDevicesPresetsProvider::Load] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/item_defs/vehicles/common/optional_device_slots.xml
+14:38:59 [info] 16:38:59 +2 [base] [MaterialKinds::Init] load: F:/steam/steamapps/common/World of Tanks Blitz/Data/XML/material_kinds.xml
+14:39:00 [info] AppContextImpl::InitializeLocalizations device locale: ru, locale: ru, game locale: ru, sound locale: ru, 
+14:39:01 [info] 16:39:01 +2 [net] Server: login1.wotblitz.eu:20016, Ip: 92.223.31.139:20016, Avg ping: 66.8ms, Loss: 0.0%
+14:39:01 [info] 16:39:01 +2 [net] Server: login0.wotblitz.eu:20016, Ip: 92.223.31.131:20016, Avg ping: 66.8ms, Loss: 0.0%
+14:39:09 [info] 16:39:09 +2 [net] Server: login2.wotblitz.eu:20016, Ip: 80.240.112.16:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:39:09 [info] 16:39:09 +2 [net] Server: login-wotblitzeu3-eu3.wotblitz.eu:20016, Ip: 35.205.187.129:20016, Avg ping: -1.0ms, Loss: 100.0%
+14:39:09 [warning] 16:39:09 +2 [net] ClusterHost::SelectAddress : name = EU_C0, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.131:20016 push_back
+14:39:09 [warning] 16:39:09 +2 [net] ClusterHost::SelectAddress : name = EU_C1, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.139:20016 push_back
+14:39:09 [info] 16:39:09 +2 [BW] BWWrapper::SetupNetwork start
+14:39:09 [info] 16:39:09 +2 [BW] BWWrapper::SetupNetwork end, duration 2 ms
+14:39:09 [warning] 16:39:09 +2 [BW] W ServerConnection::send(0): Time since last send to server: 286590ms
+14:39:09 [info] 16:39:09 +2 [net] ConnectionManager::onLoggedOn message: {"dbid":532139741,"externals":["google","email","facebook"],"name":"InPigMan","security_msg":"no_phone","state":150110241,"token2":"532139741:7417145377521689394:302326681377953126168060401951422411286"}
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::StartAsync 0DFAA12C
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::Start this= 0DFAA12C thread= 11552
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::StartAsync 0DFA9EAC
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::Start this= 0DFA9EAC thread= 8444
+14:39:09 [info] 16:39:09 +2 [base] Controller deactivated: SmartDlcInitializationController
+14:39:09 [info] 16:39:09 +2 [net] [AsyncRequester::CancelRequests] Canceling requests
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::Cancel 0D6D95EC
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::Cancel 0D6D97EC
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::Cancel 0D5E157C
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::Cancel 0D5E177C
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::StartAsync 0DFA992C
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::Start this= 0DFA992C thread= 6636
+14:39:09 [info] 16:39:09 +2 [base] Controller activated: SessionController
+14:39:09 [info] 16:39:09 +2 [http] UrlRequest::StartAsync 0DFA902C
+14:39:09 [info] 16:39:09 +2 [base] Dynamic localizations setup completed.
+14:39:09 [info] 16:39:09 +2 [base] Dynamic localizations loaded from local file:  C:/Users/Admin/Documents/DAVAProject/cache/localizations/ru.yaml
+14:39:09 [info] 16:39:09 +2 [base] TestSystem: Server does not confirm group, but test disabled. Clear cached data.
+14:39:09 [info] 16:39:09 +2 [base] TestSystem: Could not clean test cached data. Maybe files does not exists?
+14:39:10 [info] AccountGameLogic::onBecomePlayer() 272968346 6803
+14:39:10 [info] 16:39:10 +2 [prebattle] PrebattleRequester::SetClientPrebattle
+14:39:10 [info] 16:39:10 +2 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+14:39:10 [info] 16:39:10 +2 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+14:39:10 [info] 16:39:10 +2 [base] AccountSyncController::Activate request to show connecting screen
+14:39:10 [error] 16:39:10 +2 [base] Request to switch to current screen: ConnectingScreen
+14:39:10 [info] 16:39:10 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 6803
+14:39:10 [error] 16:39:10 +2 [base] Request to switch to current screen: ConnectingScreen
+14:39:10 [info] 16:39:10 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 6803
+14:39:10 [info] 16:39:10 +2 [base] Shop state is not synchronized 2
+14:39:10 [info] 16:39:10 +2 [base] AppGraphicsOptionsMigrationManager::Migrate
+14:39:10 [info] 16:39:10 +2 [base] AppGraphicsOptionsMigrationManager::Migrate : currentVersion =  9 , deviceData.isFirstRun =  0 , MaxVersion =  9 , loadedFromFile =  1
+14:39:10 [info] 16:39:10 +2 [base] Graphics options do not need to be migrated (already max migration version).
+14:39:10 [info] 16:39:10 +2 [base] [GraphicsOptionsManager::LoadFromMap] Selected user options:
+ Graphics options:
+	WaterQuality: High
+	ObjectsQuality: High
+	VehiclesQuality: High
+	EffectsQuality: High
+	LevelOfDetail: High
+	FogQuality: High
+	AnisotropicFiltering: 4X
+	Antialiasing: Off
+	Camouflage: ForAll
+	GrassQuality: High
+	GrassInSniperMode: true
+	TankTreads: true
+	ShadowQuality: Medium
+	HitMarks: true
+	Shadows: false
+	HDTextures: true
+	UHDTextures: true
+	HalfResolutionV2: Off
+	VSync: true
+	FPSLimit: 60
+	Fullscreen: true
+	ColorblindMode: false
+	TankSuspension: true
+
+14:39:11 [info] 16:39:11 +2 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> GarageScreen:42 6852
+14:39:11 [info] 16:39:11 +2 [base] Shop state is not synchronized 0
+14:39:12 [warning] 16:39:12 +2 [ads] IronSource application key is not configured!
+14:39:12 [error] 16:39:12 +2 [shop] No prices fetched, clearing! steam
+14:39:12 [info] GarageScreen::LoadResources begin
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Water = ULTRA_HIGH
+14:39:13 [info] 16:39:13 +2 [render] Draw Water Reflection / Refraction: 1 / 1
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Static object = ULTRA
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Landscape = ULTRA
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Spherical Harmonics = ULTRA
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Decoration Objects = ON
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Pbr = ON
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Reflections = HIGH
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Static Decal = ON
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Tank = ULTRA
+14:39:13 [info] 16:39:13 +2 [render] Material group quality: Grass = HIGH
+14:39:13 [info] 16:39:13 +2 [base] HangarLoadingController::Activate start
+14:39:13 [info] 16:39:13 +2 [base] Controller activated: HangarLoadingController
+14:39:13 [info] 16:39:13 +2 [base] HangarLoadingController::StartLoadingState start, state 0
+14:39:13 [info] 16:39:13 +2 [base] HangarLoadingController::StartLoadingState start, state 1
+14:39:13 [info] 16:39:13 +2 [base] Shop state is not synchronized 2
+14:39:13 [info] 16:39:13 +2 [base] HangarLoadingController::StartLoadingState end, state 1 duration 1 ms
+14:39:13 [info] 16:39:13 +2 [base] HangarLoadingController::StartLoadingState end, state 0 duration 3 ms
+14:39:13 [info] 16:39:13 +2 [base] HangarLoadingController::Activate end, duration 5 ms
+14:39:15 [info] 16:39:15 +2 [render] Creating ShadowMap texture with size:  16 x 16  arraySize:  3
+14:39:15 [info] 16:39:15 +2 [render] Setting  dynamicShadowMap  texture. Size: 16 x 16 old size: 0 x 0  arraySize:  0
+14:39:24 [info] 16:39:24 +2 [render] Creating DepthPrepass texture with size:  16 x 16
+14:39:24 [info] 16:39:24 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 16 x 16 old size: 0 x 0  arraySize:  0
+14:39:28 [info] 16:39:28 +2 [render] Creating ShadowMap texture with size:  2048 x 2048  arraySize:  3
+14:39:28 [info] 16:39:28 +2 [render] Setting  dynamicShadowMap  texture. Size: 2048 x 2048 old size: 16 x 16  arraySize:  3
+14:39:28 [info] 16:39:28 +2 [render] Creating DepthPrepass texture with size:  2048 x 2048
+14:39:28 [info] 16:39:28 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 2048 x 2048 old size: 16 x 16  arraySize:  1
+14:39:28 [warning] HeavyResourceValidationChecker: No CRC file
+14:39:28 [warning] 16:39:28 +2 [BW] W ServerConnection::processInput(272968346): There were 15946 ms between packets
+14:39:29 [error] GetDiskFreeSpace failed for: H:\. error=0X15
+14:39:29 [info] 16:39:29 +2 [smart_dlc] Dlc::Storage::FreeSpace() storage info: path: C:/ freeSpace: 21861072896 totalSpace:  178372362240 readonly: false removable: false emulated: false
+14:39:30 [info] 16:39:30 +2 [chat] WGXmppClientPrivate::connect
+14:39:30 [info] 16:39:30 +2 [chat] WGXmppClientPrivate::disconnect
+14:39:30 [info] 16:39:30 +2 [chat] XChatInstance::onClientCreated
+14:39:30 [info] 16:39:30 +2 [chat] ConnectionTask::ConnectionTask
+14:39:30 [info] 16:39:30 +2 [chat] ConnectionTask: try to start
+14:39:30 [info] 16:39:30 +2 [chat] ConnectionTask: start
+14:39:30 [info] 16:39:30 +2 [chat] ConnectionTask: complete
+14:39:30 [info] 16:39:30 +2 [chat] ConnectionTask::~ConnectionTask
+14:39:31 [warning] WGXmppClientPrivate::onConnect
+14:39:31 [info] 16:39:31 +2 [chat] XChatInstance::onConnect()
+14:39:31 [info] 16:39:31 +2 [chat] block list size 0
+14:39:32 [info] 16:39:32 +2 [base] {
+	"end_date" : "2022-09-23 08:00:00",
+	"icon" : "https://static.gamegrids.net:443/wotb/images/compressed/e1050d242c6041a08b06b06617ab205f@2x.jpg",
+	"localizations" : 
+	{
+		"ru" : 
+		{
+			"text" : "\u0422-22 \u041d\u0435\u0443\u043b\u043e\u0432\u0438\u043c\u044b\u0439"
+		}
+	}
+}
+14:39:32 [info] 16:39:32 +2 [base] {
+	"end_date" : "2022-09-21 09:00:00",
+	"icon" : "https://static.gamegrids.net:443/wotb/images/compressed/dac62e2a82424e58be5781a0d837e46f@2x.png",
+	"localizations" : 
+	{
+		"ru" : 
+		{
+			"text" : "\u041d\u0430\u0442\u0438\u0441\u043a \u0438 \u043d\u0430\u043f\u043e\u0440"
+		}
+	}
+}
+14:39:32 [info] 16:39:32 +2 [base] {
+	"end_date" : "2022-09-20 08:00:00",
+	"icon" : "https://static.gamegrids.net:443/wotb/images/compressed/8d01db2f619849b796519db11d7afdf3@2x.jpg",
+	"localizations" : 
+	{
+		"ru" : 
+		{
+			"text" : "\u0421\u043a\u0430\u0437\u043e\u0447\u043d\u044b\u0435 \u0431\u043e\u0433\u0430\u0442\u0441\u0442\u0432\u0430"
+		}
+	}
+}
+14:39:32 [info] 16:39:32 +2 [base] {
+	"end_date" : "2022-09-21 08:00:00",
+	"icon" : "https://static.gamegrids.net:443/wotb/images/compressed/851a90d117ab407183b01229d2e3d52e@2x.jpg",
+	"localizations" : 
+	{
+		"ru" : 
+		{
+			"text" : "\u041d\u0435\u0443\u0434\u0435\u0440\u0436\u0438\u043c\u044b\u0435 \u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u0438"
+		}
+	}
+}
+14:39:37 [error] [YamlParser::Parse] Can't Open file Stories/HangarMain2022Customization/settings.yaml for read
+14:39:37 [warning] 16:39:37 +2 [story] could not create parser:  ~res:/Stories/HangarMain2022Customization/settings.yaml
+14:39:37 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_25/settings.yaml for read
+14:39:37 [warning] 16:39:37 +2 [story] could not create parser:  ~res:/Stories/bp_season_25/settings.yaml
+14:39:46 [info] 16:39:46 +2 [base] HangarLoadingController::StartLoadingState start, state 2
+14:39:46 [info] 16:39:46 +2 [base] Shop state is not synchronized 2
+14:39:46 [info] 16:39:46 +2 [base] HangarLoadingController::StartLoadingState end, state 2 duration 2 ms
+14:39:46 [warning] 16:39:46 +2 [BW] W ServerConnection::processInput(272968346): There were 10218 ms between packets
+14:39:47 [info] 16:39:47 +2 [base] HangarLoadingController::StartLoadingState start, state 3
+14:39:47 [info] 16:39:47 +2 [base] Shop state is not synchronized 2
+14:39:47 [info] 16:39:47 +2 [base] HangarLoadingController::StartLoadingState end, state 3 duration 3 ms
+14:39:47 [info] 16:39:47 +2 [base] HangarLoadingController::StartLoadingState start, state 4
+14:39:47 [info] 16:39:47 +2 [base] HangarLoadingController::StartLoadingState end, state 4 duration 1 ms
+14:39:48 [info] 16:39:48 +2 [base] HangarLoadingController::StartLoadingState start, state 5
+14:39:48 [info] 16:39:48 +2 [base] HangarLoadingController::StartLoadingState start, state 6
+14:39:48 [info] 16:39:48 +2 [base] HangarLoadingController::StartLoadingState start, state 7
+14:39:48 [info] 16:39:48 +2 [base] HangarLoadingController::StartLoadingState end, state 7 duration 1 ms
+14:39:48 [info] 16:39:48 +2 [base] HangarLoadingController::StartLoadingState end, state 6 duration 1 ms
+14:39:48 [info] 16:39:48 +2 [base] HangarLoadingController::StartLoadingState end, state 5 duration 3 ms
+14:39:49 [info] 16:39:49 +2 [base] HangarLoadingController::Deactivate start
+14:39:49 [info] 16:39:49 +2 [base] Controller deactivated: HangarLoadingController
+14:39:49 [info] 16:39:49 +2 [base] HangarLoadingController::Deactivate end, duration 1 ms
+14:39:49 [info] 16:39:49 +2 [base] LobbyBaseController destroyed: HangarLoadingController
+14:39:49 [info] 16:39:49 +2 [base] Controller activated: BattlePassVideoScreen
+14:39:49 [info] 16:39:49 +2 [render] Creating DepthPrepass texture with size:  1024 x 1024
+14:39:49 [info] 16:39:49 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1024 x 1024 old size: 2048 x 2048  arraySize:  1
+14:39:49 [info] 16:39:49 +2 [engine] Resize canvas Texture 2811894859.webp:0
+14:39:51 [info] 16:39:51 +2 [engine] Resize canvas Texture 955697770.webp:0
+14:39:51 [info] 16:39:51 +2 [engine] Resize canvas Texture 3194140868.webp:0
+14:39:51 [info] 16:39:51 +2 [engine] Resize canvas Texture 1967024993.webp:0
+14:39:51 [info] 16:39:51 +2 [engine] Resize canvas Texture 1748720601.webp:0
+14:39:51 [info] 16:39:51 +2 [engine] Resize canvas Texture 2741471356.webp:0
+14:39:52 [info] 16:39:52 +2 [engine] Resize canvas Texture 636746450.webp:0
+14:39:57 [info] 16:39:57 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Right  -> event:  GO_TO_NEXT , control: PaginatorWithButtons
+14:39:57 [info] 16:39:57 +2 [ui] UIDataParams redirect event:  GO_TO_NEXT , control:  PaginatorWithButtons  -> event:  SWITCH_NEXT , control: Paginator
+14:39:57 [warning] 16:39:57 +2 [ui] Animation START_SLIDE_SHOW has stopped due to the same animation has started recently
+14:39:59 [error] 16:39:59 +2 [ui] Style sheet can not find component UITextComponent in control Content
+14:39:59 [error] 16:39:59 +2 [ui] Style sheet can not find component UITextComponent in control Content
+14:39:59 [error] 16:39:59 +2 [ui] Style sheet can not find component UIOpacityComponent in control HoverBg
+14:39:59 [error] 16:39:59 +2 [ui] Style sheet can not find component UIOpacityComponent in control HoverBg
+14:39:59 [info] 16:39:59 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Right  -> event:  GO_TO_NEXT , control: PaginatorWithButtons
+14:39:59 [info] 16:39:59 +2 [ui] UIDataParams redirect event:  GO_TO_NEXT , control:  PaginatorWithButtons  -> event:  SWITCH_NEXT , control: Paginator
+14:39:59 [warning] 16:39:59 +2 [ui] Animation START_SLIDE_SHOW has stopped due to the same animation has started recently
+14:40:00 [info] 16:40:00 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Right  -> event:  GO_TO_NEXT , control: PaginatorWithButtons
+14:40:00 [info] 16:40:00 +2 [ui] UIDataParams redirect event:  GO_TO_NEXT , control:  PaginatorWithButtons  -> event:  SWITCH_NEXT , control: Paginator
+14:40:00 [warning] 16:40:00 +2 [ui] Animation START_SLIDE_SHOW has stopped due to the same animation has started recently
+14:40:01 [info] 16:40:01 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Right  -> event:  GO_TO_NEXT , control: PaginatorWithButtons
+14:40:01 [info] 16:40:01 +2 [ui] UIDataParams redirect event:  GO_TO_NEXT , control:  PaginatorWithButtons  -> event:  SWITCH_NEXT , control: Paginator
+14:40:01 [warning] 16:40:01 +2 [ui] Animation START_SLIDE_SHOW has stopped due to the same animation has started recently
+14:40:02 [info] 16:40:02 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Right  -> event:  GO_TO_NEXT , control: PaginatorWithButtons
+14:40:02 [info] 16:40:02 +2 [ui] UIDataParams redirect event:  GO_TO_NEXT , control:  PaginatorWithButtons  -> event:  SWITCH_NEXT , control: Paginator
+14:40:03 [error] 16:40:03 +2 [ui] Style sheet can not find component UITextComponent in control Content
+14:40:03 [error] 16:40:03 +2 [ui] Style sheet can not find component UITextComponent in control Content
+14:40:03 [error] 16:40:03 +2 [ui] Style sheet can not find component UIOpacityComponent in control HoverBg
+14:40:03 [error] 16:40:03 +2 [ui] Style sheet can not find component UIOpacityComponent in control HoverBg
+14:40:04 [info] 16:40:04 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  CloseButton  -> event:  CLOSE_EVENT_FROM_BUTTON , control: CloseButtonWrapper
+14:40:04 [info] 16:40:04 +2 [base] Processing Back event. Controller: BattlePassVideoScreen
+14:40:04 [info] 16:40:04 +2 [base] Controller deactivated: BattlePassVideoScreen
+14:40:04 [info] 16:40:04 +2 [base] HangarController::Activate start
+14:40:04 [info] 16:40:04 +2 [base] Controller activated: HangarController
+14:40:04 [info] 16:40:04 +2 [base] HangarController::Activate phase 1 end, duration 139 ms
+14:40:04 [info] 16:40:04 +2 [base] HangarController::Activate phase 2 end, duration 1 ms
+14:40:04 [info] 16:40:04 +2 [base] HangarController::Activate phase 3 end, duration 1 ms
+14:40:04 [info] 16:40:04 +2 [base] HangarController::Activate phase 4 end, duration 2 ms
+14:40:04 [info] 16:40:04 +2 [base] HangarController::Activate phase 5 end, duration 0 ms
+14:40:04 [info] 16:40:04 +2 [base] HangarController::Activate end, duration 145 ms
+14:40:04 [info] 16:40:04 +2 [prebattle] SquadController::Activate 1EC68600
+14:40:04 [info] 16:40:04 +2 [base] LobbyBaseController destroyed: BattlePassVideoScreen
+14:40:06 [error] 16:40:06 +2 [engine] SceneFileV2::LoadSceneArchive failed to open file: ~res:/3d/FX/UI/BattlePass/Season_16/WidgetStar.sc2
+14:40:06 [error] 16:40:06 +2 [engine] SceneFileV2::LoadSceneArchive failed to open file: ~res:/3d/FX/UI/BattlePass/Season_16/WidgetGlow_circuit_Free.sc2
+14:40:06 [error] 16:40:06 +2 [engine] SceneFileV2::LoadSceneArchive failed to open file: ~res:/3d/FX/UI/BattlePass/Season_16/WidgetGlow_circuit_Prem.sc2
+14:40:06 [error] 16:40:06 +2 [engine] SceneFileV2::LoadSceneArchive failed to open file: ~res:/3d/FX/UI/BattlePass/Season_16/WidgetGlow.sc2
+14:40:10 [error] 16:40:10 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:40:10 [info] 16:40:10 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:40:10 [info] 16:40:10 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 1024 x 1024  arraySize:  1
+14:40:12 [warning] 16:40:12 +2 [BW] W ServerConnection::processInput(272968346): There were 7876 ms between packets
+14:40:12 [info] 16:40:12 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:40:12 [info] 16:40:12 +2 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+14:40:12 [info] 16:40:12 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:40:12 [info] 16:40:12 +2 [engine] Resize canvas Texture 3875290511.webp:0
+14:40:12 [info] 16:40:12 +2 [engine] Resize canvas Texture 2131343047.webp:0
+14:40:13 [info] 16:40:13 +2 [render] Creating DepthPrepass texture with size:  512 x 256
+14:40:13 [info] 16:40:13 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 512 x 256 old size: 1920 x 1080  arraySize:  1
+14:40:13 [info] 16:40:13 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:40:13 [info] 16:40:13 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 512 x 256  arraySize:  1
+14:40:13 [info] 16:40:13 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:Hetzer  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:40:13 [info] 16:40:13 +2 [ui] UIDataParams redirect event:  ON_MODULE_PROGRESS_ANIMATION_STARTED , control:  ModulesContent  -> event:  ON_MODULE_PROGRESS_ANIMATION_STARTED , control: Inventory
+14:40:13 [info] 16:40:13 +2 [engine] Resize canvas Texture 4090738018.webp:0
+14:40:13 [info] 16:40:13 +2 [engine] Resize canvas Texture 2013094758.jpg:0
+14:40:13 [info] 16:40:13 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipMissionsButtonUnlocked
+14:40:13 [info] 16:40:13 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipMissionsButtonUnlocked  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+14:40:13 [info] 16:40:13 +2 [engine] Resize canvas Texture 2352364317.jpg:0
+14:40:13 [info] 16:40:13 +2 [engine] Resize canvas Texture 845114785.png:0
+14:40:13 [info] 16:40:13 +2 [engine] Resize canvas Texture 2473134315.jpg:0
+14:40:14 [error] 16:40:14 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:40:14 [info] 16:40:14 +2 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+14:40:14 [error] 16:40:14 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:40:14 [info] 16:40:14 +2 [ui] UIDataParams redirect event:  CANCEL_HOVER , control:  ButtonDecorator  -> event:  CANCEL_HOVER , control: ContentHolder
+14:40:14 [info] 16:40:14 +2 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+14:40:14 [info] 16:40:14 +2 [ui] UIDataParams redirect event:  CANCEL_HOVER , control:  ButtonDecorator  -> event:  CANCEL_HOVER , control: ContentHolder
+14:40:14 [info] 16:40:14 +2 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+14:40:14 [info] 16:40:14 +2 [ui] UIDataParams redirect event:  PUSH , control:  ButtonDecorator  -> event:  PUSH , control: ContentHolder
+14:40:15 [info] 16:40:15 +2 [ui] UIDataParams redirect event:  PULL , control:  ButtonDecorator  -> event:  PULL , control: ContentHolder
+14:40:15 [info] 16:40:15 +2 [ui] UIDataParams redirect event:  ON_TOUCH , control:  ButtonDecorator  -> event:  ON_TOUCH , control: ContentHolder
+14:40:15 [info] 16:40:15 +2 [ui] UIDataParams redirect event:  ON_TOUCH , control:  StoryButton  -> event:  ON_BATTLEPASS_BTN_CLICKED , control: StoryBoxHolder
+14:40:15 [info] 16:40:15 +2 [ui] UIDataParams redirect event:  ON_BATTLEPASS_BTN_CLICKED , control:  StoryFragment  -> event:  ON_BATTLEPASS_BTN_CLICKED , control: StoryButtonsHolder
+14:40:15 [info] 16:40:15 +2 [prebattle] SquadController::Deactivate 1EC68600
+14:40:15 [info] 16:40:15 +2 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic 1EC68600 dialogOnScreen: 0 subscribed: 0
+14:40:15 [info] 16:40:15 +2 [base] HangarController::Deactivate start
+14:40:15 [info] 16:40:15 +2 [base] Controller deactivated: HangarController
+14:40:15 [info] 16:40:15 +2 [base] HangarController::Deactivate end, duration 37 ms
+14:40:15 [info] 16:40:15 +2 [base] Controller activated: BattlePassController
+14:40:15 [info] 16:40:15 +2 [tutorial] Lesson destroyed: questsLesson
+14:40:17 [info] 16:40:17 +2 [engine] Resize canvas Texture 2482842331.webp:0
+14:40:17 [info] 16:40:17 +2 [engine] Resize canvas Texture 374703180.webp:0
+14:40:17 [error] 16:40:17 +2 [ui] Style sheet can not find component UITextureComponent in control Texture
+14:40:17 [info] 16:40:17 +2 [ui] UIDataParams redirect event:  ON_SCROLL_ENDED , control:  BattlePassBasicScreen  -> event:  ON_SCROLL_ENDED , control: BattlePassMainScreen
+14:40:17 [info] 16:40:17 +2 [engine] Resize canvas Texture 3400140165.webp:0
+14:40:17 [info] 16:40:17 +2 [engine] Resize canvas Texture 3048608976.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 3991673125.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 4161644299.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 2061270298.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 669540155.webp:0
+14:40:18 [info] 16:40:18 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 1927895492.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 4176325198.png:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 2782649414.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 1407229891.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 1290241412.webp:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 895102039.webp:0
+14:40:18 [info] 16:40:18 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:18 [info] 16:40:18 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 192965148.png:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 3248353477.png:0
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 945920987.webp:0
+14:40:18 [info] 16:40:18 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 510982398.webp:0
+14:40:18 [info] 16:40:18 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:18 [info] 16:40:18 +2 [engine] Resize canvas Texture 2395195329.webp:0
+14:40:20 [info] 16:40:20 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: BattlePassFreePath
+14:40:20 [info] 16:40:20 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  BattlePassFreePath  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+14:40:22 [info] 16:40:22 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: BattlePassPaidPath
+14:40:22 [info] 16:40:22 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  BattlePassPaidPath  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+14:40:24 [info] 16:40:24 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: BattlePassOffer
+14:40:24 [info] 16:40:24 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  BattlePassOffer  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+14:40:24 [info] 16:40:24 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:25 [info] 16:40:25 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:25 [warning] 16:40:25 +2 [ui] Animation TuttorialRectScaling has stopped due to the same animation has started recently
+14:40:25 [info] 16:40:25 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:25 [warning] 16:40:25 +2 [ui] Animation TuttorialRectScaling has stopped due to the same animation has started recently
+14:40:26 [info] 16:40:26 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:26 [warning] 16:40:26 +2 [ui] Animation TuttorialRectScaling has stopped due to the same animation has started recently
+14:40:26 [info] 16:40:26 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:26 [warning] 16:40:26 +2 [ui] Animation TuttorialRectScaling has stopped due to the same animation has started recently
+14:40:26 [info] 16:40:26 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:26 [warning] 16:40:26 +2 [ui] Animation TuttorialRectScaling has stopped due to the same animation has started recently
+14:40:26 [info] 16:40:26 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  TASK_JOURNAL_BUTTON_CLICKED , control: TaskJournalButton
+14:40:27 [info] 16:40:27 +2 [base] Controller deactivated: BattlePassController
+14:40:27 [info] 16:40:27 +2 [base] Controller activated: TaskJournalScreenController
+14:40:27 [info] 16:40:27 +2 [base] Controller activated: TaskJournalBattlePassTabController
+14:40:28 [info] 16:40:28 +2 [engine] Resize canvas Texture 3991673125.webp:0
+14:40:28 [error] 16:40:28 +2 [ui] Style sheet can not find component UITextureComponent in control Texture
+14:40:28 [info] 16:40:28 +2 [render] Creating DepthPrepass texture with size:  1024 x 1024
+14:40:28 [info] 16:40:28 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1024 x 1024 old size: 1920 x 1080  arraySize:  1
+14:40:33 [info] 16:40:33 +2 [ui] UIDataParams redirect event:  ShowTabNameEffect , control:  BattlePassTabPage_1  -> event:  ShowTabNameEffect , control: TabsSwiper
+14:40:35 [info] 16:40:35 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipBPWPCollect
+14:40:40 [info] 16:40:40 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipBPWPCollect
+14:40:43 [info] 16:40:43 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipBPWPCollect
+14:40:46 [info] 16:40:46 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipBPWPCollect
+14:40:46 [info] 16:40:46 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:47 [info] 16:40:47 +2 [ui] UIDataParams redirect event:  POPUP_ON_CLOSE_ACTION , control:  PopupLayer  -> event:  POPUP_ON_CLOSE_ACTION , control: PopupLayer
+14:40:47 [warning] 16:40:47 +2 [ui] Animation TuttorialRectScaling has stopped due to the same animation has started recently
+14:40:47 [info] 16:40:47 +2 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+14:40:47 [info] 16:40:47 +2 [ui] UIDataParams redirect event:  PUSH , control:  ButtonDecorator  -> event:  PUSH , control: ContentHolder
+14:40:47 [info] 16:40:47 +2 [ui] UIDataParams redirect event:  PULL , control:  ButtonDecorator  -> event:  PULL , control: ContentHolder
+14:40:47 [info] 16:40:47 +2 [ui] UIDataParams redirect event:  ON_TOUCH , control:  ButtonDecorator  -> event:  ON_TOUCH , control: ContentHolder
+14:40:47 [info] 16:40:47 +2 [ui] UIDataParams redirect event:  ON_TOUCH , control:  StoryButton  -> event:  ON_BATTLEPASS_BTN_CLICKED , control: StoryBoxHolder
+14:40:47 [info] 16:40:47 +2 [base] Controller deactivated: TaskJournalBattlePassTabController
+14:40:47 [info] 16:40:47 +2 [base] Controller deactivated: TaskJournalScreenController
+14:40:47 [info] 16:40:47 +2 [base] LobbyBaseController destroyed: TaskJournalScreenController
+14:40:47 [info] 16:40:47 +2 [base] Controller activated: BattlePassController
+14:40:48 [info] 16:40:48 +2 [engine] Resize canvas Texture 3991673125.webp:0
+14:40:48 [error] 16:40:48 +2 [ui] Style sheet can not find component UITextureComponent in control Texture
+14:40:48 [info] 16:40:48 +2 [ui] UIDataParams redirect event:  ON_SCROLL_ENDED , control:  BattlePassBasicScreen  -> event:  ON_SCROLL_ENDED , control: BattlePassMainScreen
+14:40:48 [info] 16:40:48 +2 [engine] Resize canvas Texture 374703180.webp:0
+14:40:48 [info] 16:40:48 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:48 [info] 16:40:48 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:48 [info] 16:40:48 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:48 [info] 16:40:48 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:48 [info] 16:40:48 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:49 [info] 16:40:49 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipBPWPCollect
+14:40:51 [info] 16:40:51 +2 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  freeReward_0  -> event:  ON_REWARD_CLICKED , control: FreeRewards
+14:40:51 [info] 16:40:51 +2 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  levelRewardWithEffect0  -> event:  ON_REWARD_CLICKED , control: RewardsBig
+14:40:51 [info] 16:40:51 +2 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  BattlePassBasicScreen  -> event:  ON_REWARD_CLICKED , control: BattlePassMainScreen
+14:40:51 [info] 16:40:51 +2 [base] Controller deactivated: BattlePassController
+14:40:51 [info] 16:40:51 +2 [base] Controller activated: BattlePassRewardsController
+14:40:51 [info] 16:40:51 +2 [engine] Resize canvas Texture 3991673125.webp:0
+14:40:51 [error] 16:40:51 +2 [ui] Style sheet can not find component UITextureComponent in control Texture
+14:40:53 [info] 16:40:53 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  CLOSE , control: OkButton
+14:40:53 [info] 16:40:53 +2 [base] Processing Back event. Controller: BattlePassRewardsController
+14:40:53 [info] 16:40:53 +2 [base] Controller deactivated: BattlePassRewardsController
+14:40:53 [info] 16:40:53 +2 [base] Controller activated: BattlePassController
+14:40:53 [info] 16:40:53 +2 [base] LobbyBaseController destroyed: BattlePassRewardsController
+14:40:53 [info] 16:40:53 +2 [engine] Resize canvas Texture 3991673125.webp:0
+14:40:53 [error] 16:40:53 +2 [ui] Style sheet can not find component UITextureComponent in control Texture
+14:40:53 [info] 16:40:53 +2 [tutorial] Lesson destroyed: battlePassLesson
+14:40:53 [info] 16:40:53 +2 [ui] UIDataParams redirect event:  ON_SCROLL_ENDED , control:  BattlePassBasicScreen  -> event:  ON_SCROLL_ENDED , control: BattlePassMainScreen
+14:40:53 [info] 16:40:53 +2 [engine] Resize canvas Texture 374703180.webp:0
+14:40:53 [info] 16:40:53 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:53 [info] 16:40:53 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:53 [info] 16:40:53 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:53 [info] 16:40:53 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:53 [info] 16:40:53 +2 [ui] UIDataParams redirect event:  AVATAR_IMAGE_LOADED , control:  PlayerAvatar  -> event:  STUFF_ICON_LOADED , control: AvatarHolder
+14:40:55 [info] 16:40:55 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+14:40:55 [info] 16:40:55 +2 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_EVENT , control: Header
+14:40:55 [info] 16:40:55 +2 [base] Processing Back event. Controller: BattlePassController
+14:40:55 [info] 16:40:55 +2 [base] Controller deactivated: BattlePassController
+14:40:55 [info] 16:40:55 +2 [base] HangarController::Activate start
+14:40:55 [info] 16:40:55 +2 [base] Controller activated: HangarController
+14:40:55 [info] 16:40:55 +2 [base] HangarController::Activate phase 1 end, duration 7 ms
+14:40:55 [info] 16:40:55 +2 [base] HangarController::Activate phase 2 end, duration 1 ms
+14:40:55 [info] 16:40:55 +2 [base] HangarController::Activate phase 3 end, duration 1 ms
+14:40:55 [info] 16:40:55 +2 [base] HangarController::Activate phase 4 end, duration 1 ms
+14:40:55 [info] 16:40:55 +2 [base] HangarController::Activate phase 5 end, duration 1 ms
+14:40:55 [info] 16:40:55 +2 [base] HangarController::Activate end, duration 13 ms
+14:40:55 [info] 16:40:55 +2 [prebattle] SquadController::Activate 1EC68600
+14:40:55 [info] 16:40:55 +2 [base] LobbyBaseController destroyed: BattlePassController
+14:40:55 [error] 16:40:55 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:40:55 [info] 16:40:55 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:40:55 [info] 16:40:55 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 1024 x 1024  arraySize:  1
+14:40:55 [info] 16:40:55 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:40:55 [info] 16:40:55 +2 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+14:40:55 [info] 16:40:55 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:40:55 [info] 16:40:55 +2 [render] Creating DepthPrepass texture with size:  512 x 256
+14:40:55 [info] 16:40:55 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 512 x 256 old size: 1920 x 1080  arraySize:  1
+14:40:55 [info] 16:40:55 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:40:55 [info] 16:40:55 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 512 x 256  arraySize:  1
+14:40:55 [info] 16:40:55 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:Hetzer  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:40:55 [error] 16:40:55 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:40:55 [error] 16:40:55 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:40:56 [warning] 16:40:56 +2 [ui] Animation HoverAnim has stopped due to the same animation has started recently
+14:40:56 [info] 16:40:56 +2 [ui] UIDataParams redirect event:  ON_TANK_PRESS , control:  TankCell:germany:Pz38t  -> event:  SELECT_PLAYER_TANK , control: PlayerTanks
+14:40:56 [info] 16:40:56 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:Pz38t  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:40:56 [info] 16:40:56 +2 [ui] UIDataParams redirect event:  SELECT_PLAYER_TANK , control:  TanksPanel  -> event:  SELECT_PLAYER_TANK , control: TanksPanelHolder
+14:40:57 [info] 16:40:57 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipMissionsButtonUnlocked
+14:40:57 [info] 16:40:57 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipMissionsButtonUnlocked  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+14:41:02 [info] 16:41:02 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion1  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:02 [info] 16:41:02 +2 [ui] UIDataParams redirect event:  ON_TANK_PRESS , control:  TankCell:germany:PzIII_A  -> event:  SELECT_PLAYER_TANK , control: PlayerTanks
+14:41:02 [info] 16:41:02 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:PzIII_A  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:41:02 [info] 16:41:02 +2 [ui] UIDataParams redirect event:  SELECT_PLAYER_TANK , control:  TanksPanel  -> event:  SELECT_PLAYER_TANK , control: TanksPanelHolder
+14:41:04 [warning] 16:41:04 +2 [ui] Animation HoverAnim has stopped due to the same animation has started recently
+14:41:09 [info] 16:41:09 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion2  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:16 [info] 16:41:16 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion3  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:18 [info] 16:41:18 +2 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+14:41:18 [info] 16:41:18 +2 [ui] UIDataParams redirect event:  CANCEL_HOVER , control:  ButtonDecorator  -> event:  CANCEL_HOVER , control: ContentHolder
+14:41:20 [info] 16:41:20 +2 [ui] UIDataParams redirect event:  ON_PRESSED , control:  PlayerAvatar  -> event:  ON_PRESSED , control: Avatar
+14:41:20 [info] 16:41:20 +2 [ui] UIDataParams redirect event:  ON_PRESSED , control:  AvatarWithRating  -> event:  AVATAR_PRESSED , control: Avatar
+14:41:20 [info] 16:41:20 +2 [ui] UIDataParams redirect event:  AVATAR_PRESSED , control:  SideBar  -> event:  SHOW_ACHIEVEMENTS , control: SideBar
+14:41:21 [info] 16:41:21 +2 [prebattle] SquadController::Deactivate 1EC68600
+14:41:21 [info] 16:41:21 +2 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic 1EC68600 dialogOnScreen: 0 subscribed: 0
+14:41:21 [info] 16:41:21 +2 [base] HangarController::Deactivate start
+14:41:21 [info] 16:41:21 +2 [base] Controller deactivated: HangarController
+14:41:21 [info] 16:41:21 +2 [base] HangarController::Deactivate end, duration 29 ms
+14:41:21 [info] 16:41:21 +2 [base] Controller activated: ProfileController
+14:41:21 [info] 16:41:21 +2 [tutorial] Lesson destroyed: questsLesson
+14:41:21 [info] 16:41:21 +2 [base] Controller activated: UIBriefTabController
+14:41:22 [info] 16:41:22 +2 [render] Creating DepthPrepass texture with size:  1024 x 1024
+14:41:22 [info] 16:41:22 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1024 x 1024 old size: 1920 x 1080  arraySize:  1
+14:41:25 [info] 16:41:25 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+14:41:25 [info] 16:41:25 +2 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_EVENT , control: Header
+14:41:25 [info] 16:41:25 +2 [base] Processing Back event. Controller: ProfileController
+14:41:25 [info] 16:41:25 +2 [base] Controller deactivated: UIBriefTabController
+14:41:25 [info] 16:41:25 +2 [base] Controller deactivated: ProfileController
+14:41:25 [info] 16:41:25 +2 [base] HangarController::Activate start
+14:41:25 [info] 16:41:25 +2 [base] Controller activated: HangarController
+14:41:25 [info] 16:41:25 +2 [base] HangarController::Activate phase 1 end, duration 2 ms
+14:41:25 [info] 16:41:25 +2 [base] HangarController::Activate phase 2 end, duration 1 ms
+14:41:25 [info] 16:41:25 +2 [base] HangarController::Activate phase 3 end, duration 0 ms
+14:41:25 [info] 16:41:25 +2 [base] HangarController::Activate phase 4 end, duration 2 ms
+14:41:25 [info] 16:41:25 +2 [base] HangarController::Activate phase 5 end, duration 1 ms
+14:41:25 [info] 16:41:25 +2 [base] HangarController::Activate end, duration 8 ms
+14:41:25 [info] 16:41:25 +2 [prebattle] SquadController::Activate 1EC68600
+14:41:25 [info] 16:41:25 +2 [base] LobbyBaseController destroyed: ProfileController
+14:41:25 [error] 16:41:25 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:41:25 [info] 16:41:25 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:41:25 [info] 16:41:25 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 1024 x 1024  arraySize:  1
+14:41:25 [info] 16:41:25 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:25 [info] 16:41:25 +2 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+14:41:25 [info] 16:41:25 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:25 [info] 16:41:25 +2 [render] Creating DepthPrepass texture with size:  512 x 256
+14:41:25 [info] 16:41:25 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 512 x 256 old size: 1920 x 1080  arraySize:  1
+14:41:25 [info] 16:41:25 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:41:25 [info] 16:41:25 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 512 x 256  arraySize:  1
+14:41:25 [info] 16:41:25 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:PzIII_A  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:41:28 [info] 16:41:28 +2 [ui] UIDataParams redirect event:  SHOW_TANKS_TREE , control:  SideBar  -> event:  SHOW_TANKS_TREE , control: SideBar
+14:41:28 [info] 16:41:28 +2 [prebattle] SquadController::Deactivate 1EC68600
+14:41:28 [info] 16:41:28 +2 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic 1EC68600 dialogOnScreen: 0 subscribed: 0
+14:41:28 [info] 16:41:28 +2 [base] HangarController::Deactivate start
+14:41:28 [info] 16:41:28 +2 [base] Controller deactivated: HangarController
+14:41:28 [info] 16:41:28 +2 [base] HangarController::Deactivate end, duration 32 ms
+14:41:28 [info] 16:41:28 +2 [base] Controller activated: TechTreeController
+14:41:28 [info] 16:41:28 +2 [tutorial] Lesson destroyed: questsLesson
+14:41:28 [info] 16:41:28 +2 [render] Creating DepthPrepass texture with size:  1024 x 1024
+14:41:28 [info] 16:41:28 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1024 x 1024 old size: 1920 x 1080  arraySize:  1
+14:41:30 [info] 16:41:30 +2 [ui] UIDataParams redirect event:  ON_LOADING_COMPLETE , control:  NationTanksTechTree  -> event:  TANKS_TREE_LOADED , control: TreeContent
+14:41:31 [info] 16:41:31 +2 [ui] UIDataParams redirect event:  ON_PRESSED_TAB , control:  TechTreeMenu  -> event:  ON_NATION , control: TechTreeMenu
+14:41:31 [info] 16:41:31 +2 [ui] UIDataParams redirect event:  ON_NATION , control:  SidebarTanksTree  -> event:  ON_NATION , control: NationsContainer
+14:41:33 [info] 16:41:33 +2 [ui] UIDataParams redirect event:  ON_LOADING_COMPLETE , control:  NationTanksTechTree  -> event:  TANKS_TREE_LOADED , control: TreeContent
+14:41:36 [info] 16:41:36 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+14:41:36 [info] 16:41:36 +2 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_EVENT , control: InventoryHeader
+14:41:36 [info] 16:41:36 +2 [ui] UIDataParams redirect event:  BACK_EVENT , control:  InventoryHeader  -> event:  BACK_EVENT , control: Header
+14:41:36 [info] 16:41:36 +2 [base] Processing Back event. Controller: TechTreeController
+14:41:36 [info] 16:41:36 +2 [base] Controller deactivated: TechTreeController
+14:41:36 [info] 16:41:36 +2 [base] HangarController::Activate start
+14:41:36 [info] 16:41:36 +2 [base] Controller activated: HangarController
+14:41:36 [info] 16:41:36 +2 [base] HangarController::Activate phase 1 end, duration 2 ms
+14:41:36 [info] 16:41:36 +2 [base] HangarController::Activate phase 2 end, duration 1 ms
+14:41:36 [info] 16:41:36 +2 [base] HangarController::Activate phase 3 end, duration 1 ms
+14:41:36 [info] 16:41:36 +2 [base] HangarController::Activate phase 4 end, duration 2 ms
+14:41:36 [info] 16:41:36 +2 [base] HangarController::Activate phase 5 end, duration 1 ms
+14:41:36 [info] 16:41:36 +2 [base] HangarController::Activate end, duration 9 ms
+14:41:36 [info] 16:41:36 +2 [prebattle] SquadController::Activate 1EC68600
+14:41:36 [info] 16:41:36 +2 [base] LobbyBaseController destroyed: TechTreeController
+14:41:36 [error] 16:41:36 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:41:36 [info] 16:41:36 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:41:36 [info] 16:41:36 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 1024 x 1024  arraySize:  1
+14:41:36 [info] 16:41:36 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:36 [info] 16:41:36 +2 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+14:41:36 [info] 16:41:36 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:37 [info] 16:41:37 +2 [render] Creating DepthPrepass texture with size:  512 x 256
+14:41:37 [info] 16:41:37 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 512 x 256 old size: 1920 x 1080  arraySize:  1
+14:41:37 [info] 16:41:37 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:41:37 [info] 16:41:37 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 512 x 256  arraySize:  1
+14:41:37 [info] 16:41:37 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:PzIII_A  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:41:37 [error] 16:41:37 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:41:37 [error] 16:41:37 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:41:37 [warning] 16:41:37 +2 [ui] Animation HoverAnim has stopped due to the same animation has started recently
+14:41:41 [info] 16:41:41 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipMissionsButtonUnlocked
+14:41:41 [info] 16:41:41 +2 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipMissionsButtonUnlocked  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+14:41:41 [warning] 16:41:41 +2 [ui] Animation HoverAnim has stopped due to the same animation has started recently
+14:41:41 [info] 16:41:41 +2 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+14:41:41 [info] 16:41:41 +2 [ui] UIDataParams redirect event:  CANCEL_HOVER , control:  ButtonDecorator  -> event:  CANCEL_HOVER , control: ContentHolder
+14:41:43 [info] 16:41:43 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion1  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:47 [info] 16:41:47 +2 [ui] UIDataParams redirect event:  SETTINGS_PRESSED , control:  SideBar  -> event:  SETTINGS_PRESSED , control: SideBar
+14:41:47 [info] 16:41:47 +2 [prebattle] SquadController::Deactivate 1EC68600
+14:41:47 [info] 16:41:47 +2 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic 1EC68600 dialogOnScreen: 0 subscribed: 0
+14:41:47 [info] 16:41:47 +2 [base] HangarController::Deactivate start
+14:41:47 [info] 16:41:47 +2 [base] Controller deactivated: HangarController
+14:41:47 [info] 16:41:47 +2 [base] HangarController::Deactivate end, duration 31 ms
+14:41:47 [info] 16:41:47 +2 [tutorial] Lesson destroyed: questsLesson
+14:41:47 [info] 16:41:47 +2 [base] Controller activated: PlayerOptionsController
+14:41:48 [info] 16:41:48 +2 [render] Creating DepthPrepass texture with size:  1024 x 1024
+14:41:48 [info] 16:41:48 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1024 x 1024 old size: 1920 x 1080  arraySize:  1
+14:41:48 [info] 16:41:48 +2 [base] Dialog activated: AccountCompletionCongratsDialog
+14:41:49 [info] 16:41:49 +2 [base] Dialog deactivated: AccountCompletionCongratsDialog
+14:41:59 [info] 16:41:59 +2 [base] Controller deactivated: PlayerOptionsController
+14:41:59 [info] 16:41:59 +2 [base] HangarController::Activate start
+14:41:59 [info] 16:41:59 +2 [base] Controller activated: HangarController
+14:41:59 [info] 16:41:59 +2 [base] HangarController::Activate phase 1 end, duration 2 ms
+14:41:59 [info] 16:41:59 +2 [base] HangarController::Activate phase 2 end, duration 1 ms
+14:41:59 [info] 16:41:59 +2 [base] HangarController::Activate phase 3 end, duration 1 ms
+14:41:59 [info] 16:41:59 +2 [base] HangarController::Activate phase 4 end, duration 1 ms
+14:41:59 [info] 16:41:59 +2 [base] HangarController::Activate phase 5 end, duration 1 ms
+14:41:59 [info] 16:41:59 +2 [base] HangarController::Activate end, duration 7 ms
+14:41:59 [info] 16:41:59 +2 [prebattle] SquadController::Activate 1EC68600
+14:41:59 [info] 16:41:59 +2 [base] LobbyBaseController destroyed: PlayerOptionsController
+14:41:59 [error] 16:41:59 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:41:59 [info] 16:41:59 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:41:59 [info] 16:41:59 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 1024 x 1024  arraySize:  1
+14:41:59 [info] 16:41:59 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:59 [info] 16:41:59 +2 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+14:41:59 [info] 16:41:59 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:41:59 [info] 16:41:59 +2 [render] Creating DepthPrepass texture with size:  512 x 256
+14:41:59 [info] 16:41:59 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 512 x 256 old size: 1920 x 1080  arraySize:  1
+14:41:59 [info] 16:41:59 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:41:59 [info] 16:41:59 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 512 x 256  arraySize:  1
+14:41:59 [info] 16:41:59 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:PzIII_A  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:42:06 [info] 16:42:06 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion1  -> event:  StopFullPiggyEffects , control: Promotions
+14:42:13 [info] 16:42:13 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion2  -> event:  StopFullPiggyEffects , control: Promotions
+14:42:20 [info] 16:42:20 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion3  -> event:  StopFullPiggyEffects , control: Promotions
+14:42:27 [info] 16:42:27 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:42:34 [info] 16:42:34 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion1  -> event:  StopFullPiggyEffects , control: Promotions
+14:42:41 [info] 16:42:41 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion2  -> event:  StopFullPiggyEffects , control: Promotions
+14:42:48 [info] 16:42:48 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion3  -> event:  StopFullPiggyEffects , control: Promotions
+14:42:55 [info] 16:42:55 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:43:03 [info] 16:43:03 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion1  -> event:  StopFullPiggyEffects , control: Promotions
+14:43:10 [info] 16:43:10 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion2  -> event:  StopFullPiggyEffects , control: Promotions
+14:43:10 [info] 16:43:10 +2 [ui] UIDataParams redirect event:  SETTINGS_PRESSED , control:  SideBar  -> event:  SETTINGS_PRESSED , control: SideBar
+14:43:10 [info] 16:43:10 +2 [prebattle] SquadController::Deactivate 1EC68600
+14:43:10 [info] 16:43:10 +2 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic 1EC68600 dialogOnScreen: 0 subscribed: 0
+14:43:10 [info] 16:43:10 +2 [base] HangarController::Deactivate start
+14:43:10 [info] 16:43:10 +2 [base] Controller deactivated: HangarController
+14:43:10 [info] 16:43:10 +2 [base] HangarController::Deactivate end, duration 30 ms
+14:43:10 [info] 16:43:10 +2 [tutorial] Lesson destroyed: questsLesson
+14:43:10 [info] 16:43:10 +2 [base] Controller activated: PlayerOptionsController
+14:43:10 [info] 16:43:10 +2 [render] Creating DepthPrepass texture with size:  1024 x 1024
+14:43:10 [info] 16:43:10 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1024 x 1024 old size: 1920 x 1080  arraySize:  1
+14:43:11 [info] 16:43:11 +2 [base] Controller deactivated: PlayerOptionsController
+14:43:11 [info] 16:43:11 +2 [base] HangarController::Activate start
+14:43:11 [info] 16:43:11 +2 [base] Controller activated: HangarController
+14:43:11 [info] 16:43:11 +2 [base] HangarController::Activate phase 1 end, duration 3 ms
+14:43:11 [info] 16:43:11 +2 [base] HangarController::Activate phase 2 end, duration 1 ms
+14:43:11 [info] 16:43:11 +2 [base] HangarController::Activate phase 3 end, duration 0 ms
+14:43:11 [info] 16:43:11 +2 [base] HangarController::Activate phase 4 end, duration 2 ms
+14:43:11 [info] 16:43:11 +2 [base] HangarController::Activate phase 5 end, duration 1 ms
+14:43:11 [info] 16:43:11 +2 [base] HangarController::Activate end, duration 8 ms
+14:43:11 [info] 16:43:11 +2 [prebattle] SquadController::Activate 1EC68600
+14:43:11 [info] 16:43:11 +2 [base] LobbyBaseController destroyed: PlayerOptionsController
+14:43:11 [error] 16:43:11 +2 [ui] Style sheet can not find component Background in control IconWrapper
+14:43:11 [info] 16:43:11 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:43:11 [info] 16:43:11 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 1024 x 1024  arraySize:  1
+14:43:11 [info] 16:43:11 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:43:11 [info] 16:43:11 +2 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+14:43:11 [info] 16:43:11 +2 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  Promotion0  -> event:  StopFullPiggyEffects , control: Promotions
+14:43:11 [info] 16:43:11 +2 [render] Creating DepthPrepass texture with size:  512 x 256
+14:43:11 [info] 16:43:11 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 512 x 256 old size: 1920 x 1080  arraySize:  1
+14:43:11 [info] 16:43:11 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:43:11 [info] 16:43:11 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 512 x 256  arraySize:  1
+14:43:12 [info] 16:43:12 +2 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:germany:PzIII_A  -> event:  INIT_STARTED_INDEX_LOCAL , control: PlayerTanks
+14:43:12 [info] 16:43:12 +2 [base] Processing Back event. Controller: HangarController
+14:43:12 [info] 16:43:12 +2 [base] Dialog activated: ConfirmationDialog
+14:43:12 [info] 16:43:12 +2 [render] Creating DepthPrepass texture with size:  512 x 256
+14:43:12 [info] 16:43:12 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 512 x 256 old size: 1920 x 1080  arraySize:  1
+14:43:12 [info] 16:43:12 +2 [render] Creating DepthPrepass texture with size:  1920 x 1080
+14:43:12 [info] 16:43:12 +2 [render] Setting  dynamicDepthPrepass  texture. Size: 1920 x 1080 old size: 512 x 256  arraySize:  1
+14:43:13 [info] 16:43:13 +2 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  ButtonPositive  -> event:  ACCENT_ACTION , control: ButtonAccept
+14:43:13 [info] 16:43:13 +2 [ui] UIDataParams redirect event:  ACCENT_CLICKED , control:  InfoTextDialog  -> event:  CONFIRMATION , control: ConfirmationDialog
+14:43:13 [info] 16:43:13 +2 [base] Dialog deactivated: ConfirmationDialog
+14:43:13 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=0
+14:43:13 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=1
+14:43:13 [info] Window::HandleVisibilityChanged: become hidden
+14:43:13 [info] GameCore::OnBackground
+14:43:13 [info] 16:43:13 +2 [chat] WGXmppClientPrivate::disconnect
+14:43:13 [error] disconnected by user request
+14:43:13 [info] 16:43:13 +2 [chat] XChatInstance::ReleaseGlooxResources
+14:43:13 [info] 16:43:13 +2 [chat] XmppConnector::Disconnect
+14:43:13 [info] Window::HandleWindowDestroyed: enter
+14:43:13 [info] EngineBackend::OnWindowDestroyed: enter
+14:43:13 [info] GameCore::OnWindowDestroyed
+14:43:13 [info] AccountGameLogic::onBecomeNonPlayer() 14969
+14:43:13 [info] 16:43:13 +2 [tutorial] Lesson destroyed: questsLesson
+14:43:13 [info] 16:43:13 +2 [prebattle] SquadController::Deactivate 1EC68600
+14:43:13 [info] 16:43:13 +2 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic 1EC68600 dialogOnScreen: 0 subscribed: 0
+14:43:13 [info] 16:43:13 +2 [base] HangarController::Deactivate start
+14:43:13 [info] 16:43:13 +2 [base] Controller deactivated: HangarController
+14:43:13 [info] 16:43:13 +2 [base] HangarController::Deactivate end, duration 9 ms
+14:43:13 [info] 16:43:13 +2 [prebattle] PrebattleRequester::SetRequestsProvider 0E3420A8
+14:43:13 [info] 16:43:13 +2 [base] LobbyBaseController destroyed: HangarController
+14:43:13 [info] 16:43:13 +2 [prebattle] SquadController::~SquadController 1EC68600
+14:43:13 [info] 16:43:13 +2 [prebattle] PrebattleRequester::SetClientPrebattle
+14:43:13 [info] 16:43:13 +2 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+14:43:13 [warning] can't set presence for offline client
+14:43:13 [info] 16:43:13 +2 [chat] WGXmppClientPrivate::disconnect
+14:43:13 [info] 16:43:13 +2 [base] Controller deactivated: SessionController
+14:43:13 [info] 16:43:13 +2 [chat] XChatInstance::ReleaseGlooxResources
+14:43:13 [info] 16:43:13 +2 [chat] WGXmppClientPrivate::disconnect
+14:43:13 [info] 16:43:13 +2 [chat] WGXmppClientPrivate::disconnect
+14:43:13 [info] HeavyResourceValidationChecker: CANCELLED

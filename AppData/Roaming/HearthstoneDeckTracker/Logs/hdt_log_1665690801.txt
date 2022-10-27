@@ -1,0 +1,35 @@
+11:33:24 PM|Info|Core.Initialize >> HDT: 1.18.22.5967, Operating System: Windows 10 Enterprise 19043, .NET Framework: 528372
+11:33:24 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+11:33:24 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+11:33:25 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+11:33:26 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:33:27 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:33:27 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+11:33:28 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+11:33:28 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+11:33:28 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+11:33:28 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+11:33:28 PM|Info|GameV2.Reset >> -------- Reset ---------
+11:33:36 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:33:36 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:33:36 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:33:36 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:33:36 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:33:36 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:33:36 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+11:33:41 PM|Info|GameV2.Reset >> -------- Reset ---------
+11:33:42 PM|Info|BackupManager.Run >> Running BackupManager
+11:33:42 PM|Info|BackupManager.Run >> Deleting old backup: Backup_25092022.zip
+11:33:42 PM|Info|BackupManager.Run >> Creating backup for today
+11:33:42 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+11:33:42 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'F:\Hearthstone\Logs'
+11:33:43 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+11:33:43 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=1312, ServerTS=10/8/2022 5:55:58 PM, Downloaded=10/9/2022 12:53:55 AM Age=2.22:39:47.5813197
+11:33:43 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+11:33:43 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+11:33:43 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+11:33:43 PM|Info|HsReplayDecks.Load >> Complete: Count=1297, ServerTS=10/11/2022 6:56:04 PM, Downloaded=10/11/2022 11:33:43 PM Age=00:00:00.0389996
+11:33:43 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is not claimed
+11:53:25 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:53:25 PM|Info|Updater.SquirrelUpdate >> No new updated available
+0:11:32|Info|MainWindow.Window_Closing >> Shutting down...

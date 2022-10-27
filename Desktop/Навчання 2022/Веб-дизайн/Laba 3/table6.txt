@@ -1,0 +1,34 @@
+<HTML>
+	<HEAD> 
+		<TITLE> таблиці </TITLE>
+	</HEAD>
+	<BODY>
+		<TABLE border=5 bordercolorlight=red bordercolordark=green bgcolor = "pink">
+		<COLGROUP span=2 align=center>
+		<COLGROUP span=1 align=right>
+		<THEAD> Підписку через "Укрпошту" Ви можете оформити в будь-якому поштовому відділенню
+		<CAPTION>
+		<FONT color=blue> Журнал «Комп'ютерний огляд» Ви можете придбати </FONT>
+		</CAPTION>
+		<TR> 
+		<TH> Місто </TH>
+		<TH> Назва </TH>
+		<TH> Адреса </TH>
+		</TR>
+		<TR> 
+		<TD> Київ </TD>
+		<TD> KSS (044) 464-0220</TD>
+		<TD> «Знання», вул.Хрещватик, 44 </TD>
+		</TR>
+		 <TR> 
+		<TD> Донецьк </TD>
+		<TD> АВ - сервіс (0622) 53-63-77 </TD>
+		<TD> «Знання», вул. Хрещатик, 44 </TD>
+		<TR> 
+		<TD> Луганськ </TD>
+		<TD> НП Ребрик И.В.(0642) 2-58-33</TD>
+		<TD> «Віртуальний мир», кв. Гагаріна,13/1</TD>
+		</TR>
+		</TABLE> 
+	</BODY>
+ </HTML>

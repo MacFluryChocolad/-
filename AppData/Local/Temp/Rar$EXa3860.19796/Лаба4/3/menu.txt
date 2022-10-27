@@ -1,0 +1,13 @@
+<HTML>
+	<HEAD>
+		<TITLE>Untitled Document</TITLE>
+			<meta http-equiv=" Content-Type" content="text/html; charset= windows-1251">
+	</HEAD>
+		<BODY bgcolor="#FFCCCC">
+			<H3> Меню </H3>
+				<OL title="1" type="1">
+					<LI> <A href="1.html" target="main">перший </A></LI>
+					<LI> <A href="2.html" target="main">другий</A> </LI>
+				</OL> 
+		</BODY>
+</HTML>

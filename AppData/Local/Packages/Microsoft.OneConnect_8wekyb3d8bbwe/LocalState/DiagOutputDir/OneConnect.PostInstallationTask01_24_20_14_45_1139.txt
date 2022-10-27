@@ -1,0 +1,11 @@
+01/24/2021 20:14:45.52	Information	Unable to read file DataMartConfig.json. Exception: AggregateException_ctor_DefaultMessage (Не удается найти указанный файл. (Excep_FromHResult 0x80070002))
+01/24/2021 20:14:45.55	Information	HResult: -2146233088
+Message: AggregateException_ctor_DefaultMessage (Не удается найти указанный файл. (Excep_FromHResult 0x80070002))
+StackTrace:    at SharedLibrary!<BaseAddress>+0x4ed13d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration()
+01/24/2021 20:14:45.60	Information	Unable to read file DataMartConfig.json. Exception: AggregateException_ctor_DefaultMessage (Не удается найти указанный файл. (Excep_FromHResult 0x80070002))
+01/24/2021 20:14:45.60	Information	HResult: -2146233088
+Message: AggregateException_ctor_DefaultMessage (Не удается найти указанный файл. (Excep_FromHResult 0x80070002))
+StackTrace:    at SharedLibrary!<BaseAddress>+0x4ed13d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration()
+01/24/2021 20:14:45.60	Information	Setting up Discovery notification from post installation task.

@@ -1,0 +1,3217 @@
+Initialize engine version: 2017.2.2p2 (32bc645ba6f6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX550/550 Series (ID=0x699f)
+    Vendor:   ATI
+    VRAM:     4076 MB
+    Driver:   30.0.13023.4001
+Begin MonoManager ReloadAssembly
+- Completed reload, in  8.543 seconds
+OnLevelWasLoaded was found on PlayMakerFSM
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1894 -> priority: 1 
+  Thread -> id: 19cc -> priority: 1 
+UnloadTime: 9.919400 ms
+Fallback handler could not load library F:/Epic/ForTheKing/FTK_Data/Mono/data-0000020601302140.dll
+Fallback handler could not load library F:/Epic/ForTheKing/FTK_Data/Mono/data-000002060152BA00.dll
+Fallback handler could not load library F:/Epic/ForTheKing/FTK_Data/Mono/data-000002060AD07040.dll
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+WwiseUnity: Initialize sound engine ...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Sound engine initialized.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AkInitializer.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'travelToButton') is missing!
+ 
+(Filename:  Line: 1753)
+
+The referenced script on this Behaviour (Game Object 'FastTravelMenu') is missing!
+ 
+(Filename:  Line: 1753)
+
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Discord: init
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 504)
+
+[TableManager.Instance] Tablemanager is null - initializing instance
+[GameStart] VERSION: Release v1.1.00.11378 epic 64bit
+[GameStart] Args: System.String[]
+[GameStart] UNITY_STANDALONE_WIN
+[GameStart] FTK_RELEASE
+[GameStart] DEBUG_FTK_UI
+[GameStart] PUBLISH_EPIC
+[GameStart] FILE INPUT:
+{}
+[EpicGamesHelper._logInAuthCallback] Response: True, 2228729549568
+[EpicGamesHelper._logInConnect] Error logging in to Connect interface: InvalidUser
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[EpicGamesHelper._queryUserInfo] IPMrealGame id: a4a4e307dcd749c6bc5ea96cc5fde08f
+[MigrationAssistant.CheckAndMoveDatabase] User folder: C:/Users/Admin/AppData/LocalLow/IronOak Games/FTK\save\epica4a4e307dcd749c6bc5ea96cc5fde08f\ CREATED
+[PublishPlatform] Auth Complete. Platform: epic, UserId: a4a4e307dcd749c6bc5ea96cc5fde08f
+[MigrationAssistant.Initialize] Migrating
+Lorestore item ArmorStPatrick available == False
+Lorestore item BackpackSanta available == False
+Lorestore item BackpackValentine available == False
+Lorestore item HelmetEaster available == False
+Lorestore item HelmetNewYear available == False
+Lorestore item HelmetSanta available == False
+Lorestore item HelmetStPatrick available == False
+Lorestore item SkinFish available == False
+The referenced script on this Behaviour (Game Object 'travelToButton') is missing!
+ 
+(Filename:  Line: 1753)
+
+The referenced script on this Behaviour (Game Object 'FastTravelMenu') is missing!
+ 
+(Filename:  Line: 1753)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Discord: shutdown
+UnloadTime: 195.514400 ms
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Discord: init
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 165381.
+Total: 239.135200 ms (FindLiveObjects: 13.949300 ms CreateObjectMapping: 18.935200 ms MarkObjects: 204.434800 ms  DeleteObjects: 1.814500 ms)
+
+[TableManager.Instance] Tablemanager is null - initializing instance
+[GameStart] VERSION: Release v1.1.00.11378 epic 64bit
+[GameStart] Args: System.String[]
+[GameStart] UNITY_STANDALONE_WIN
+[GameStart] FTK_RELEASE
+[GameStart] DEBUG_FTK_UI
+[GameStart] PUBLISH_EPIC
+[GameStart] FILE INPUT:
+{}
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b54 -> priority: 1 
+  Thread -> id: 21fc -> priority: 1 
+Lorestore item ArmorStPatrick available == False
+Lorestore item BackpackSanta available == False
+Lorestore item BackpackValentine available == False
+Lorestore item HelmetEaster available == False
+Lorestore item HelmetNewYear available == False
+Lorestore item HelmetSanta available == False
+Lorestore item HelmetStPatrick available == False
+Lorestore item SkinFish available == False
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Lorestore item ArmorStPatrick available == False
+Lorestore item BackpackSanta available == False
+Lorestore item BackpackValentine available == False
+Lorestore item HelmetEaster available == False
+Lorestore item HelmetNewYear available == False
+Lorestore item HelmetSanta available == False
+Lorestore item HelmetStPatrick available == False
+Lorestore item SkinFish available == False
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+Game Difficulty Set: Easy
+[PHOTONLISTENER] OnConnectedToMaster called 1 time(s)
+[NetworkingPeer.SendMonoMessage] Exiting
+[PHOTONLISTENER] OnCreatedRoom called 1 time(s)
+[NetworkingPeer.SendMonoMessage] Exiting
+[PHOTONLISTENER] OnJoinedRoom called 1 time(s)
+Sync Stats
+Game Difficulty Set: Easy
+[NetworkingPeer.SendMonoMessage] Exiting
+GenerateMap: Starting Coroutine
+Map Pre Gen: KillVexor, Map3
+CONFIRM: GuardianForest.0/(14, 3)
+CONFIRM: GoldenPlains.1/(13, 6)
+CONFIRM: WaterRealm.1/(9, 6)
+CONFIRM: PoisonBog.1/(12, 4)
+CONFIRM: DropstoneBadlands.2/(3, 7)
+CONFIRM: ParchedWaste.2/(5, 9)
+CONFIRM: Harazuel.3/(5, 3)
+GenerateMap: Coroutine Start
+Map generation time: 2.166443 sec.
+Attempting to select while already selecting an object.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempting to select while already selecting an object.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempting to select while already selecting an object.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempting to select while already selecting an object.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can do turnless dungeon: True
+EnterFahrulRPC Easy
+IntroStory
+Creating 0 1
+Registering Player 1
+Creating 1 1
+Registering Player 2
+Creating 2 1
+Registering Player 3
+Start Player 1
+Start Player 2
+Start Player 3
+EnterFahrul
+Game Params
+chaos = 8
+lifepool = 6
+inflation = 0.8
+Host spec
+ AMD A8-5500 APU with Radeon(tm) HD Graphics  3194 MHz
+ CPU count 4
+ GPU Radeon RX550/550 Series
+Analytics: StartSession_FTK, {"TotalRunDuration":595.488831,"Round":0,"HouseRulesEasier":false,"CharCount":3,"Locality":"SinglePlayer","Difficulty":"EASY","Region":"NONE","Platform":"EPIC","IsResume":false}
+Analytics: StartSession_Rules_FTK, {"HouseRulesEasier":false,"ChaosFrequency":8,"StartLifePool":6,"Inflation":0.8,"Difficulty":"EASY","AvgPlayerLevel":0.0,"Round":0,"IsResume":false}
+VisitQuestLogic DetermineDestination
+1_GoToWoodsmoke QuestDefFillOut
+Registered:VisitQuestLogic, -1
+Filtered Market Quantities: 297, 108, 138
+StoryQuestMessage
+FPS = 39.39187. Step up to dream
+FPS = 29.08005. Step down to high
+Commencing VisitQuestLogic
+SwampTown02 market refresh: 1
+DesertTown02 market refresh: 1
+WaterTown01 market refresh: 1
+DropstoneTown01 market refresh: 1
+DesertTown01 market refresh: 1
+ForestVillage01 market refresh: 1
+ForestVillage01 side quest refresh: 1
+Registered:BountyQuestLogic, 2
+Registered:VisitQuestLogic, 3
+Registered:BountyQuestLogic, 4
+Registered:BountyQuestLogic, 5
+SwampTown01 market refresh: 1
+ForestVillage02 market refresh: 1
+ForestVillage02 side quest refresh: 1
+Registered:BountyQuestLogic, 6
+Registered:VisitQuestLogic, 7
+Registered:BountyQuestLogic, 8
+Registered:BountyQuestLogic, 9
+DropstoneTown02 market refresh: 1
+PlainsTown01 market refresh: 1
+PlainsTown02 market refresh: 1
+Game Round: 0, Stage Percent: 0%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Show Tutorial TurnStart
+Show Tutorial EndTurn
+Equipped item was on, turning off
+Show Tutorial Radius
+Combat: Артем encounter enemy hagA, Hex 0-2
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 13278962
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial Slots
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+warning: Item class coins does not exist.
+CameraCut- UpdateEnd [Victory]
+GlobalMessageCOW
+Auto Saving
+Game Round: 0, Stage Percent: 0%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+GlobalMessageCOW
+Auto Saving
+Game Round: 0, Stage Percent: 0%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Show Tutorial FocusEncounter
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Overworld  MiniEncounter
+Encounter: Random Seed - 1583837433
+Show Tutorial WeaponCard
+warning: Item class bladeBastard does not exist.
+Auto Saving
+Game Round: 1, Stage Percent: 7%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+OnRemoveQuest VisitQuestDef
+-1, Visit is completed
+MiniEncounterQuestLogic DetermineDestination
+MiniEncounterQuestLogic determine destination success
+BountyQuestLogic DetermineDestination
+1_Multi QuestDefFillOut
+Registered:MultiQuestLogic, -10
+1_MULTI, ADDED SUB QUEST: 1_DESTROYCULTDEVICE
+1_DestroyCultDevice QuestDefFillOut
+Registered:MiniEncounterQuestLogic, -11
+1_MULTI, ADDED SUB QUEST: 1_KILLCULTISTS
+1_KillCultists QuestDefFillOut
+Registered:BountyQuestLogic, -12
+StoryQuestMessage
+GoldenPlains_-99 is not in RealmProperties 
+RealmProperties do not exist yet for MultiQuestLogic, 1_Multi
+DestInfos count: 2, QuestID -10
+Commencing MiniEncounterQuestLogic
+Commencing BountyQuestLogic
+No camp ID assigned, check parameters
+Commencing MultiQuestLogic
+warning: Item class pipe02 does not exist.
+warning: Item class bootsLight1 does not exist.
+warning: Item class armorFishing does not exist.
+warning: Item class polearmBowStaff does not exist.
+warning: Item class luteBusker does not exist.
+warning: Item class helmetWizard1 does not exist.
+warning: Item class helmetMedium1 does not exist.
+warning: Item class armorMedium1 does not exist.
+warning: Item class bluntClub does not exist.
+warning: Item class staffGlass01 does not exist.
+BountyQuestLogic DetermineDestination
+SideQuestMessage
+SideQuestCentreCameraCoroutine starting
+SideQuestCentreCameraCoroutine 1
+Commencing BountyQuestLogic
+No camp ID assigned, check parameters
+SideQuestCentreCameraCoroutine 2
+SideQuestCentreCameraCoroutine 3
+SideQuestCentreCameraCoroutine 4
+SideQuestCentreCameraCoroutine done
+SideQuestConfirm
+Auto Saving
+Game Round: 1, Stage Percent: 7%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Артурчик encounter enemy wolfA, Hex 7-18
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1594965860
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(wolfA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle wolfA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(wolfA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle wolfA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(wolfA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle wolfA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(wolfA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle wolfA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial EnemyHUD
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicDaze)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(wolfA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle wolfA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(wolfA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle wolfA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Up
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(wolfA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle wolfA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial CombatUI
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicDaze)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Up
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+CameraCut- UpdateEnd [Victory]
+Show Tutorial Sanctum
+GeneralPortraitMsg
+Auto Saving
+Game Round: 1, Stage Percent: 7%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 2, Stage Percent: 13%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 2, Stage Percent: 13%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Артурчик encounter enemy cultistA, Hex 7-0
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1670602004
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial EnemyArmor
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cultistA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle cultistA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Show Tutorial Ailment
+Anim Speed Up
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(cultistA2) is attempting scheduled attack(Prof1)
+Combat: EngageBattle cultistA2
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial FocusCombat
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Up
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(cultistA3) is attempting norm(None)
+Combat: EngageBattle cultistA3
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Up
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cultistA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle cultistA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial QuickItem
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+CameraCut- UpdateEnd [Victory]
+ChaosChange
+Show Tutorial Chaos
+6, Bounty is completed
+Auto Saving
+Game Round: 2, Stage Percent: 13%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Толянчик encounter enemy beastmanB, Hex 7-10
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 212430982
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+warning: Item class shieldmagic does not exist.
+CameraCut- UpdateEnd [Victory]
+Show Tutorial Timeline
+Auto Saving
+Game Round: 3, Stage Percent: 20%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Артем encounter enemy beastmanB, Hex 7-0
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 203594150
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+warning: Item class helmetHeavy1 does not exist.
+CameraCut- UpdateEnd [Victory]
+Combat: Артем encounter enemy cultistBossA, Hex 19-12
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1488531762
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+EngageMessage
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+CameraCut- UpdateEnd [Engage]
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(bleed1)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(cultistA2) is attempting scheduled attack(Prof0)
+Combat: EngageBattle cultistA2
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cultistBossA) is attempting norm(None)
+Combat: EngageBattle cultistBossA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [PlayersTurn]
+PlayAttackSequence
+Anim Speed Normal
+warning: Item class lorebook does not exist.
+_lore_2- not found in FTK_itembase
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_lore_2 is a bad value at this point. Please fix.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+warning: Item class luteBarbat does not exist.
+CameraCut- UpdateEnd [Victory]
+StoryQuestMessage
+ChaosChange
+-12, Bounty is completed
+Auto Saving
+Game Round: 3, Stage Percent: 20%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 3, Stage Percent: 20%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 4, Stage Percent: 27%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Артем encounter enemy hagA, Hex 19-15
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1149666451
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial EnemyImmunities
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+CameraCut- UpdateEnd [Victory]
+Show Tutorial EnemyInfo
+Auto Saving
+Game Round: 4, Stage Percent: 27%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+GlobalMessageCOW
+Auto Saving
+Game Round: 4, Stage Percent: 27%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+warning: Item class polearmPike does not exist.
+warning: Item class luteSimple does not exist.
+warning: Item class luteDecent does not exist.
+warning: Item class bowHeavy does not exist.
+warning: Item class polearmBoarspear does not exist.
+warning: Item class torch does not exist.
+warning: Item class tomeDusty does not exist.
+warning: Item class bladeShortsword does not exist.
+Auto Saving
+Game Round: 5, Stage Percent: 33%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+GlobalMessageCOW
+Auto Saving
+Game Round: 5, Stage Percent: 33%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+ChooseReward
+StoryQuestMessage
+-11, MiniEncounter is completed
+-10, Multi is completed
+DungeonQuestLogic DetermineDestination
+Multi = VisitQuestDef
+VisitQuestLogic DetermineDestination
+1_Multi2 QuestDefFillOut
+Registered:MultiQuestLogic, -13
+1_MULTI2, ADDED SUB QUEST: 1_GLITTERINGMINES
+1_GlitteringMines QuestDefFillOut
+Registered:DungeonQuestLogic, -14
+1_OptionalMead QuestDefFillOut
+Registered:VisitQuestLogic, -15
+StoryQuestMessage
+GoldenPlains_-99 is not in RealmProperties 
+RealmProperties do not exist yet for MultiQuestLogic, 1_Multi2
+DestInfos count: 1, QuestID -13
+Commencing DungeonQuestLogic
+Commencing VisitQuestLogic
+Commencing MultiQuestLogic
+Auto Saving
+Game Round: 5, Stage Percent: 33%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 6, Stage Percent: 40%, Stage Progression: Tier1, Player Progression: Tier1
+Show Tutorial FocusMovement
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 6, Stage Percent: 40%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Артурчик encounter enemy beastmanB, Hex 31-0
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1591158824
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(crowA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle crowA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [PlayersTurn]
+PlayAttackSequence
+Anim Speed Normal
+warning: Item class bootsHide does not exist.
+CameraCut- UpdateEnd [Victory]
+POIDiscover
+StoryQuestMessage
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Overworld  JustLoots
+Encounter: Random Seed - 173883646
+warning: Item class questCaseMead does not exist.
+StoryQuestMessage
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Overworld  JustLoots
+Encounter: Random Seed - 1450043781
+OnRemoveQuest VisitQuestDef
+Destroying VisitQuestDef Destination
+-15, Visit is completed
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Overworld  MiniEncounter
+Encounter: Random Seed - 1172573669
+Auto Saving
+Game Round: 6, Stage Percent: 40%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Толянчик encounter enemy plantA, Hex 0-0
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 921067133
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Shuffle Herbs
+CameraCut- UpdateEnd [Victory]
+Show Tutorial Dungeon
+Auto Saving
+Game Round: 7, Stage Percent: 47%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 7, Stage Percent: 47%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 7, Stage Percent: 47%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Overworld  MiniEncounter
+Encounter: Random Seed - 1286122006
+Auto Saving
+Game Round: 8, Stage Percent: 53%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Артем encounter enemy plantA, Hex 31-13
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 51520395
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(hagA) is attempting scheduled attack(Normal)
+Combat: EngageBattle hagA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(plantA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle plantA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(plantA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle plantA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(plantA) is attempting scheduled attack(Prof2)
+Combat: EngageBattle plantA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Shuffle Herbs
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Game Round: 8, Stage Percent: 53%, Stage Progression: Tier1, Player Progression: Tier1
+Show Tutorial MapMovement
+Combat: DisplaySlots wait finished
+Combat: Артурчик encounter enemy crowA, Hex 25-6
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1495799304
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(crowA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle crowA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(crowA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle crowA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicAOE)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(beeA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(crowA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle crowA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(crowA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle crowA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) bypasses slot roll
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(crowA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle crowA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(crowA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle crowA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(crowA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle crowA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(beeA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Game Round: 8, Stage Percent: 53%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Толянчик encounter enemy beeA, Hex 7-18
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1237663371
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(koboldA) is attempting scheduled attack(Normal)
+Combat: EngageBattle koboldA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(beeA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle beeA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(beeA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle beeA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+CameraCut- UpdateEnd [Victory]
+Show Tutorial PlayerHealth
+Auto Saving
+Game Round: 9, Stage Percent: 60%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Combat: Артем encounter enemy cultistA, Hex 31-7
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 1834090773
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cultistA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle cultistA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cultistA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle cultistA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Game Round: 9, Stage Percent: 60%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Auto Saving
+Game Round: 9, Stage Percent: 60%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto Saving
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: DisplaySlots wait finished
+Generating Dungeon Level: 0
+Generating Dungeon Level: 1
+Auto Saving
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon baseMN DungeonMiniEncounter
+Encounter: Random Seed - 502989051
+Dungeon Music: dungeon_glittering_mines
+GetDeadAdventurer Random 0.1803932
+CameraCut- UpdateEnd [ScrollEndTrap]
+Dungeon Loot Lvl: 0
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Show Tutorial Trading
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+warning: Item class shieldblacksmith does not exist.
+warning: Item class bluntSmithHammer does not exist.
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Trap1
+Encounter: Random Seed - 27751567
+CameraCut- UpdateEnd [ScrollStart]
+CameraCut- UpdateEnd [ScrollEndTrap]
+Combat: DisplaySlots wait finished
+Combat: DisplaySlots wait finished
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Enemy
+Encounter: Random Seed - 1693076673
+CameraCut- UpdateEnd [ScrollStart]
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+CameraCut- UpdateEnd [ScrollEnd]
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(polearmSplash)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(ghostA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle ghostA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(hagA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle hagA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(hagA) is attempting scheduled attack(Normal)
+Combat: EngageBattle hagA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Analytics: Death_FTK, {"TotalRunDuration":2848.8396,"Round":10,"HouseRulesEasier":false,"CharCount":3,"Locality":"SinglePlayer","Difficulty":"EASY","Region":"NONE","Dungeon":"MINE","Platform":"EPIC"}
+Analytics: Death_Rules_FTK, {"HouseRulesEasier":false,"ChaosFrequency":8,"StartLifePool":6,"Inflation":0.8,"Difficulty":"EASY","AvgPlayerLevel":1.0,"Round":10}
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) bypasses slot roll
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(ghostA) is attempting scheduled attack(Normal)
+Combat: EngageBattle ghostA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(hagA) is attempting scheduled attack(Normal)
+Combat: EngageBattle hagA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(ghostA) is attempting scheduled attack(Normal)
+Combat: EngageBattle ghostA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [PlayersTurn]
+PlayAttackSequence
+Anim Speed Normal
+Dungeon Loot Lvl: 0
+Dungeon Music: dungeon_glittering_mines
+warning: Item class amuletToughness1 does not exist.
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Enemy
+Encounter: Random Seed - 2088755306
+CameraCut- UpdateEnd [ScrollStart]
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+CameraCut- UpdateEnd [ScrollEnd]
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(fairyA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle fairyA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Show Tutorial EnemyResistance
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(goblinC) is attempting scheduled attack(Prof1)
+Combat: EngageBattle goblinC
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) bypasses slot roll
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(skellymageA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle skellymageA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(fairyA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle fairyA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(goblinC) is attempting scheduled attack(Prof1)
+Combat: EngageBattle goblinC
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting shield taunt
+Combat: DisplaySlots wait finished
+Player 1 Dummy(Артем) bypasses slot roll
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(skellymageA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle skellymageA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Analytics: Death_FTK, {"TotalRunDuration":3076.75415,"Round":10,"HouseRulesEasier":false,"CharCount":3,"Locality":"SinglePlayer","Difficulty":"EASY","Region":"NONE","Dungeon":"MINE","Platform":"EPIC"}
+Analytics: Death_Rules_FTK, {"HouseRulesEasier":false,"ChaosFrequency":8,"StartLifePool":6,"Inflation":0.8,"Difficulty":"EASY","AvgPlayerLevel":1.0,"Round":10}
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(goblinC) is attempting scheduled attack(Prof1)
+Combat: EngageBattle goblinC
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Артем) is attempting normal attack
+CameraCut- UpdateEnd [PlayersTurn]
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Dungeon Loot Lvl: 0
+Error - not enough items of type ORB
+Dungeon Music: dungeon_glittering_mines
+warning: Item class trinketDefense1 does not exist.
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+warning: Item class bootsBeginner does not exist.
+warning: Item class spellbook does not exist.
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Enemy
+Encounter: Random Seed - 1806029637
+CameraCut- UpdateEnd [ScrollStart]
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+CameraCut- UpdateEnd [ScrollEnd]
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(impA) is attempting norm(None)
+Combat: EngageBattle impA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(fairyA) is attempting scheduled attack(Prof1)
+Combat: EngageBattle fairyA
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(magicAOE)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(impA) is attempting norm(None)
+Combat: EngageBattle impA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(magicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(impA) is attempting norm(None)
+Combat: EngageBattle impA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Analytics: Death_FTK, {"TotalRunDuration":3540.465,"Round":10,"HouseRulesEasier":false,"CharCount":3,"Locality":"SinglePlayer","Difficulty":"EASY","Region":"NONE","Dungeon":"MINE","Platform":"EPIC"}
+Analytics: Death_Rules_FTK, {"HouseRulesEasier":false,"ChaosFrequency":8,"StartLifePool":6,"Inflation":0.8,"Difficulty":"EASY","AvgPlayerLevel":1.0,"Round":10}
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(magicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(impA) is attempting norm(None)
+Combat: EngageBattle impA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(impA) is attempting norm(None)
+Combat: EngageBattle impA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(magicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Dungeon Loot Lvl: 0
+Dungeon Music: dungeon_glittering_mines
+warning: Item class trinketMagicAttack1 does not exist.
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Stair
+Encounter: Random Seed - 871419077
+CameraCut- UpdateEnd [ScrollStart]
+CameraCut- UpdateEnd [ScrollEndTrap]
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+CameraCut- UpdateEnd [ScrollToStair]
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Enemy
+Encounter: Random Seed - 892814996
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+CameraCut- UpdateEnd [ScrollStart]
+CameraCut- UpdateEnd [ScrollEnd]
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(ratthiefA) is attempting scheduled attack(Prof0)
+Combat: EngageBattle ratthiefA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(magicAOE)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(skellyC) is attempting norm(None)
+Combat: EngageBattle skellyC
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(magicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(skellyC) is attempting norm(None)
+Combat: EngageBattle skellyC
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting prof attack(bladeDamage)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Толянчик) is attempting prof attack(magicArmorBreakReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [PlayersTurn]
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+Dungeon Loot Lvl: 1
+Dungeon Music: dungeon_glittering_mines
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier1
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Enemy
+Encounter: Random Seed - 307220498
+CameraCut- UpdateEnd [ScrollStart]
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+CameraCut- UpdateEnd [ScrollEnd]
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(skellyA) is attempting norm(None)
+Combat: EngageBattle skellyA
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting prof attack(bladeDamage)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(bowHeadshot)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [PlayersTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [PlayersTurn]
+Anim Speed Normal
+Dungeon Loot Lvl: 1
+Dungeon Music: dungeon_glittering_mines
+CameraCut- UpdateEnd [Victory]
+Auto Saving
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier2
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  DungeonMiniEncounter
+Encounter: Random Seed - 1909971946
+CameraCut- UpdateEnd [ScrollStart]
+CameraCut- UpdateEnd [ScrollEndTrap]
+ShowDungeonShopRPC: CFSM [1700]
+warning: Item class amuletHealing does not exist.
+warning: Item class polearmBeastWiz does not exist.
+warning: Item class helmetGoblin does not exist.
+warning: Item class gunPistol01 does not exist.
+warning: Item class helmetTinFoil does not exist.
+warning: Item class helmetFishing does not exist.
+warning: Item class bowGoblin does not exist.
+warning: Item class bluntPickAxe does not exist.
+DungeonCloseShop: CFSM [1700]
+Auto Saving
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier2
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Door
+Encounter: Random Seed - 490773997
+CameraCut- UpdateEnd [ScrollStart]
+CameraCut- UpdateEnd [ScrollEndTrap]
+Combat: DisplaySlots wait finished
+Auto Saving
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier2
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  Enemy
+Encounter: Random Seed - 1552961770
+CameraCut- UpdateEnd [ScrollStart]
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 1
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+Combat: PlayIntroAnim_CR 2
+CameraCut- UpdateEnd [ScrollEnd]
+Combat: CommenceBattle
+EngageMessage
+CameraCut- UpdateEnd [Engage]
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy(cultistBoss1) is attempting scheduled attack(Prof2)
+Combat: EngageBattle cultistBoss1
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [EnemysTurn]
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(bowHeadshot)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(skellyB) is attempting norm(None)
+Combat: EngageBattle skellyB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting prof attack(bladeDamage)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 1(skellyC) is attempting norm(None)
+Combat: EngageBattle skellyC
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(bowHeadshot)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Enemy Dummy 2(skellyB) is attempting prof(enInterruptPierce)
+Combat: EngageBattle skellyB
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+CameraCut- UpdateEnd [EnemysTurn]
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicAOE)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артем
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 1 Dummy(Артем) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+Player 3 Dummy(Толянчик) is attempting normal attack
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+CameraCut- UpdateEnd [PlayersTurn]
+Anim Speed Normal
+Dungeon Loot Lvl: 1
+Shuffle DropMagic
+Dungeon Music: dungeon_glittering_mines
+CameraCut- UpdateEnd [Victory]
+_lore_3- not found in FTK_itembase
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_lore_3 is a bad value at this point. Please fix.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+warning: Item class amuletWizard1 does not exist.
+warning: Item class amuletAwareness1 does not exist.
+warning: Item class armorRobe2 does not exist.
+Auto Saving
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Game Round: 10, Stage Percent: 67%, Stage Progression: Tier1, Player Progression: Tier2
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Dungeon  DungeonMiniEncounter
+Encounter: Random Seed - 1035364202
+CameraCut- UpdateEnd [ScrollStart]
+CameraCut- UpdateEnd [ScrollEndTrap]
+Combat: DisplaySlots wait finished
+ChaosChange
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Overworld  JustLoots
+Encounter: Random Seed - 1817912044
+-14, Dungeon is completed
+-13, Multi is completed
+StoryQuestMessage
+Stage STR_act1title completed
+VisitQuestLogic DetermineDestination
+2_GoToParid QuestDefFillOut
+Registered:VisitQuestLogic, -16
+StoryQuestMessage
+Commencing VisitQuestLogic
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+- not found in FTK_encounterDrawChance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SwampTown02 market refresh: 2
+SwampTown02 side quest refresh: 1
+Registered:BountyQuestLogic, 17
+Registered:BountyQuestLogic, 18
+Registered:BountyQuestLogic, 19
+Registered:BountyQuestLogic, 20
+DesertTown02 market refresh: 2
+WaterTown01 market refresh: 2
+WaterTown01 side quest refresh: 1
+Registered:BountyQuestLogic, 21
+Registered:VisitQuestLogic, 22
+Registered:BountyQuestLogic, 23
+Registered:BountyQuestLogic, 24
+DropstoneTown01 market refresh: 2
+DesertTown01 market refresh: 2
+SwampTown01 market refresh: 2
+SwampTown01 side quest refresh: 1
+Registered:BountyQuestLogic, 25
+Registered:VisitQuestLogic, 26
+Registered:BountyQuestLogic, 27
+Registered:BountyQuestLogic, 28
+DropstoneTown02 market refresh: 2
+PlainsTown01 market refresh: 2
+PlainsTown01 side quest refresh: 1
+Registered:BountyQuestLogic, 29
+Registered:VisitQuestLogic, 30
+Registered:BountyQuestLogic, 31
+Registered:BountyQuestLogic, 32
+Registered:BountyQuestLogic, 33
+PlainsTown02 market refresh: 2
+PlainsTown02 side quest refresh: 1
+Registered:BountyQuestLogic, 34
+Registered:VisitQuestLogic, 35
+Registered:BountyQuestLogic, 36
+Registered:BountyQuestLogic, 37
+Auto Saving
+Game Round: 10, Stage Percent: 0%, Stage Progression: Tier2, Player Progression: Tier2
+Combat: DisplaySlots wait finished
+Combat: Толянчик encounter enemy cubeA, Hex 0-4
+Combat: InitiateEncounterSessionRPC
+Combat: InitiateCurrentEncounter
+Combat: StartEncounterSession Diorama baseGF Enemy
+Encounter: Random Seed - 323369748
+Combat: PlayIntroAnim_CR 0
+Combat: PlayIntroAnim_CR 1
+Combat: CommenceBattle
+Combat: CommenceBattleRPC
+Combat: StartNextCombatRound
+Combat: PlayIntroAnim_CR 2
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Толянчик
+Combat: WaitForCameraCut
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 3 Dummy(Толянчик) is attempting prof attack(bowHeadshot)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+Anim Speed Normal
+Combat: StartNextCombatRound
+Combat: UpdateTime_CR return
+Combat: StartNextCombatRound2
+Combat: EngageBattle Артурчик
+Combat: StepOutCR
+Combat: StepOutCR finished wait
+Combat: StepOut
+Combat: EngageAttack
+Combat: EnableBattleStanceButtons
+CameraCut- UpdateEnd [PlayersTurn]
+Player 2 Dummy(Артурчик) is attempting prof attack(musicSlowReg)
+Combat: DisplaySlots Flee or Attack
+Combat: DisplaySlots wait finished
+PlayAttackSequence
+'-1' not found in 'GridEditor.FTK_proficiencyTableDB'
+Anim Speed Normal
+CameraCut- UpdateEnd [Victory]
+warning: Item class boatB does not exist.
+warning: Item class boatA does not exist.
+Analytics: EndSession_FTK, {"TotalRunDuration":4731.15771,"Round":10,"HouseRulesEasier":false,"CharCount":3,"Locality":"SinglePlayer","Difficulty":"EASY","Region":"NONE","Dungeon":"MINE","Platform":"EPIC","Controller":false}
+Analytics: EndSession_Rules_FTK, {"HouseRulesEasier":false,"ChaosFrequency":8,"StartLifePool":6,"Inflation":0.8,"Difficulty":"EASY","AvgPlayerLevel":2.0,"Round":10,"Controller":false}
+Analytics: EndSession_FTK, {"TotalRunDuration":4732.058,"Round":10,"HouseRulesEasier":false,"CharCount":3,"Locality":"SinglePlayer","Difficulty":"EASY","Region":"NONE","Dungeon":"MINE","Platform":"EPIC","Controller":false}
+Analytics: EndSession_Rules_FTK, {"HouseRulesEasier":false,"ChaosFrequency":8,"StartLifePool":6,"Inflation":0.8,"Difficulty":"EASY","AvgPlayerLevel":2.0,"Round":10,"Controller":false}
+Deregistering Player 1
+Deregistering Player 2
+Deregistering Player 3
+[PHOTONLISTENER] OnDisconnectedFromPhoton called 1 time(s)
+GameLogic::OnDisconnectedFromPhoton
+PrepareToDisconnect
+[NetworkingPeer.SendMonoMessage] Exiting
+The referenced script on this Behaviour (Game Object 'travelToButton') is missing!
+ 
+(Filename:  Line: 1753)
+
+The referenced script on this Behaviour (Game Object 'FastTravelMenu') is missing!
+ 
+(Filename:  Line: 1753)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Discord: shutdown
+UnloadTime: 357.629700 ms
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Discord: init
+
+Unloading 1358 unused Assets to reduce memory usage. Loaded Objects now: 165610.
+Total: 369.184000 ms (FindLiveObjects: 15.941100 ms CreateObjectMapping: 21.188300 ms MarkObjects: 319.267300 ms  DeleteObjects: 12.786300 ms)
+
+[TableManager.Instance] Tablemanager is null - initializing instance
+[GameStart] VERSION: Release v1.1.00.11378 epic 64bit
+[GameStart] Args: System.String[]
+[GameStart] UNITY_STANDALONE_WIN
+[GameStart] FTK_RELEASE
+[GameStart] DEBUG_FTK_UI
+[GameStart] PUBLISH_EPIC
+[GameStart] FILE INPUT:
+{}
+Lorestore item ArmorStPatrick available == False
+Lorestore item BackpackSanta available == False
+Lorestore item BackpackValentine available == False
+Lorestore item HelmetEaster available == False
+Lorestore item HelmetNewYear available == False
+Lorestore item HelmetSanta available == False
+Lorestore item HelmetStPatrick available == False
+Lorestore item SkinFish available == False
+Resuming C:/Users/Admin/AppData/LocalLow/IronOak Games/FTK\save\KillVexor_2022_8_29_0.run
+Game Difficulty Set: Easy
+[PHOTONLISTENER] OnConnectedToMaster called 1 time(s)
+[NetworkingPeer.SendMonoMessage] Exiting
+[PHOTONLISTENER] OnCreatedRoom called 1 time(s)
+[NetworkingPeer.SendMonoMessage] Exiting
+[PHOTONLISTENER] OnJoinedRoom called 1 time(s)
+Sync Stats
+Game Difficulty Set: Easy
+Resuming game C:/Users/Admin/AppData/LocalLow/IronOak Games/FTK\save\KillVexor_2022_8_29_0.run
+Resuming version 1.1.00, difficulty Easy
+Loading HexInfo
+[NetworkingPeer.SendMonoMessage] Exiting
+Loading Towns
+Loading MiniHex
+Sending batch 0 count = 16
+Sending batch 1 count = 13
+Sending batch 2 count = 20
+Sending batch 3 count = 23
+Sending batch 4 count = 20
+Sending batch 5 count = 10
+InitalizePOIMapData time 0.06982422
+Game Difficulty Set: Easy
+1_GoToWoodsmoke QuestDefFillOut
+1_Multi QuestDefFillOut
+1_DestroyCultDevice QuestDefFillOut
+1_KillCultists QuestDefFillOut
+1_Multi2 QuestDefFillOut
+1_GlitteringMines QuestDefFillOut
+1_OptionalMead QuestDefFillOut
+2_GoToParid QuestDefFillOut
+[PHOTONLISTENER] OnDisconnectedFromPhoton called 1 time(s)
+GameLogic::OnDisconnectedFromPhoton
+PrepareToDisconnect
+[NetworkingPeer.SendMonoMessage] Exiting
+The referenced script on this Behaviour (Game Object 'travelToButton') is missing!
+ 
+(Filename:  Line: 1753)
+
+The referenced script on this Behaviour (Game Object 'FastTravelMenu') is missing!
+ 
+(Filename:  Line: 1753)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Discord: shutdown
+UnloadTime: 283.094800 ms
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Discord: init
+
+Unloading 352 unused Assets to reduce memory usage. Loaded Objects now: 165647.
+Total: 316.525200 ms (FindLiveObjects: 14.638000 ms CreateObjectMapping: 19.750600 ms MarkObjects: 280.749500 ms  DeleteObjects: 1.385900 ms)
+
+[TableManager.Instance] Tablemanager is null - initializing instance
+[GameStart] VERSION: Release v1.1.00.11378 epic 64bit
+[GameStart] Args: System.String[]
+[GameStart] UNITY_STANDALONE_WIN
+[GameStart] FTK_RELEASE
+[GameStart] DEBUG_FTK_UI
+[GameStart] PUBLISH_EPIC
+[GameStart] FILE INPUT:
+{}
+Lorestore item ArmorStPatrick available == False
+Lorestore item BackpackSanta available == False
+Lorestore item BackpackValentine available == False
+Lorestore item HelmetEaster available == False
+Lorestore item HelmetNewYear available == False
+Lorestore item HelmetSanta available == False
+Lorestore item HelmetStPatrick available == False
+Lorestore item SkinFish available == False
+[EpicGamesHelper.Cleanup] Called
+GameLogic::OnApplicationQuit
+Discord: shutdown

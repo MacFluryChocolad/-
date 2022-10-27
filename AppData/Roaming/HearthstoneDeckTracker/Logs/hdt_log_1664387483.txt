@@ -1,0 +1,51 @@
+12:28:07 AM|Info|Core.Initialize >> HDT: 1.18.20.5945, Operating System: Windows 10 Enterprise 19043, .NET Framework: 528372
+12:28:07 AM|Info|Updater.StartupUpdateCheck >> Checking for updates
+12:28:07 AM|Info|Updater.GetReleaseUrl >> Downloading releases file
+12:28:08 AM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+12:28:11 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:28:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+12:28:13 AM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+12:28:13 AM|Info|ThemeManager.LoadThemes >> Found theme: classic
+12:28:13 AM|Info|ThemeManager.LoadThemes >> Found theme: dark
+12:28:13 AM|Info|ThemeManager.LoadThemes >> Found theme: frost
+12:28:13 AM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+12:28:13 AM|Info|GameV2.Reset >> -------- Reset ---------
+12:28:19 AM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:28:19 AM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:28:19 AM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:28:19 AM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:28:19 AM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:28:19 AM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:28:19 AM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+12:28:24 AM|Info|GameV2.Reset >> -------- Reset ---------
+12:28:25 AM|Info|BackupManager.Run >> Running BackupManager
+12:28:25 AM|Info|BackupManager.Run >> Deleting old backup: Backup_16092022.zip
+12:28:25 AM|Info|BackupManager.Run >> Creating backup for today
+12:28:25 AM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+12:28:25 AM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'F:\Hearthstone\Logs'
+12:28:25 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+12:28:26 AM|Info|HsReplayDecks.Load >> Loaded from disk: Count=1352, ServerTS=9/26/2022 9:34:32 AM, Downloaded=9/26/2022 1:02:15 PM Age=1.11:26:11.0896095
+12:28:26 AM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+12:28:26 AM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+12:28:27 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is not claimed
+12:28:27 AM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+12:28:27 AM|Info|HsReplayDecks.Load >> Complete: Count=1353, ServerTS=9/27/2022 5:14:22 PM, Downloaded=9/28/2022 12:28:27 AM Age=00:00:00.0156266
+0:29:07|Info|ErrorManager.AddError >> New error: Could not launch Hearthstone
+Please try again or launch Hearthstone manually.
+12:48:08 AM|Error|Updater.CheckForUpdates >> System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'api.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__36.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Hearthstone_Deck_Tracker.Utility.Updating.Updater.<GetUpdateManager>d__10.MoveNext() in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\Updating\Updater.Squirrel.cs:line 86
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Hearthstone_Deck_Tracker.Utility.Updating.Updater.<CheckForUpdates>d__8.MoveNext() in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\Updating\Updater.Squirrel.cs:line 35
+8:35:53|... 1 duplicate messages
+8:35:53|Info|MainWindow.Window_Closing >> Shutting down...

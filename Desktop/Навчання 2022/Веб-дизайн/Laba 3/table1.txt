@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <title>408-ІПЗ</title>
+	</head>
+<body>
+<div align="center"><H1 style="color:#32CD32;"> Успішність групи 408-ІПЗ </H1>
+    <main>
+   <table style="padding-top: 50px" cellpadding="10px" width="100%" align="center" border="1" bgcolor = "pink">
+    <tr>
+	 <td>№ по порядку</td>
+        <td>Прізвище</td>
+        <td>Группа</td>
+        <td colspan="10">Оцінка</td>
+	  <td>Середній бал</td>
+    </tr>
+    <tr>
+	<td>1</td>
+        <td>Баклашко Вікторія</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+    </tr>
+    <tr>
+	<td>2</td>
+
+        <td>Березівський Ігорь</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>3</td>
+
+        <td>Горобей Михаїл</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>4</td>
+
+        <td>Журавльов Віталій</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>5</td>
+
+        <td>Карп Данило</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>6</td>
+        <td>Ковтун Марія</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	   <td></td>
+    </tr>
+    <tr>
+	<td>7</td>
+
+        <td>Козачок Ярослав</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>8</td>
+
+        <td>Колесніченко Олексій</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>9</td>
+
+        <td>Копилевич Олександр</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>10</td>
+
+        <td>Лютик Дмитро</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>11</td>
+
+        <td>Нідельчук Олексій</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>12</td>
+
+        <td>Овсійчук Богдан</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>13</td>
+
+        <td>Окулов Кирилл</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>14</td>
+
+        <td>Свірідов Назар</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>15</td>
+
+        <td>Сергійчук Адам</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>16</td>
+
+        <td>Синюченко Денис</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>17</td>
+
+        <td>Удод Олександр</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>18</td>
+
+        <td>Шевченко Анатолій</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>19</td>
+
+        <td>Шевченко Вадим</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+
+    </tr>
+    <tr>
+	<td>20</td>
+        <td>Юрін Дмитро</td>
+        <td>408-ІПЗ</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	  <td></td>
+    </tr>
+</table>
+    </main>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<HTML>
+	<HEAD><TITLE>Фрейми</TITLE></HEAD>
+		<FRAMESET rows="25%,50%,25%">
+				<FRAME src="lab4_1.txt">
+			<FRAMESET cols="25%,75%">*/ вкладений фрейм*/
+				<FRAME src="lab4_2.txt"> 
+				<FRAME src="lab4_3.txt">
+			</FRAMESET>
+				<FRAME src="lab4_4.txt">
+		</FRAMESET>
+</HTML>

@@ -1,0 +1,30 @@
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.exe
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.deps.json
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.runtimeconfig.json
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.dll
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.pdb
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.csproj.AssemblyReference.cache
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.AssemblyInfoInputs.cache
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.AssemblyInfo.cs
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.csproj.CoreCompileInputs.cache
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.dll
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\refint\Лаба 12.dll
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.pdb
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.genruntimeconfig.cache
+C:\Users\oleks\Downloads\Telegram Desktop\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\ref\Лаба 12.dll
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.exe
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.deps.json
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.runtimeconfig.json
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.dll
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\bin\Debug\net6.0\Лаба 12.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.dll
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\refint\Лаба 12.dll
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\Лаба 12.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Telegram Desktop\Лаба 12\Лаба 10-11\Лаба 10-11\Лаба 10-11\obj\Debug\net6.0\ref\Лаба 12.dll

@@ -1,0 +1,12 @@
+<HTML>
+	<HEAD>
+		<TITLE>Untitled Document</TITLE>
+		<META http-equiv=" Content-Type" content="text/html; charset= windows-1251"></HEAD>
+			<FRAMESET cols="25%,*">
+ 					<FRAME name="menu" marginheight="3" marginwidth="4"  bordercolor="#00FF99" src="menu.html">
+				<FRAMESET  rows="85%,*">
+					<FRAME name="main" marginheight="4" scrolling="yes" frameborder="yes" bordercolor="#FF6600" src="1.html">
+					<FRAME name="logo" src="3.html">
+				</FRAMESET>
+			</FRAMESET>
+</HTML>

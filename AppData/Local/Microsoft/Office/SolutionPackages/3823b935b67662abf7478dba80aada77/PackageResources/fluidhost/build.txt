@@ -1,0 +1,4 @@
+COMMIT=https://office.visualstudio.com/ISS/_git/olk-win32-fluid/commit/1a8a0c49b17ce0cb9841db012263af3ce169b12f
+BUILD_NUMBER=20221004.2
+BRANCH=refs/heads/master
+LAST_UPDATED=Tue, 04 Oct 2022 16:58:43 GMT

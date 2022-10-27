@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Способи підключення стилів</title>
+<style type="text/css">
+.one {color: #CD5C5C;}
+.two {color: #E9967A;}
+</style>
+<style type="text/css">
+p.one {background-color: #DCDCDC; font-style: regular; font-size: 15;}
+p.two {background-color: #DCDCDC; font-style: bold; font-size: 20;}
+p.three {background-color: #DCDCDC; font-style: italic; font-size: 25;}
+</style>
+<style type="text/css">
+body {background-color: #AFEEEE;}
+h1 {background-color: #98FB98;
+font-size: 200%;
+color: #D8BFD8;
+text-align: center;}
+</style>
+<style>
+#firstheader {
+color: #FF00FF;
+font-weight: bold; 
+text-align: right; 
+}
+</style>
+</head>
+<body>
+<h1> Синтаксис CSS (1 приклад - змінив колір тексту та фону, та фону абзацу)</h1>
+<p class="one">CSS має дуже простий синтаксис. (2 приклад)
+<p class="two">Знаючи CSS, ви зможете створити якісні сайти (2 приклад)
+<p class="three"> Каскадні таблиці стилів являють собою опис різних елементів HTML і створені 
+вони для розширення властивостей останніх. Вперше стилі були запропоновані WWW Consorcium в
+рамках розробки специфікації HTML 3.0. Тут зміне(2 приклад Тут змінено )
+<div class="one"> Це  Текст, написаний світло-червоним колором. (3 приклад)
+<div class="two"> А це текст, написаний кремовим, помаренчево-чевоним кольором. (3 приклад)
+<h1 id="firstheader"> Останній приклад - firsthead*ер (4 приклад - змінив колір тексту та розміщення фрази)</h1> 
+</body>
+</html>

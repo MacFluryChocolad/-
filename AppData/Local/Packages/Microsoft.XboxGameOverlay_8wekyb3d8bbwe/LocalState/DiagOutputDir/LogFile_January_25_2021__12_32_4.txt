@@ -1,0 +1,3 @@
+[000:00:00:000][P][TimerTask][0x00001460] TimerTask::Run has been invoked.
+[000:00:00:007][P][BackgroundTaskManager][0x00001460] BroadcastBackgroundTask: Broadcast background task already registered.
+[000:00:00:007][P][TimerTask][0x00001460] TimerTask: Unregistering timer task

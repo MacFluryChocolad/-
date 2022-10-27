@@ -1,0 +1,9 @@
+<HTML>
+	<HEAD>
+		<TITLE>Untitled Document</TITLE>
+			<META http-equiv=" Content-Type" content="text/html; charset= windows-1251">
+	</HEAD>
+		<BODY bgcolor="#0099FF">
+			<H2> другий файл, завантажений у головний фрейм </H2>
+		</BODY>
+</HTML>

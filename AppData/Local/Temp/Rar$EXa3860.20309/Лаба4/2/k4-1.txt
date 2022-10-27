@@ -1,0 +1,7 @@
+<HTML>
+	<HEAD>
+		<TITLE>Кадр. Сторінка 4</TITLE>
+	</HEAD>
+	<BODY BGCOLOR="#FFFFFF">
+	</BODY>
+</HTML>

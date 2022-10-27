@@ -1,0 +1,23 @@
+"Stratix II" ../common/devinfo/stratixii ddb_armstrong.pll
+"Stratix GX" ../common/devinfo/stratixgx ddb_aurora.pll
+"Cyclone III" ../common/devinfo/cycloneiii ddb_cuda.pll
+"Cyclone II" ../common/devinfo/cycloneii ddb_cycloneii.pll
+"Cyclone IV E" ../common/devinfo/cycloneive ddb_cycloneive.pll
+"HardCopy II" ../common/devinfo/hardcopyii ddb_fusion.pll
+"HardCopy III" ../common/devinfo/hardcopyiii ddb_hcx.pll
+"HardCopy IV" ../common/devinfo/hardcopyiii ddb_hcxiv.pll
+MAX3000A ../common/devinfo/max3000a ddb_max3000a.pll
+MAX7000A ../common/devinfo/max7000a ddb_max7000a.pll
+MAX7000AE ../common/devinfo/max7000ae ddb_max7000ae.pll
+MAX7000B ../common/devinfo/max7000b ddb_max7000b.pll
+MAX7000S ../common/devinfo/max7000s ddb_max7000s.pll
+"Arria II GX" ../common/devinfo/arriaii ddb_piranha.pll
+"Cyclone IV GX" ../common/devinfo/cycloneivgx ddb_stingray.pll
+"Stratix II GX" ../common/devinfo/stratixiigx ddb_stratixiigx.pll
+"Arria GX" ../common/devinfo/arriagx ddb_stratixiigxlite.pll
+"Cyclone III LS" ../common/devinfo/cycloneiii ddb_tarpon.pll
+"Stratix IV" ../common/devinfo/stratixiv ddb_tgx.pll
+"Stratix III" ../common/devinfo/stratixiii ddb_titan.pll
+Cyclone ../common/devinfo/cyclone ddb_tornado.pll
+"MAX II" ../common/devinfo/maxii ddb_tsunami.pll
+Stratix ../common/devinfo/stratix ddb_yeager.pll
